@@ -1,0 +1,3 @@
+#+title: Socrates
+
+ . a knowledge base .
