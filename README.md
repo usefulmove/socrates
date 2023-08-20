@@ -1,0 +1,2 @@
+# socrates
+ . a knowledge base .
