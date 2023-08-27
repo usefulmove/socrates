@@ -1,3 +1,6 @@
 #+title: Socrates
 
  . a knowledge base .
+
+* Team Building
+[[./OKRs.org][OKRs]]
