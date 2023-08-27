@@ -1,0 +1,153 @@
+#+title: elisp
+
+* Lesson One
+If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
+
+#+begin_src elisp
+
+(progn
+  (blink-cursor-mode 0)
+  (setq evil-normal-state-cursor '(box "#00c0ff")))
+
+(let ()
+  (blink-cursor-mode 1)
+  (setq evil-normal-state-cursor '(box "#fff670")))
+
+;; forms
+(let ()
+  (sexp)
+  (sexp))
+
+(let ((a (sexp))
+      (b (sexp)))
+  (sexp)
+  (sexp))
+
+#+end_src
+
+
+A `let` binding evaluates each of its (S-expression) arguments after binding a series of of symbol definitions. The "empty let" contains no bindings and simply evaluates each of its arguments the way `begin` does in Scheme.
+
+#+begin_src racket
+
+(define (begin . args)
+  (cond ((null? args) #<void>) ; return a void value for an empty begin.
+        ((null? (cdr args)) (car args)) ; if last expression, return its value.
+        (else (car args) ; evaluate the first expression for its side-effects.
+              (apply begin (cdr args))))) ; recursively evaluate the rest.
+
+#+end_src
+
+
+* Define the relationship between `let` `lambda` and `begin` in Scheme?
+A lambda has the same form as a let. A let is a self-evaluating lambda form. A begin is an "empty let" form (a let with no bindings).
+
+((lambda (&rest args) ))
+
+#+begin_src racket
+
+(let ((a 2)
+      (b 8))
+  (* a b))
+
+((lambda (a b) (* a b)) ; self-evaluating lambda form.
+   2 8)
+
+#+end_src
+
+
+#+begin_src racket
+
+(begin
+  (sexp)
+  (sexp))
+
+((lambda () ; self-evaluating lambda form
+  (sexp)
+  (sexp)))
+
+(let ()
+  (sexp)
+  (sexp))
+
+#+end_src
+
+
+
+( Lisps help me "see" in code (forms). )
+
+
+#+begin_src elisp
+
+(define begin (sexps)
+  (mapcar 'eval sexps))
+
+#+end_src
+
+
+* Lesson Two
+
+In general, prefer the the more general `cond` form to the narrower `if`, unless clarity is clearly better.
+
+#+begin_src racket
+
+(define (begin . args)
+  (if (null? args)
+      #<void> ; return a void value for an empty begin.
+      (if (null? (cdr args))
+          (car args) ; if last expression, return its value.
+          (begin
+            (car args) ; evaluate the first expression for its side-effects.
+            (apply begin (cdr args)))))) ; recursively evaluate the rest.
+
+(define (begin . args)
+  (cond ((null? args) #<void>) ; return a void value for an empty begin.
+        ((null? (cdr args)) (car args)) ; if last expression, return its value.
+        (else (car args) ; evaluate the first expression for its side-effects.
+              (apply begin (cdr args))))) ; recursively evaluate the rest.
+
+#+end_src
+
+
+* Lesson Three
+
+Ponder the two choices below, let versus self-evaluating lambda. The self-executing lambda form is more obviously (and aesthetically) a functional programming form. It's elegant, if pedantic.
+
+#+begin_src elisp
+
+((lambda (base cap)
+  (cond ((or (< ord base)
+             (> ord (- cap 1))) ord) ; only modify characters in range
+        (t (+ base (mod (+ (- ord base) encryption-key)
+                        (- cap base)))))) 32 127)
+
+; vs
+
+(let* ((base 32)
+       (cap 127)
+       (range (- cap base)))
+  (cond ((or (< ord base)
+             (> ord (- cap 1))) ord) ; only modify characters in range
+        (t (+ base (mod (+ (- ord base) encryption-key)
+                        range)))))
+
+#+end_src
+
+
+* Lesson Four
+
+ascii conversion
+
+#+begin_src elisp
+
+;; character(s) to string
+(string ?a) ; => "a"
+(string ?0 ?3 ?1 ?2) ; => "0312"
+
+;; string to characers
+(string-to-list "0312") => ; (48 51 49 50)
+
+;; characters are integers
+(= ?c 99)
+
+#+end_src
