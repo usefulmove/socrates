@@ -40,9 +40,36 @@ A `let` binding evaluates each of its (S-expression) arguments after binding a s
 
 
 * Define the relationship between `let` `lambda` and `begin` in Scheme?
-A lambda has the same form as a let. A let is a self-evaluating lambda form. A begin is an "empty let" form (a let with no bindings).
 
-((lambda (&rest args) ))
+#+begin_src elisp
+
+;; begin is a let with no bindings.
+(begin
+  (sexp)
+  (sexp))
+
+(let ()
+  (sexp)
+  (sexp))
+
+(lambda ()
+  (sexp)
+  (sexp))
+
+
+;; a let is an immediately-invoked (lambda) function expression (iife).
+(let ((a (sexp-a))
+      (b (sexp-b)))
+  (sexp)
+  (sexp))
+
+((lambda (a b)
+  (sexp)
+  (sexp))
+ (sexp-a)
+ (sexp-b))
+
+#+end_src
 
 #+begin_src racket
 
@@ -69,6 +96,19 @@ A lambda has the same form as a let. A let is a self-evaluating lambda form. A b
 (let ()
   (sexp)
   (sexp))
+
+
+;; let is an immediately-invoked lambda function expression (iife).
+(let ((a (sexp-a))
+      (b (sexp-b)))
+  (sexp)
+  (sexp))
+
+((lambda (a b)
+  (sexp)
+  (sexp))
+ (sexp-a)
+ (sexp-b))
 
 #+end_src
 
@@ -116,10 +156,11 @@ Ponder the two choices below, let versus self-evaluating lambda. The self-execut
 #+begin_src elisp
 
 ((lambda (base cap)
-  (cond ((or (< ord base)
-             (> ord (- cap 1))) ord) ; only modify characters in range
-        (t (+ base (mod (+ (- ord base) encryption-key)
-                        (- cap base)))))) 32 127)
+   (cond ((or (< ord base)
+              (> ord (- cap 1))) ord) ; only modify characters in range
+         (t (+ base (mod (+ (- ord base) encryption-key)
+                         (- cap base))))))
+ 32 127)
 
 ; vs
 
