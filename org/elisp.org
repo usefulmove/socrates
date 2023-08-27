@@ -112,6 +112,8 @@ A `let` binding evaluates each of its (S-expression) arguments after binding a s
 
 #+end_src
 
+In general, the let expression is preferred over the iife lambda expression for clarity.
+
 
 
 ( Lisps help me "see" in code (forms). )
@@ -192,3 +194,6 @@ ascii conversion
 (= ?c 99)
 
 #+end_src
+
+
+* Lesson five
