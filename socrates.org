@@ -1,6 +1,10 @@
 #+title: Socrates
 
- . a knowledge base .
+ . a simple knowledge base .
 
-* Team Building
+* coding
+[[~/repos/socrates/org/elisp.org][emacs lisp]]
+[[~/repos/socrates/org/jupyter.org][notebooks]]
+
+* team building
 [[./OKRs.org][OKRs]]
