@@ -225,3 +225,25 @@ ascii conversion
 
 
 * Lesson Five
+
+Guards
+
+#+begin_src python
+
+def f()
+  if condition: return
+
+  otherstuff
+
+#+end_src
+
+#+begin_src elisp
+
+(lambda ()
+  (if condition ()
+      otherstuff))
+
+#+end_src
+
+
+* Lesson Six
