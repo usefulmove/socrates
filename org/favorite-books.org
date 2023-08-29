@@ -1,0 +1,36 @@
+#+title: favorite books
+
+* fiction
+1. Eva's Man by Gayl Jones
+2. The Brothers Karamazov by Fyodor Dostoevsky (Richard Pevear and Larissa Volokhonsky translation)
+3. Corregidora by Gayl Jones
+4. Crime and Punishment by Fyodor Dostoevsky (Pevear-Volokhonsky and Oliver Ready translations)
+5. The Johnson Girls by Toni Cade Bambara (short story)
+6. The Boy, The Mole, The Fox and the Horse by Charlie Mackesy
+7. Notes from Underground by Fyodor Dostoevsky (Pevear-Volokhonsky translation)
+8. Zikora by Chimamanda Ngozi Adichie
+9. Going to Meet the Man by James Baldwin (short story)
+10. Gorilla, My Love by Toni Cade Bambara (short story)
+11. The Handmaid’s Tale by Margaret Atwood
+12. La Negra Blanca (short story) by Roxane Gay
+13. Passion by Alice Munroe (short story)
+14. Désirée's Baby (short story) by Kate Chopin
+
+* non-fiction
+1. The Fire Next Time by James Baldwin
+2. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+3. Trillion Dollar Coach by Eric Schmidt, Jonathan Rosenberg , et al.
+4. Atomic Habits by James Clear
+5. Rape New York by Jana Leo
+6. The Heart of the Buddha’s Teaching by Thich Nhat Hanh
+7. The Power of Now by Eckhart Tolle
+8. The Seven Habits of Highly Effective People by Stephen Covey
+9. How to Win Friends and Influence People by Dale Carnegie
+10. Integrity by Stephen L. Carter
+11. The Immortal Game: A History of Chess by David Shenk
+12. The Human Side of Chess by Fred Reinfeld
+13. The Splendid and the Vile by Erik Larson
+
+* poetry
+1. haruko/love poems by June Jordan
+2. The Complete Poems of Emily Dickinson (edited by Thomas Johnson)
