@@ -9,3 +9,6 @@
 
 * team building
 [[./OKRs.org][OKRs]]
+
+* emacs
+[[~/repos/socrates/org/introduction-to-emacs.org][introduction]]
