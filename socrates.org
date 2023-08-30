@@ -2,27 +2,28 @@
 
  . a simple knowledge base .
 
-* coding
-[[~/repos/socrates/org/fp.org][functional programming]]
-[[~/repos/socrates/org/elisp.org][emacs lisp]]
-[[~/repos/socrates/org/jupyter.org][org notebooks]]
-[[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
-
-* team building
-[[./OKRs.org][OKRs]]
-
-* emacs
-[[~/repos/socrates/org/introduction-to-emacs.org][introduction]]
-[[~/repos/gum/gum.org][gum]]
-
-* books
-[[~/repos/socrates/org/favorite-books.org][favorite books]]
-
 * philosophy
 [[~/repos/socrates/org/meditations-on-moloch.org][meditations on moloch]]
 [[~/repos/socrates/org/selfishness.org][selfishness]]
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
 [[~/repos/socrates/org/being.org][being]]
 
+* books
+[[~/repos/socrates/org/favorite-books.org][favorite books]]
+
+* team building
+[[./OKRs.org][OKRs]]
+
+* coding
+[[~/repos/socrates/org/fp.org][functional programming]]
+[[~/repos/socrates/org/elisp.org][emacs lisp]]
+[[~/repos/socrates/org/jupyter.org][org notebooks]]
+[[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
+
+* emacs
+[[~/repos/socrates/org/introduction-to-emacs.org][introduction]]
+[[~/repos/gum/gum.org][gum]]
+
 * artificial intelligence (ai)
 transformer ([[https://arxiv.org/abs/1706.03762][attention is all you need]])
+
