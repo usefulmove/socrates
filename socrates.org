@@ -3,9 +3,10 @@
  . a simple knowledge base .
 
 * coding
+[[~/repos/socrates/org/fp.org][functional programming]]
 [[~/repos/socrates/org/elisp.org][emacs lisp]]
 [[~/repos/socrates/org/jupyter.org][org notebooks]]
-[[~/repos/socrates/org/fp.org][functional programming]]
+[[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
 
 * team building
 [[./OKRs.org][OKRs]]
@@ -18,7 +19,7 @@
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
 
 * [[~/repos/socrates/org/philosophy.org][philosophy]]
-[[~/repos/socrates/src/meditations-on-moloch.org][meditations on moloch]]
+[[~/repos/socrates/org/meditations-on-moloch.org][meditations on moloch]]
 [[~/repos/socrates/org/selfishness.org][selfishness]]
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
 [[~/repos/socrates/org/being.org][being]]
