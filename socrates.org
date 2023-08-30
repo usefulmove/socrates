@@ -16,3 +16,7 @@
 
 * books
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
+
+* [[~/repos/socrates/org/philosophy.org][philosophy]]
+[[~/repos/socrates/src/meditations-on-moloch.org][meditations on moloch]]
+[[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
