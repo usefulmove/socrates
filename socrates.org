@@ -18,8 +18,11 @@
 * books
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
 
-* [[~/repos/socrates/org/philosophy.org][philosophy]]
+* philosophy
 [[~/repos/socrates/org/meditations-on-moloch.org][meditations on moloch]]
 [[~/repos/socrates/org/selfishness.org][selfishness]]
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
 [[~/repos/socrates/org/being.org][being]]
+
+* artificial intelligence (ai)
+transformer ([[https://arxiv.org/abs/1706.03762][attention is all you need]])
