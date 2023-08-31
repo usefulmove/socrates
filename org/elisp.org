@@ -1,4 +1,4 @@
-#+title: elisp
+#+title: Emacs Lisp
 
 * Lesson One
 If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
@@ -247,3 +247,20 @@ def f()
 
 
 * Lesson Six
+
+Macros
+
+#+begin_src elisp
+
+(defmacro for-comp (sym lst exp)
+  (list 'mapcar (list 'lambda (list sym) exp) lst))
+
+(defmacro for-comp (sym lst exp) ; using quasi-quotes
+  `(mapcar (lambda (,sym) ,exp) ,lst))
+
+; prototype ("for comprehension")
+(for-comp a '(3 1 2) (* a a)) ; => (9 1 4)
+
+;(mapcar (lambda (a) (* a a)) '(3 1 2))
+
+#+end_src
