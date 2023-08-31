@@ -14,7 +14,7 @@
 * team building
 [[./OKRs.org][OKRs]]
 [[~/repos/socrates/org/engagement.org][engagement]]
-** hiring
+** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
 
 * coding
