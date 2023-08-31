@@ -1,0 +1,13 @@
+#+title: Interview Questions
+
+Questions (PMO)
+1. Ask candidate for a quick intro of themselves to tell you about their career arc and what interests them in the PM role.
+2. Tell us about the most successful project you led and what you contributed to it?
+3. What tools and techniques do you use to lead teams on dynamic and aggressive projects? Provide specific examples.
+4. Share an example of a time your team had a tech or operational failure. How did you quickly lead them through root cause identification and a new plan to move forward?
+5. Provide an example of a project you were leading where you and your team anticipated and mitigated a technical or operational risks?
+6. Describe how you have overcome “siloing” or brought together units that may or may not have been under your authority but needed to work together?
+7. Describe an experience where you aligned stakeholders at various levels in the organization who had competing or conflicting desires. How did you drive resolution?
+8. When you think of yourself as a leader and a team member, is there anything you think you need to develop?
+9. When you think about your current role, what do you like most? What lights you up about it?
+10. In your experiences, you've had to work with and lead people to do hard things. How do you motivate and inspire people to reach high and accomplish the mission you've set out to do?
