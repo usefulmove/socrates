@@ -4,7 +4,6 @@
 If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
 
 #+begin_src elisp
-
 (progn
   (blink-cursor-mode 0)
   (setq evil-normal-state-cursor '(box "#00c0ff")))
@@ -22,27 +21,23 @@ If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a 
       (b (sexp)))
   (sexp)
   (sexp))
-
 #+end_src
 
 
 A `let` binding evaluates each of its (S-expression) arguments after binding a series of of symbol definitions. The "empty let" contains no bindings and simply evaluates each of its arguments the way `begin` does in Scheme.
 
 #+begin_src racket
-
 (define (begin . args)
   (cond ((null? args) #<void>) ; return a void value for an empty begin.
         ((null? (cdr args)) (car args)) ; if last expression, return its value.
         (else (car args) ; evaluate the first expression for its side-effects.
               (apply begin (cdr args))))) ; recursively evaluate the rest.
-
 #+end_src
 
 
 ** Define the relationship between `let` `lambda` and `begin` in Scheme?
 
 #+begin_src elisp
-
 ;; begin is a let with no bindings.
 (begin
   (sexp)
@@ -68,23 +63,19 @@ A `let` binding evaluates each of its (S-expression) arguments after binding a s
   (sexp))
  (sexp-a)
  (sexp-b))
-
 #+end_src
 
 #+begin_src racket
-
 (let ((a 2)
       (b 8))
   (* a b))
 
 ((lambda (a b) (* a b)) ; self-evaluating lambda form.
    2 8)
-
 #+end_src
 
 
 #+begin_src racket
-
 (begin
   (sexp)
   (sexp))
@@ -109,13 +100,11 @@ A `let` binding evaluates each of its (S-expression) arguments after binding a s
   (sexp))
  (sexp-a)
  (sexp-b))
-
 #+end_src
 
 The let expression is preferred over the iife lambda expression for expressiveness and readability, but there are times when the opposite is true.
 
 #+begin_src elisp
-
 (defun test-enc-round-trip (error-prelude)
   ((lambda (f s)
      (when (not (equal s (funcall f s)))
@@ -140,7 +129,6 @@ The let expression is preferred over the iife lambda expression for expressivene
       (error (concat
                error-prelude
                "error: round-trip encryption test(s) failed")))))
-
 #+end_src
 
 
@@ -148,10 +136,8 @@ The let expression is preferred over the iife lambda expression for expressivene
 
 
 #+begin_src elisp
-
 (define begin (sexps)
   (mapcar 'eval sexps))
-
 #+end_src
 
 
@@ -160,7 +146,6 @@ The let expression is preferred over the iife lambda expression for expressivene
 In general, prefer the the more general `cond` form to the narrower `if`, unless clarity is clearly better.
 
 #+begin_src racket
-
 (define (begin . args)
   (if (null? args)
       #<void> ; return a void value for an empty begin.
@@ -175,7 +160,6 @@ In general, prefer the the more general `cond` form to the narrower `if`, unless
         ((null? (cdr args)) (car args)) ; if last expression, return its value.
         (else (car args) ; evaluate the first expression for its side-effects.
               (apply begin (cdr args))))) ; recursively evaluate the rest.
-
 #+end_src
 
 
@@ -184,7 +168,6 @@ In general, prefer the the more general `cond` form to the narrower `if`, unless
 Ponder the two choices below, let versus self-evaluating lambda. The self-executing lambda form is more obviously (and aesthetically) a functional programming form. It's elegant, if pedantic.
 
 #+begin_src elisp
-
 ((lambda (base cap)
    (cond ((or (< ord base)
               (> ord (- cap 1))) ord) ; only modify characters in range
@@ -201,7 +184,6 @@ Ponder the two choices below, let versus self-evaluating lambda. The self-execut
              (> ord (- cap 1))) ord) ; only modify characters in range
         (t (+ base (mod (+ (- ord base) encryption-key)
                         range)))))
-
 #+end_src
 
 
@@ -210,7 +192,6 @@ Ponder the two choices below, let versus self-evaluating lambda. The self-execut
 ascii conversion
 
 #+begin_src elisp
-
 ;; character(s) to string
 (string ?a) ; => "a"
 (string ?0 ?3 ?1 ?2) ; => "0312"
@@ -220,7 +201,6 @@ ascii conversion
 
 ;; characters are integers
 (= ?c 99)
-
 #+end_src
 
 
@@ -229,20 +209,16 @@ ascii conversion
 Guards
 
 #+begin_src python
-
 def f()
   if condition: return
 
   otherstuff
-
 #+end_src
 
 #+begin_src elisp
-
 (lambda ()
   (if condition ()
       otherstuff))
-
 #+end_src
 
 
@@ -251,7 +227,6 @@ def f()
 Macros
 
 #+begin_src elisp
-
 (defmacro for-comp (sym lst exp)
   (list 'mapcar (list 'lambda (list sym) exp) lst))
 
@@ -262,5 +237,4 @@ Macros
 (for-comp a '(3 1 2) (* a a)) ; => (9 1 4)
 
 ;(mapcar (lambda (a) (* a a)) '(3 1 2))
-
 #+end_src
