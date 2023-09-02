@@ -1,5 +1,7 @@
 #+title: Functional Programming
 
+Functional programming directly addresses the fact that 75% of programming language conferences are focused on validation, and pure functional programming (coming from the category theory of mathematics) guarantees validation is possible.
+
 ```org
 * Common Functions
 

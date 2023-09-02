@@ -28,6 +28,28 @@ Doom is a configuration of [[https://en.wikipedia.org/wiki/GNU_Emacs][GNU Emacs]
 - export org documents to various formats including HTML, PDF, and more.
 - embed code blocks with support for multiple programming languages
 
+#+begin_src emacs-lisp
+(load-file "~/repos/epic/src/epic.el")
+
+(_thread 5
+  'sqrt
+  (lambda (n)
+    (- n 1))
+  (lambda (n)
+     (/ n 2)))
+
+(/ (- (sqrt 5)
+      1)
+   2)
+#+end_src
+
+
+| title        | role                 | worth it? |
+|--------------+----------------------+-----------|
+| Senior       | Director of Assholes | def. not  |
+| Longer title |                      | whatever  |
+|              |                      |           |
+
 
 * Emacs Lisp
 - Emacs built in C (30%) and Emacs Lisp (70%)
