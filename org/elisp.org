@@ -3,7 +3,7 @@
 * Lesson One
 If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 (progn
   (blink-cursor-mode 0)
   (setq evil-normal-state-cursor '(box "#00c0ff")))
@@ -37,7 +37,7 @@ A `let` binding evaluates each of its (S-expression) arguments after binding a s
 
 ** Define the relationship between `let` `lambda` and `begin` in Scheme?
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 ;; begin is a let with no bindings.
 (begin
   (sexp)
@@ -104,7 +104,7 @@ A `let` binding evaluates each of its (S-expression) arguments after binding a s
 
 The let expression is preferred over the iife lambda expression for expressiveness and readability, but there are times when the opposite is true.
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 (defun test-enc-round-trip (error-prelude)
   ((lambda (f s)
      (when (not (equal s (funcall f s)))
@@ -135,7 +135,7 @@ The let expression is preferred over the iife lambda expression for expressivene
 ( Lisps help me "see" in code (forms). )
 
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 (define begin (sexps)
   (mapcar 'eval sexps))
 #+end_src
@@ -167,7 +167,7 @@ In general, prefer the the more general `cond` form to the narrower `if`, unless
 
 Ponder the two choices below, let versus self-evaluating lambda. The self-executing lambda form is more obviously (and aesthetically) a functional programming form. It's elegant, if pedantic.
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 ((lambda (base cap)
    (cond ((or (< ord base)
               (> ord (- cap 1))) ord) ; only modify characters in range
@@ -191,7 +191,7 @@ Ponder the two choices below, let versus self-evaluating lambda. The self-execut
 
 ascii conversion
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 ;; character(s) to string
 (string ?a) ; => "a"
 (string ?0 ?3 ?1 ?2) ; => "0312"
@@ -215,7 +215,7 @@ def f()
   otherstuff
 #+end_src
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 (lambda ()
   (if condition ()
       otherstuff))
@@ -226,15 +226,22 @@ def f()
 
 Macros
 
-#+begin_src elisp
+#+begin_src emacs-lisp
 (defmacro for-comp (sym lst exp)
   (list 'mapcar (list 'lambda (list sym) exp) lst))
+;(mapcar (lambda (a) (* a a)) '(3 1 2))
 
 (defmacro for-comp (sym lst exp) ; using quasi-quotes
   `(mapcar (lambda (,sym) ,exp) ,lst))
 
 ; prototype ("for comprehension")
 (for-comp a '(3 1 2) (* a a)) ; => (9 1 4)
+#+end_src
 
-;(mapcar (lambda (a) (* a a)) '(3 1 2))
+#+begin_src emacs-lisp
+(defmacro _l (sym exp)
+  `(lambda ,sym ,exp))
+
+; prototype
+(mapcar (_l (a) (* a a a)) '(3 1 2))
 #+end_src
