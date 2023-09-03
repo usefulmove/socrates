@@ -9,8 +9,10 @@
 [[~/repos/socrates/org/being.org][being]]
 [[~/repos/socrates/org/too-broken.org][too broken to be loved]]
 
+
 * books
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
+
 
 * team building
 [[./OKRs.org][OKRs]]
@@ -18,15 +20,21 @@
 ** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
 
+
 * coding
+
+"Language-oriented development allows us to shape our tools around the unique linguistics of our problems, making our code more intuitive and expressive. When combined with test-balanced development, we focus not just on covering every inch, but on ensuring that our software's core narrative remains unbroken and robust. It's a harmonious dance between the poetry of our language and the rhythm of our tests." — Alistair Haldane, Practical Functional Programming, 2023
+
 [[~/repos/socrates/org/fp.org][functional programming]]
 [[~/repos/socrates/org/elisp.org][emacs lisp]]
 [[~/repos/socrates/org/jupyter.org][org notebooks]]
 [[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
 
+
 * emacs
 [[~/repos/socrates/org/introduction-to-emacs.org][introduction]]
 [[~/repos/gum/gum.org][gum]]
+
 
 * artificial intelligence (ai)
 transformer ([[https://arxiv.org/abs/1706.03762][attention is all you need]])
