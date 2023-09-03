@@ -29,7 +29,7 @@ Doom is a configuration of [[https://en.wikipedia.org/wiki/GNU_Emacs][GNU Emacs]
 - embed code blocks with support for multiple programming languages
 
 #+begin_src emacs-lisp
-(load-file "~/repos/epic/src/epic.el")
+(load-file "~/repos/cora/src/cora.el")
 
 (_thread 5
   'sqrt
