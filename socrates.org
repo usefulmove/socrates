@@ -2,6 +2,7 @@
 
  . a simple knowledge base .
 
+
 * philosophy
 [[~/repos/socrates/org/meditations-on-moloch.org][meditations on moloch]]
 [[~/repos/socrates/org/selfishness.org][selfishness]]
@@ -23,17 +24,19 @@
 
 * coding
 
-"Language-oriented development allows us to shape our tools around the unique linguistics of our problems, making our code more intuitive and expressive. When combined with test-balanced development, we focus not just on covering every inch, but on ensuring that our software's core narrative remains unbroken and robust. It's a harmonious dance between the poetry of our language and the rhythm of our tests." — Alistair Haldane, Practical Functional Programming, 2023
+"Language-oriented development allows us to shape our tools around the unique linguistics of our problems, making our code more intuitive and expressive. When combined with test-balanced development, we focus not just on covering every inch, but on ensuring that our software's core narrative remains unbroken and robust. It's a harmonious dance between the poetry of our language and the rhythm of our tests." — Alistair Haldane, practical functional programmer, 2023
 
 [[~/repos/socrates/org/fp.org][functional programming]]
 [[~/repos/socrates/org/elisp.org][emacs lisp]]
 [[~/repos/socrates/org/jupyter.org][org notebooks]]
 [[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
+[[~/repos/dcode/src/dcode.el][dcode]]
 
 
 * emacs
 [[~/repos/socrates/org/introduction-to-emacs.org][introduction]]
 [[~/repos/gum/gum.org][gum]]
+[[~/repos/socrates/org/emacs-notes.org][notes]]
 
 
 * artificial intelligence (ai)
