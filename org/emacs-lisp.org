@@ -248,4 +248,5 @@ Macros
 
 
 * Lesson Seven
-An "invalid function" error in Emacs Lisp (if you are coming from other Lisps) often means you haven't used `funcall` (which is unnecessary in most).
+An "invalid function" error in Emacs Lisp (if you are coming from other Lisps) often means you haven't used `funcall` (which is unnecessary in many Lisp dialects).
+
