@@ -1,0 +1,71 @@
+#+title: The Roots Of Lisp by Paul Graham – January 18, 2002
+
+[[[~/repos/socrates/support/jmc.pdf][paper]]]
+
+"The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be writtin in itself."
+
+
+* Seven Primitive Operators
+(operator arg1 arg2 arg3 ...)
+
+** quote
+(quote x) returns x
+
+#+begin_src emacs-lisp
+(quote x) ; => x
+'x ; => x
+
+(quote (a b c)) ; => (a b c)
+#+end_src
+
+"Code and data are made out of the same data structures, and the quote operator is the way we distinguish between them."
+
+
+** atom?
+returns t (true) if the argument is not a cons cell, otherwise returns nil (false).
+
+#+begin_src emacs-lisp
+(atom 8) ; => t
+(atom ()) ; => t
+(atom (list 1 2 3)) ; => nil
+#+end_src
+
+
+** eq?
+return t (true) if the values of the arguments are the same atom or both the empty list, otherwise returns nil (false).
+
+#+begin_src emacs-lisp
+(eq 8 8) ; => t
+(eq '() '()) ; => t
+(eq 'a 'b) ; -> nil
+#+end_src
+
+
+
+** car and cdr
+
+#+begin_src emacs-lisp
+(car '(3 1 2)) ; => 3
+(cdr '(3 1 2)) ; => (1 2)
+#+end_src
+
+
+** cons
+
+#+begin_src emacs-lisp
+(cons 3 '(1 2)) ; => (3 1 2)
+(cons 'a (cons 'b (cons 'c '()))) ; => (a b c)
+#+end_src
+
+
+** cond
+(cond (p1 e1) ... (pn en))
+predicate expressions (pi) in each list argument are evaluated in order until one returns t (true). when one is found, the value of the corresponding expression (ei) is returned as the value of the whole cond expression.
+
+#+begin_src emacs-lisp
+(cond ((eq 'a 'b) 'one)
+      ((atom 'a) 'two)) ; => two
+#+end_src
+
+
+Note:  "In five of our seven primitive operators, the arguments are always evaluated when an expression beginning with that operator is evaluated. We call an operator of that type a function."
