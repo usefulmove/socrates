@@ -9,6 +9,7 @@
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
 [[~/repos/socrates/org/being.org][being]]
 [[~/repos/socrates/org/too-broken.org][too broken to be loved]]
+[[~/repos/socrates/org/letter.org][letter to an unborn son]]
 
 
 * books
