@@ -262,3 +262,24 @@ Recursive Anonymous Functions
                             (funcall fib (- n 2))))))))
   (funcall fib 38)) ; 39088169
 #+end_src
+
+
+* Lesson Nine
+
+Optional Function Arguments
+
+#+begin_src emacs-lisp
+(defun test (a b &optional c)
+  (unless c (setq c 10))
+  (+ a b c))
+
+(defun test (&rest args)
+  (+ (car args)
+     (cadr args)
+     (if (= 2 (length args))
+         10
+         (caddr args))))
+
+(test 1 2 3) ; => 6
+(test 1 2) ; => 13
+#+end_src
