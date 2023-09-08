@@ -107,10 +107,12 @@ Note:  "In five of our seven primitive operators, the arguments are always evalu
                                       (append. (pair. (cadar e) (evlis. (cdr e) a))
                                                a)))))
 
+
 (defun evcon. (c a)
   (cond ((eval. (caar c) a)
          (eval. (cadar c) a))
         (t (evcon. (cdr c) a))))
+
 
 (defun evlis. (m a)
   (cond ((null m) '())
