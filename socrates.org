@@ -5,6 +5,7 @@
 
 * philosophy
 [[~/repos/socrates/org/meditations-on-moloch.org][meditations on moloch]]
+[[~/repos/socrates/org/will-to-power.org][will to power]]
 [[~/repos/socrates/org/selfishness.org][selfishness]]
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
 [[~/repos/socrates/org/being.org][being]]
