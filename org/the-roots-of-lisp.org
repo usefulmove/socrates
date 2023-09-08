@@ -5,6 +5,7 @@
 "The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be writtin in itself."
 
 
+
 * Seven Primitive Operators
 (operator arg1 arg2 arg3 ...)
 
@@ -68,4 +69,16 @@ predicate expressions (pi) in each list argument are evaluated in order until on
 #+end_src
 
 
-Note:  "In five of our seven primitive operators, the arguments are always evaluated when an expression beginning with that operator is evaluated. We call an operator of that type a function."
+Note:  "In five of our seven primitive operators, the arguments are always evaluated when an expression beginning with that operator is evaluated. We call an operator of that type a function (quote and cond are evaluated differently)."
+
+
+
+* Recursive Anonymous Functions
+
+#+begin_src emacs-lisp
+(letrec ((fib (lambda (n)
+                (cond ((< n 2) n)
+                      (t (+ (funcall fib (- n 1))
+                            (funcall fib (- n 2))))))))
+  (funcall fib 38)) ; 39088169
+#+end_src
