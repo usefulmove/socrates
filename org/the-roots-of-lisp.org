@@ -82,3 +82,9 @@ Note:  "In five of our seven primitive operators, the arguments are always evalu
                             (funcall fib (- n 2))))))))
   (funcall fib 38)) ; 39088169
 #+end_src
+
+
+
+* The Surprise
+
+eval
