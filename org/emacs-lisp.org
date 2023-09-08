@@ -1,5 +1,7 @@
 #+title: Emacs Lisp
 
+
+
 * Lesson One
 If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
 
@@ -141,6 +143,7 @@ The let expression is preferred over the iife lambda expression for expressivene
 #+end_src
 
 
+
 * Lesson Two
 
 In general, prefer the the more general `cond` form to the narrower `if`, unless clarity is clearly better.
@@ -161,6 +164,7 @@ In general, prefer the the more general `cond` form to the narrower `if`, unless
         (else (car args) ; evaluate the first expression for its side-effects.
               (apply begin (cdr args))))) ; recursively evaluate the rest.
 #+end_src
+
 
 
 * Lesson Three
@@ -187,6 +191,7 @@ Ponder the two choices below, let versus self-evaluating lambda. The self-execut
 #+end_src
 
 
+
 * Lesson Four
 
 ascii conversion
@@ -202,6 +207,7 @@ ascii conversion
 ;; characters are integers
 (= ?c 99)
 #+end_src
+
 
 
 * Lesson Five
@@ -220,6 +226,7 @@ def f()
   (if condition ()
       otherstuff))
 #+end_src
+
 
 
 * Lesson Six
@@ -247,8 +254,10 @@ Macros
 #+end_src
 
 
+
 * Lesson Seven
 An "invalid function" error in Emacs Lisp (if you are coming from other Lisps) often means you haven't used `funcall` (which is unnecessary in many Lisp dialects).
+
 
 
 * Lesson Eight
@@ -262,6 +271,7 @@ Recursive Anonymous Functions
                             (funcall fib (- n 2))))))))
   (funcall fib 38)) ; 39088169
 #+end_src
+
 
 
 * Lesson Nine
