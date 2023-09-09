@@ -1,0 +1,21 @@
+#+title: Attention Is All You Need
+
+
+([[https://arxiv.org/abs/1706.03762][paper]])
+
+
+The "Attention Is All You Need" paper, published in 2017 by Vaswani et al., introduced the Transformer model, a novel approach to neural network architecture that primarily relies on the attention mechanism, rather than recurrent or convolutional layers. This innovation led to significant improvements in the performance of natural language processing tasks such as machine translation, and set the foundation for many state-of-the-art models like BERT and GPT.
+
+The key features of the Transformer model include:
+
+1. Self-attention mechanism: This allows the model to weigh the importance of different words in the input sequence, enabling it to better capture long-range dependencies and context.
+
+2. Positional encoding: As the model lacks recurrence and convolution, positional encoding is used to inject information about the position of words in the sequence, allowing the model to understand the order of words.
+
+3. Multi-head attention: Instead of using a single attention mechanism, the model employs multiple attention heads that learn different representations and relationships among words, improving the overall expressiveness of the model.
+
+4. Layer normalization and residual connections: These techniques help stabilize the training process and mitigate the vanishing gradient problem in deep networks.
+
+5. Encoder-decoder architecture: The Transformer model consists of an encoder to process the input sequence and a decoder to generate the output sequence, both of which are composed of multiple stacked layers.
+
+The paper demonstrated that the Transformer model outperformed existing state-of-the-art models in machine translation benchmarks, particularly in terms of speed and parallelization, making it a groundbreaking contribution to the field of natural language processing.

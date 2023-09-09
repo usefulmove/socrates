@@ -45,4 +45,4 @@
 
 
 * artificial intelligence (ai)
-transformer ([[https://arxiv.org/abs/1706.03762][attention is all you need]])
+transformer architecture ([[~/repos/socrates/org/attention-is-all-you-need.org][attention is all you need]])
