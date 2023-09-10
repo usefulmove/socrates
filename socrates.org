@@ -47,7 +47,7 @@ amaranthine skies caressed the gentle whispers of the zephyr, weaving
 an ephemeral symphony of love that intertwined the souls of all living
 beings in the tender embrace of nature's eternal harmony ...
 
-[[~/repos/socrates/org/transformer.org][transformer architecture]] ([[~/repos/socrates/org/attention-is-all-you-need.org][attention is all you need]])
+transformer architecture (paper: [[~/repos/socrates/org/attention-is-all-you-need.org][attention is all you need]])
 
 
 * emacs
