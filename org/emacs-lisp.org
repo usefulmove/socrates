@@ -293,3 +293,23 @@ Optional Function Arguments
 (test 1 2 3) ; => 6
 (test 1 2) ; => 13
 #+end_src
+
+
+
+* Lesson Ten
+
+Hash tables
+
+#+begin_src emacs-lisp
+; create empty hash table
+(setq hash (make-hash-table :test 'equal))
+
+; add key-value pairs
+(puthash 'a 2 hash)
+(puthash 'b 8 hash)
+(puthash '2 20 hash)
+
+; retrieve value
+(gethash 'a hash) ; => 2
+(gethash 2 hash) ; => 20
+#+end_src
