@@ -313,3 +313,30 @@ Hash tables
 (gethash 'a hash) ; => 2
 (gethash 2 hash) ; => 20
 #+end_src
+
+
+
+* Lesson Eleven
+
+Structs
+
+#+begin_src emacs-lisp
+(require 'cl-lib)
+
+(cl-defstruct human
+  age
+  male?
+  height
+  weight)
+
+(setq bob (make-human
+            :age 30
+            :male? t
+            :height 58
+            :weight 205))
+
+(human-weight bob)
+#+end_src
+
+#+RESULTS:
+: 205
