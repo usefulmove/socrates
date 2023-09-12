@@ -323,19 +323,19 @@ Structs
 #+begin_src emacs-lisp
 (require 'cl-lib)
 
-(cl-defstruct human
+(cl-defstruct person
   age
   male?
   height
   weight)
 
-(setq bob (make-human
+(setq bob (make-person
             :age 30
             :male? t
             :height 58
             :weight 205))
 
-(human-weight bob)
+(person-weight bob)
 #+end_src
 
 #+RESULTS:
