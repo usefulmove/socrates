@@ -384,3 +384,35 @@ Threading Macro for Function Composition
   (_ (- % 1))
   (_ (/ % 2))) ; 0.6180339887498949
 #+end_src
+
+
+
+* Lesson Fourteen
+
+Closures and Lexical Scoping
+
+#+begin_src emacs-lisp
+(setq lexical-binding t)
+(load-file "~/repos/cora/src/cora.el")
+
+
+(defun make-counter (start)
+  (let ((count start)) ; lisp closures are beautiful
+    (lambda ()
+      (setq count (inc count))
+      count)))
+
+
+(fset 'cntr (make-counter 0))
+
+(cntr) ; 1
+(cntr) ; 2
+(cntr) ; 3
+
+(fset'cntr2 (make-counter 200))
+
+(cntr2) ; 201
+(cntr2) ; 202
+(cntr) ; 4
+(cntr2) ; 203
+#+end_src
