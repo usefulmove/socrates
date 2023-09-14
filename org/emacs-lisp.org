@@ -1,6 +1,9 @@
 #+title: Emacs Lisp
 
 
+#+begin_src emacs-lisp
+(load-file "~/repos/cora/src/cora.el") ; load Cora library
+#+end_src
 
 * Lesson One
 If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
@@ -352,11 +355,8 @@ Sorting
 (sort (copy-sequence lst) '<=) ; (0 1 2 3 4 5)
 #+end_src
 
-
-custom sort function
-
 #+begin_src emacs-lisp
-(setq counts-hash (counter '(3 1 2 5 4 8 3 1 5 5)))
+(setq counts-hash (tally '(3 1 2 5 4 8 3 1 5 5)))
 
 (setq counts (let ((out '()))
                (maphash
@@ -370,4 +370,17 @@ custom sort function
   (lambda (pair1 pair2)
     (> (cdr pair1)
        (cdr pair2)))) ; ((5 . 3) (1 . 2) (3 . 2) (8 . 1) (4 . 1) (2 . 1))
+#+end_src
+
+
+
+* Lesson Thirteen
+
+Threading Macro for Function Composition
+
+#+begin_src emacs-lisp
+(thread 5
+  'sqrt
+  (_ (- % 1))
+  (_ (/ % 2))) ; 0.6180339887498949
 #+end_src
