@@ -5,6 +5,8 @@
 (load-file "~/repos/cora/src/cora.el") ; load Cora library
 #+end_src
 
+
+
 * Lesson One
 If you think to use a `progn` binding (`begin` in Racket Scheme), instead use a `let` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
 
@@ -415,4 +417,25 @@ Closures and Lexical Scoping
 (cntr2) ; 202
 (cntr) ; 4
 (cntr2) ; 203
+#+end_src
+
+
+Closure as Container
+
+#+begin_src emacs-lisp
+(setq lexical-binding t)
+
+(defun make-task (s)
+  (lambda (&rest args)
+    (cond ((equal? :show (car args)) (concat "task: " s))
+          ((equal? :rev (car args)) (reverse s))
+          ((equal? :update (car args)) (setq s (cadr args)))
+          (t "unknown command"))))
+
+(fset 'test-task (make-task "this is a test"))
+
+(test-task :show) ; task: this is a test
+(test-task :rev) ; tset a si siht
+(test-task :update "this is an updated test")
+(test-task :show) ; task: this is an updated test
 #+end_src
