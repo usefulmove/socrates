@@ -3,6 +3,7 @@
 
 #+begin_src emacs-lisp
 (load-file "~/repos/cora/src/cora.el") ; load Cora library
+(setq lexical-binding t)
 #+end_src
 
 
@@ -438,4 +439,19 @@ Closure as Container
 (test-task :rev) ; tset a si siht
 (test-task :update "this is an updated test")
 (test-task :show) ; task: this is an updated test
+#+end_src
+
+
+
+* Lesson Fifteen
+
+Named Let
+
+#+begin_src emacs-lisp
+(setq lexical-binding t)
+
+(named-let fib ((n 10))
+  (if (< n 2) n
+      (+ (fib (- n 1))
+         (fib (- n 2))))) ; 55
 #+end_src
