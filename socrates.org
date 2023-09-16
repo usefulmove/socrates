@@ -37,14 +37,14 @@
 [[~/repos/socrates/org/jupyter.org][org notebooks]]
 [[~/repos/dcode/dcode.scm][dcode]]
 ** Lisp(s)
-"Begin your journey with a Lisp language, whether it's Scheme from SCIP, Racket, Guile, Clojure, or Emacs Lisp. It offers a profound insight into the art of sculpting code. Only by understanding its purity can we truly appreciate the nuances of other languages and recognize that limitations are often mere choices, not necessities."
-
 [[~/repos/socrates/org/the-roots-of-lisp.org][The Roots of Lisp]]
-[[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
+[[~/repos/socrates/org/starting-with-lisp.org][Starting with Lisp]]
+"Begin your journey with a Lisp, whether it's Scheme from SCIP, Racket, Guile, Clojure, or Emacs Lisp. It offers a profound insight into the art of sculpting code. Only by understanding its purity can we truly appreciate the nuances of other languages and recognize that limitations are often mere choices, not necessities."
 
-Dialects
+*** Dialects
 [[~/repos/socrates/org/scheme.org][Scheme]]
 [[~/repos/socrates/org/emacs-lisp.org][Emacs Lisp]]
+Clojure
 
 
 
@@ -54,7 +54,7 @@ amaranthine skies caressed the gentle whispers of the zephyr, weaving
 an ephemeral symphony of love that intertwined the souls of all living
 beings in the tender embrace of nature's eternal harmony ...
 
-transformer neural network architecture (paper: [[~/repos/socrates/org/attention-is-all-you-need.org][Attention Is All You Need]])
+Transformer neural network architecture (paper: [[~/repos/socrates/org/attention-is-all-you-need.org][Attention Is All You Need]])
 
 
 
