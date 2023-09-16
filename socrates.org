@@ -1,6 +1,6 @@
 #+title: Socrates
 
- . a simple knowledge base .
+   . a simple knowledge base .
 
 
 * Philosophy
@@ -15,6 +15,7 @@
 [[~/repos/socrates/org/salvation.org][Where are we pushing toward salvation most? Where is there hope?]]
 
 
+
 * Books
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
 
@@ -24,6 +25,7 @@
 [[~/repos/socrates/org/engagement.org][engagement]]
 ** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
+
 
 
 * Coding
@@ -39,7 +41,11 @@
 
 [[~/repos/socrates/org/the-roots-of-lisp.org][The Roots of Lisp]]
 [[~/repos/socrates/org/starting-with-lisp.org][starting with lisp]]
+
+Dialects
+[[~/repos/socrates/org/scheme.org][Scheme]]
 [[~/repos/socrates/org/emacs-lisp.org][Emacs Lisp]]
+
 
 
 * Artificial Intelligence (AI)
@@ -48,10 +54,11 @@ amaranthine skies caressed the gentle whispers of the zephyr, weaving
 an ephemeral symphony of love that intertwined the souls of all living
 beings in the tender embrace of nature's eternal harmony ...
 
-transformer neural network architecture (paper: [[~/repos/socrates/org/attention-is-all-you-need.org][attention is all you need]])
+transformer neural network architecture (paper: [[~/repos/socrates/org/attention-is-all-you-need.org][Attention Is All You Need]])
+
 
 
 * Emacs
-[[~/repos/socrates/org/introduction-to-emacs.org][introduction]]
-[[~/repos/gum/gum.org][Gum]]
+[[~/repos/socrates/org/introduction-to-emacs.org][Introduction to Emacs]]
+[[~/repos/gum/gum.org][Gum]] project
 [[~/repos/socrates/org/emacs-notes.org][notes]]

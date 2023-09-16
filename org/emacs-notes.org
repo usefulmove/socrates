@@ -1,4 +1,4 @@
-#+title: emacs notes
+#+title: Emacs notes
 
 * to change a bookmark:
   SPC b m (bookmark-set)
