@@ -256,7 +256,7 @@ Macros
   `(lambda ,sym ,exp))
 
 ; prototype
-(mapcar (_l (a) (* a a a)) '(3 1 2))
+(mapcar (_l (a) (* a a a)) '(3 1 2)) ; (27 1 8)
 #+end_src
 
 
