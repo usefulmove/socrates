@@ -10,7 +10,7 @@
 [[~/repos/socrates/org/selfishness.org][selfishness]]
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
 [[~/repos/socrates/org/being.org][being]]
-[[~/repos/socrates/org/too-broken.org][too broken to be loved]]
+[[~/repos/socrates/org/too-broken.org][too broken to be loved?]]
 [[~/repos/socrates/org/letter.org][Letter to My Unborn Son]]
 [[~/repos/socrates/org/salvation.org][Where are we pushing toward salvation most? Where is there hope?]]
 
