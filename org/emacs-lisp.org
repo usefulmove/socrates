@@ -455,3 +455,30 @@ Named Let
       (+ (fib (- n 1))
          (fib (- n 2))))) ; 55
 #+end_src
+
+
+
+* Lesson Sixteen
+
+Luhn algorithm for credit card validation
+
+#+begin_src emacs-lisp
+(defun valid-cc? (s)
+  (let ((diminish (\ (n)
+                    (if (< n 10) n
+                        (diminish (foldl
+                                    (\ (acc c) (+ acc (char-to-int c)))
+                                    0
+                                    (string-to-list (number-to-string n))))))))
+    (= 0 (thread s
+           'string-to-list
+           (\ (lst) (map (\ (c) (- c ?0)) lst))
+           (\ (lst) (foldl
+                      (\ (acc pair)
+                        (let ((i (car pair))
+                              (n (cdr pair)))
+                          (+ acc (diminish (if (even? i) (* n 2) n)))))
+                      0
+                      (enumerate lst)))
+           (\ (n) (mod (- 10 (mod n 10)) 10))))))
+#+end_src
