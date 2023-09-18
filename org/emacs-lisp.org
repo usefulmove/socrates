@@ -359,20 +359,20 @@ Sorting
 #+end_src
 
 #+begin_src emacs-lisp
-(setq counts-hash (tally '(3 1 2 5 4 8 3 1 5 5)))
+(setq counts (tally '(3 1 2 5 4 8 3 1 5 5))) ; ((8 . 1) (4 . 1) (5 . 3) (2 . 1) (1 . 2) (3 . 2))
 
-(setq counts (let ((out '()))
-               (maphash
-                 (lambda (key value)
-                   (setq out (cons (cons key value) out)))
-                 counts-hash)
-               out)) ; ((8 . 1) (4 . 1) (5 . 3) (2 . 1) (1 . 2) (3 . 2))
-
-(sort
+(sort ; one-layer sort (by second element in pair)
   (copy-sequence counts)
   (lambda (pair1 pair2)
     (> (cdr pair1)
        (cdr pair2)))) ; ((5 . 3) (1 . 2) (3 . 2) (8 . 1) (4 . 1) (2 . 1))
+
+(sort ; dual-layer sort (by second element then by first)
+  (copy-sequence counts)
+  (lambda (pair-a pair-b)
+    (if (not= (cdr pair-a) (cdr pair-b))
+        (> (cdr pair-a) (cdr pair-b))
+        (> (car pair-a) (car pair-b))))) ; ((5 . 3) (3 . 2) (1 . 2) (8 . 1) (4 . 1) (2 . 1))
 #+end_src
 
 
