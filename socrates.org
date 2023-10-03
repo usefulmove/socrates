@@ -62,3 +62,7 @@ Transformer neural network architecture (paper: [[~/repos/socrates/org/attention
 [[~/repos/socrates/org/introduction-to-emacs.org][Introduction to Emacs]]
 [[~/repos/gum/gum.org][Gum]] project
 [[~/repos/socrates/org/emacs-notes.org][notes]]
+
+
+* Conversations with Xochitl
+Compassion
