@@ -66,3 +66,4 @@ Transformer neural network architecture (paper: [[~/repos/socrates/org/attention
 
 * Conversations with Xochitl
 Compassion
+Stars in Carmel
