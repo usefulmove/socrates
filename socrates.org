@@ -1,6 +1,6 @@
 #+title: Socrates
 
-   . a simple knowledge base .
+. a simple knowledge base .
 
 
 * Philosophy
@@ -15,7 +15,6 @@
 [[~/repos/socrates/org/salvation.org][Where are we pushing toward salvation most? Where is there hope?]]
 
 
-
 * Books
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
 
@@ -27,7 +26,6 @@
 [[~/repos/socrates/org/interview-questions.org][questions]]
 
 
-
 * Coding
 "Language-oriented development allows us to shape our tools around the unique linguistics of our problems, making our code more intuitive and expressive. When combined with test-balanced development, we focus not just on covering every inch, but on ensuring that our software's core narrative remains unbroken and robust. It's a harmonious dance between the poetry of our language and the rhythm of our tests." — Alistair Haldane, practical functional programmer, 2023
 
@@ -36,16 +34,15 @@
 [[~/repos/socrates/org/sicp.org][structure and interpretation of computer programs (sicp)]]
 [[~/repos/socrates/org/jupyter.org][org notebooks]]
 [[~/repos/dcode/dcode.scm][dcode]]
+
 ** Lisp(s)
 [[~/repos/socrates/org/the-roots-of-lisp.org][The Roots of Lisp]]
 [[~/repos/socrates/org/starting-with-lisp.org][Starting with Lisp]]
 "Begin your journey with a Lisp, whether it's Scheme from SCIP, Racket, Guile, Clojure, or Emacs Lisp. It offers a profound insight into the art of sculpting code. Only by understanding its purity can we truly appreciate the nuances of other languages and recognize that limitations are often mere choices, not necessities."
 
-*** Dialects
+*** Lisp Dialects
 [[~/repos/socrates/org/scheme.org][Scheme]]
 [[~/repos/socrates/org/emacs-lisp.org][Emacs Lisp]]
-Clojure
-
 
 
 * Artificial Intelligence (AI)
@@ -57,12 +54,8 @@ beings in the tender embrace of nature's eternal harmony ...
 Transformer neural network architecture (paper: [[~/repos/socrates/org/attention-is-all-you-need.org][Attention Is All You Need]])
 
 
-
 * Emacs
 [[~/repos/socrates/org/introduction-to-emacs.org][Introduction to Emacs]]
+Spacemacs
 [[~/repos/gum/gum.org][Gum]] project
-[[~/repos/socrates/org/emacs-notes.org][notes]]
-
-
-* Conversations with Xochitl
-Compassion
+[[~/repos/socrates/org/llm-shaping-prompts.org][LLM shaping]]
