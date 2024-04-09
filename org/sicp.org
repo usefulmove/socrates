@@ -1,6 +1,5 @@
 #+title: Structure and Interpretation of Computer Programs (SICP)
 
-
 "Structure and Interpretation of Computer Programs" (SICP) is a landmark computer science textbook written by Harold Abelson and Gerald Jay Sussman, with Julie Sussman. It is used in several introductory courses at MIT and other universities worldwide.
 
 Here is a summary of the major sections:
@@ -26,3 +25,5 @@ In this chapter, the authors discuss how the features of the Scheme programming 
 The final chapter bridges the gap between high-level programming languages and the machines that execute programs. It introduces the concept of a register machine, a simple model of computer hardware, and discusses how the process of program execution can be understood in terms of the operations of such a machine.
 
 Overall, SICP provides a comprehensive overview of key concepts in computer programming, presented through a series of increasingly sophisticated abstraction mechanisms and programming techniques. Its focus is not on specific language syntax, but rather on the structure and interpretation of computer programs and the fundamental principles of computer science.
+
+[[./why-sicp-matters.org][Why Structure and Interpretation of Computer Programs Matters]]

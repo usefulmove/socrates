@@ -19,8 +19,8 @@
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
 
 
-* Team building
-[[./OKRs.org][OKRs]]
+* Team Building
+[[./org/OKRs.org][OKRs]]
 [[~/repos/socrates/org/engagement.org][engagement]]
 ** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
@@ -35,7 +35,7 @@
 [[~/repos/socrates/org/jupyter.org][org notebooks]]
 [[~/repos/dcode/dcode.scm][dcode]]
 
-** Lisp(s)
+** Lisps
 "Lisp is a programmable programming language." John Foderaro 
 [[~/repos/socrates/org/the-roots-of-lisp.org][The Roots of Lisp]]
 [[~/repos/socrates/org/starting-with-lisp.org][Starting with Lisp]]
