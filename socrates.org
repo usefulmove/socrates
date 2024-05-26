@@ -24,6 +24,7 @@
 [[~/repos/socrates/org/engagement.org][engagement]]
 ** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
+[[~/repos/socrates/org/supercommunicators.org][supercommunicators]]
 
 
 * Coding
