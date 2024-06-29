@@ -64,3 +64,6 @@ Transformer neural network architecture (paper: [[~/repos/socrates/org/attention
 Spacemacs
 [[~/repos/gum/gum.org][Gum]] project
 [[~/repos/socrates/org/llm-shaping-prompts.org][LLM shaping]]
+
+
+* Attention deficit hyperactivity disorder (ADHD)
