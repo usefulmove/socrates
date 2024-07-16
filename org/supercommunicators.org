@@ -31,4 +31,4 @@ Framework for Difficult Discussions:
 Loop for understanding.
 - (ask) Ask a question that gives the person a chance to open up and share their feelings.
 - (paraphrase) Paraphrase what they say to prove that you were listening.
-- (verify) Verify that your summary was accurate.
+- (verify) Verify that your summary was accurate. "Does that sound right?" "Am I close?"
