@@ -12,7 +12,13 @@ r! d! r d (x6) -- return cube to original state
 
 f! u l! u! -- flip over a cross piece (with center color of interest at top)
 
+
+** complete face
+
 r! d! r d -- move corner directly underneath (not flipped) up (xN, until in correct orientation)
+
+
+** complete second layer
 
 flip cube over so that solved side is down
 
@@ -22,11 +28,17 @@ move with one of two algorithms depending on which direction (right or left) the
 u! l! u l u f u! f! (left version) 
 u r u! r! u! f! u f (right version)
 
+
+** complete cross on opposite side
+
 now on top (unsolved side) will have either (1) single blue center (only considering cross pieces), (2) L-shape, (3) line, or (4) cross. (goal is to get to cross)
 
 if starting with L-shape: hold with L-shape in upper left corner, then
 f r u r! u! f! -- should give line
 hold with line across top from left to right and repeat above -- should give cross
+
+
+** align cross pieces
 
 rotate to get at least two cross pieces aligned with side centers. will be (1) either directly across from each other or (2) beside each other
 
