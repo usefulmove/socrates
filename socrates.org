@@ -25,6 +25,7 @@
 ** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
 [[~/repos/socrates/org/supercommunicators.org][supercommunicators]]
+[[~/repos/socrates/org/consensus.org][on consensus]]
 
 
 * Coding

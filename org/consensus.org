@@ -1,0 +1,26 @@
+On Consensus
+
+* The Risks of High Cohesion Without Adequate Decision-Making Procedures
+
+** Why Cohesive Groups Without Structure Fail
+
+Highly cohesive teams often prioritize harmony over critical evaluation. Without structured decision-making procedures, they tend to:
+
+*** Suppress Dissent:** Members may self-censor to maintain group unity.
+*** Avoid Conflict:** A desire for consensus discourages questioning or alternative ideas.
+*** Rush to Agreement:** Without thorough debate, poor decisions emerge due to insufficient scrutiny.
+*** Overestimate Their Accuracy:** Confidence in the group’s ability can lead to overlooking risks.
+
+** Ensuring Adequate Decision-Making Procedures
+To counteract these risks, teams should implement:
+
+*** Encouraging Dissent and Debate** – Foster an environment where alternative viewpoints are actively solicited and valued.
+*** Structured Decision Methods** – Use frameworks like the *Delphi Method*, *Devil’s Advocacy*, or *Dialectical Inquiry* to ensure thorough evaluation.
+*** External Consultation** – Seek input from outside experts to broaden perspectives.
+*** Multiple Alternatives** – Consider multiple options before finalizing a decision.
+*** Systematic Risk Assessment** – Explicitly identify potential downsides of each decision.
+*** Individual Accountability** – Assign responsibility to team members to reduce conformity pressure.
+*** Adequate Time for Discussion** – Avoid rushed decisions by allowing sufficient deliberation.
+*** Encouraging Minority Opinions** – Protect and encourage dissenting voices to challenge assumptions.
+
+By integrating these practices, teams can leverage their cohesion for better collaboration while mitigating the dangers of groupthink.
