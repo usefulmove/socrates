@@ -5,7 +5,7 @@
 
 * Philosophy
 [[~/repos/socrates/org/meditations-on-moloch.org][Meditations on Moloch]]
-[[~/repos/socrates/org/will-to-power.org][Will to Power]]
+[[~/repos/socrates/org/will-to-power.org][will to power]]
 [[~/repos/socrates/org/duality.org][duality]]
 [[~/repos/socrates/org/selfishness.org][selfishness]]
 [[~/repos/socrates/org/embracing-the-mud.org][embracing the mud]]
@@ -13,6 +13,7 @@
 [[~/repos/socrates/org/too-broken.org][too broken to be loved?]]
 [[~/repos/socrates/org/letter.org][Letter to My Unborn Son]]
 [[~/repos/socrates/org/salvation.org][Where are we pushing toward salvation most? Where is there hope?]]
+[[~/repos/socrates/org/vipassana.org][vipassana]] meditation
 
 
 * Books
@@ -22,7 +23,6 @@
 * Team Building
 [[./org/OKRs.org][OKRs]]
 [[~/repos/socrates/org/engagement.org][engagement]]
-** building
 [[~/repos/socrates/org/interview-questions.org][questions]]
 [[~/repos/socrates/org/supercommunicators.org][supercommunicators]]
 [[~/repos/socrates/org/consensus.org][on consensus]]
