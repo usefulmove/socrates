@@ -20,17 +20,19 @@
 * non-fiction
 1. The Fire Next Time by James Baldwin
 2. Sapiens: A Brief History of Humankind by Yuval Noah Harari
-3. Trillion Dollar Coach by Eric Schmidt, Jonathan Rosenberg , et al.
-4. Atomic Habits by James Clear
-5. Rape New York by Jana Leo
-6. The Heart of the Buddha’s Teaching by Thich Nhat Hanh
-7. The Power of Now by Eckhart Tolle
-8. The Seven Habits of Highly Effective People by Stephen Covey
-9. How to Win Friends and Influence People by Dale Carnegie
-10. Integrity by Stephen L. Carter
-11. The Immortal Game: A History of Chess by David Shenk
-12. The Human Side of Chess by Fred Reinfeld
-13. The Splendid and the Vile by Erik Larson
+3. How to Know a Person by David Brooks
+4. Trillion Dollar Coach by Eric Schmidt, Jonathan Rosenberg , et al.
+5. Atomic Habits by James Clear
+6. Supercommunicators by Charles Duhigg
+7. Rape New York by Jana Leo
+8. The Heart of the Buddha’s Teaching by Thich Nhat Hanh
+9. The Power of Now by Eckhart Tolle
+10. The Seven Habits of Highly Effective People by Stephen Covey
+11. How to Win Friends and Influence People by Dale Carnegie
+12. Integrity by Stephen L. Carter
+13. The Immortal Game: A History of Chess by David Shenk
+14. The Human Side of Chess by Fred Reinfeld
+15. The Splendid and the Vile by Erik Larson
 
 * poetry
 1. haruko/love poems by June Jordan
