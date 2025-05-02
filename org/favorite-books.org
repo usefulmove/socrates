@@ -37,3 +37,6 @@
 * poetry
 1. haruko/love poems by June Jordan
 2. The Complete Poems of Emily Dickinson (edited by Thomas Johnson)
+
+* art
+1. Street Portraits by Dawoud Bey
