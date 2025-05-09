@@ -16,6 +16,7 @@
 [[~/repos/socrates/org/vipassana.org][vipassana]] meditation
 
 * Art
+[[~/repos/socrates/org/interiority.org][interiority]]
 [[~/repos/socrates/org/good-stories.org][What are the elements of a great story?]]
 
 * Books
