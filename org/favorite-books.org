@@ -1,21 +1,22 @@
 #+title: favorite books
 
 * fiction
-1. Eva's Man by Gayl Jones
-2. The Brothers Karamazov by Fyodor Dostoevsky (Richard Pevear and Larissa Volokhonsky translation)
-3. Corregidora by Gayl Jones
-4. Crime and Punishment by Fyodor Dostoevsky (Pevear-Volokhonsky and Oliver Ready translations)
-5. The Johnson Girls by Toni Cade Bambara (short story)
-6. The Boy, The Mole, The Fox and the Horse by Charlie Mackesy
-7. A Very Old Man with Enormous Wings by Gabriel Garcia Marquez (short story)
-8. Notes from Underground by Fyodor Dostoevsky (Pevear-Volokhonsky translation)
-9. Zikora by Chimamanda Ngozi Adichie
-10. Going to Meet the Man by James Baldwin (short story)
-11. Gorilla, My Love by Toni Cade Bambara (short story)
-12. The Handmaid’s Tale by Margaret Atwood
-13. La Negra Blanca (short story) by Roxane Gay
-14. Passion by Alice Munroe (short story)
-15. Désirée's Baby (short story) by Kate Chopin
+1. Fences by August Wilson
+2. Eva's Man by Gayl Jones
+3. The Brothers Karamazov by Fyodor Dostoevsky (Richard Pevear and Larissa Volokhonsky translation)
+4. Corregidora by Gayl Jones
+5. Crime and Punishment by Fyodor Dostoevsky (Pevear-Volokhonsky and Oliver Ready translations)
+6. The Johnson Girls by Toni Cade Bambara (short story)
+7. The Boy, The Mole, The Fox and the Horse by Charlie Mackesy
+8. A Very Old Man with Enormous Wings by Gabriel Garcia Marquez (short story)
+9. Notes from Underground by Fyodor Dostoevsky (Pevear-Volokhonsky translation)
+10. Zikora by Chimamanda Ngozi Adichie
+11. Going to Meet the Man by James Baldwin (short story)
+12. Gorilla, My Love by Toni Cade Bambara (short story)
+13. The Handmaid’s Tale by Margaret Atwood
+14. La Negra Blanca (short story) by Roxane Gay
+15. Passion by Alice Munroe (short story)
+16. Désirée's Baby (short story) by Kate Chopin
 
 * non-fiction
 1. The Fire Next Time by James Baldwin
