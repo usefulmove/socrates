@@ -1,0 +1,41 @@
+#+TITLE: COINTELPRO Primary Documents
+#+AUTHOR: 
+#+DATE: 
+#+CATEGORY: History
+#+TAGS: COINTELPRO, FBI, Civil Rights, Black Panthers, MLK
+
+# Define custom link shortcuts
+#+LINK: church1 https://www.aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_1_COINTELPRO.pdf
+#+LINK: church3 https://www.aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_3_BlackPanthers.pdf
+#+LINK: fbi https://vault.fbi.gov/Martin%20Luther%20King%2C%20Jr.
+#+LINK: loveman https://loveman.sdsu.edu/docs/1976Churchcommittee.pdf
+
+* Primary Documents
+Here are *primary documents* (with tiny quotes) showing COINTELPRO in the FBI’s own words:
+
+** Aug. 25, 1967 directive (launching the “Black Nationalist–Hate Groups” COINTELPRO).
+Purpose: “*to expose, disrupt, misdirect, discredit, or otherwise neutralize*” targeted groups and their supporters. Lists initial targets and tactics.  
+[[church1][Church Committee Archive]]
+
+** Stated goals: stop a unifying Black leader.
+FBI memo summarized by the Senate says: “*Prevent the rise of a messiah who could unify and electrify the militant nationalist movement*,” naming King, Carmichael, and Elijah Muhammad.  
+[[church3][Church Committee Archive]]
+
+** Orders to stoke conflicts against the Panthers.
+Hoover told field offices to submit “*imaginative and hard-hitting counterintelligence measures*” to exploit a “gang warfare” climate between the Black Panther Party and US Organization.  
+[[church3][Church Committee Archive]]
+
+** Fred Hampton raid—FBI informant intel handed to police.
+Chicago FBI memo notes *a detailed floor plan and weapons inventory* for Hampton’s apartment were *furnished to local authorities* and “*proved to be of tremendous value*” for the 12/4/69 raid.  
+[[church3][Church Committee Archive]]
+
+** The anonymous “suicide letter” to Dr. King (1964).
+The typed letter (scan available) tells King “*You are done*,” implying he should end his life; it accompanied surveillance tapes. (FOIA vault + scan.)  
+[[fbi][FBI Vault]]
+
+** Congress’s judgment on COINTELPRO.
+The Church Committee concluded the FBI used “*unsavory and vicious tactics*” (including anonymous attempts to break up marriages) and engaged in *lawless* methods against political activists.  
+[[loveman][Church Committee Report (Loveman archive)]]
+
+* Notes
+If you want, I can pull the *exact pages* from those PDFs into a quick packet, or dig up more (e.g., Klan and New Left COINTELPRO files, MLK wiretap authorizations).
