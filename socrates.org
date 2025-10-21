@@ -13,11 +13,13 @@
 [[~/repos/socrates/org/too-broken.org][too broken to be loved?]]
 [[~/repos/socrates/org/letter.org][Letter to My Unborn Son]]
 [[~/repos/socrates/org/salvation.org][Where are we pushing toward salvation most? Where is there hope?]]
-[[~/repos/socrates/org/vipassana.org][vipassana]] meditation
+[[~/repos/socrates/org/vipassana.org][Vipassana]] meditation
+
 
 * Art
 [[~/repos/socrates/org/interiority.org][interiority]]
 [[~/repos/socrates/org/good-stories.org][What are the elements of a great story?]]
+
 
 * Books
 [[~/repos/socrates/org/favorite-books.org][favorite books]]
@@ -29,6 +31,10 @@
 [[~/repos/socrates/org/interview-questions.org][questions]]
 [[~/repos/socrates/org/supercommunicators.org][supercommunicators]]
 [[~/repos/socrates/org/consensus.org][on consensus]]
+
+
+* Data Analysis
+** [[~/repos/socrates/org/duckdb.org][duckdb]]
 
 
 * Coding

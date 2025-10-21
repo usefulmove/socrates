@@ -1,0 +1,8 @@
+* duckdb notes
+
+** saving to persistent data storage
+```sql
+attach 'file.duckdb' ;
+copy from database memory to file ;
+detach file ;
+```
