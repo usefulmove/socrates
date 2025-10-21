@@ -35,6 +35,7 @@
 
 * Data Analysis
 ** [[~/repos/socrates/org/duckdb.org][duckdb]]
+** [[~/repos/socrates/org/polars.org][polars]]
 
 
 * Coding
