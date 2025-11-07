@@ -35,7 +35,10 @@
 
 * Data Analysis
 ** [[~/repos/socrates/org/duckdb.org][duckdb]]
+** [[~/repos/socrates/org/duckdb-regex-cheatsheet.org][duckdb regex cheat sheet]]
+
 ** [[~/repos/socrates/org/polars.org][polars]]
+** [[~/repos/socrates/org/polars-regex-cheatsheet.org][polars regex cheat sheet]]
 
 
 * Coding

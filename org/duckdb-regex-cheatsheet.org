@@ -1,0 +1,302 @@
+#+TITLE: DuckDB Regex Cheat Sheet
+#+AUTHOR: Duane’s DuckDB Notes
+#+OPTIONS: toc:2 num:t
+
+* Overview
+DuckDB supports regular expressions in SQL using functions like:
+- =REGEXP_MATCHES(string, pattern)=
+- =REGEXP_LIKE(string, pattern)=
+- =REGEXP_REPLACE(string, pattern, replacement)=
+- =REGEXP_EXTRACT(string, pattern, group)=
+- =REGEXP_FULL_MATCH(string, pattern)=
+
+Patterns are similar to “modern” regex:
+- Anchors (=^=, =$=), character classes, groups, quantifiers, etc.
+- No lookbehind in RE2-style engines; keep patterns simple and forward-looking.
+
+All examples assume a basic table:
+#+begin_src sql
+CREATE TABLE fruits AS
+SELECT * FROM (
+    VALUES
+        ('apple',       1.0),
+        ('Apple pie',   2.5),
+        ('banana',      0.5),
+        ('apricot',     1.3),
+        ('pear 123',    1.1)
+) AS t(name, price);
+#+end_src
+
+* Core DuckDB regex functions
+
+** =REGEXP_LIKE=
+Boolean: does =string= match =pattern= *anywhere* (substring match)?
+
+#+begin_src sql
+-- name contains "app"
+SELECT name, REGEXP_LIKE(name, 'app') AS has_app
+FROM fruits;
+
+-- name starts with "app" (case-sensitive)
+SELECT *
+FROM fruits
+WHERE REGEXP_LIKE(name, '^app');
+
+-- case-insensitive "apple"
+SELECT *
+FROM fruits
+WHERE REGEXP_LIKE(name, '(?i)apple');
+#+end_src
+
+Use it like a WHERE filter:
+#+begin_src sql
+SELECT *
+FROM fruits
+WHERE REGEXP_LIKE(name, '(?i)^a');  -- names starting with a/A
+#+end_src
+
+** =REGEXP_MATCHES=
+Returns an array (or list-like) of matches of the pattern.
+
+#+begin_src sql
+-- all vowel runs in each name
+SELECT
+  name,
+  REGEXP_MATCHES(name, '[aeiou]+') AS vowel_runs
+FROM fruits;
+#+end_src
+
+** =REGEXP_EXTRACT=
+Extracts the *first* match or a capture group.
+
+- =REGEXP_EXTRACT(string, pattern)= → first full match
+- =REGEXP_EXTRACT(string, pattern, group)= → capture group N
+
+#+begin_src sql
+-- first word in name
+SELECT
+  name,
+  REGEXP_EXTRACT(name, '^[A-Za-z]+') AS first_word
+FROM fruits;
+
+-- capture after leading 'a/A'
+SELECT
+  name,
+  REGEXP_EXTRACT(name, '^(?i)a([A-Za-z]+)', 1) AS after_a
+FROM fruits;
+#+end_src
+
+** =REGEXP_REPLACE=
+Replace substrings matching =pattern=.
+
+#+begin_src sql
+-- compress whitespace to single underscore
+SELECT
+  name,
+  REGEXP_REPLACE(name, '\s+', '_') AS normalized
+FROM fruits;
+
+-- remove digits
+SELECT
+  name,
+  REGEXP_REPLACE(name, '\d+', '') AS no_digits
+FROM fruits;
+#+end_src
+
+** =REGEXP_FULL_MATCH=
+Check if the *entire* string matches the pattern.
+
+#+begin_src sql
+-- name is only digits
+SELECT
+  name,
+  REGEXP_FULL_MATCH(name, '^\d+$') AS is_digits_only
+FROM fruits;
+
+-- crude ISO date check
+SELECT
+  some_string,
+  REGEXP_FULL_MATCH(some_string, '\d{4}-\d{2}-\d{2}') AS is_iso_date
+FROM my_table;
+#+end_src
+
+* Essential regex building blocks
+
+** Anchors
+- =^= : start of string
+- =$= : end of string
+
+#+begin_src sql
+-- starts with "app"
+WHERE REGEXP_LIKE(name, '^app')
+
+-- ends with "pie"
+WHERE REGEXP_LIKE(name, 'pie$')
+#+end_src
+
+** Character classes
+- =[abc]= : one of a, b, or c
+- =[^abc]= : anything *except* a, b, or c
+- =\d= : digit (0–9)
+- =\w= : word char (letters, digits, underscore)
+- =\s= : whitespace
+
+#+begin_src sql
+-- has 'a' or 'b'
+WHERE REGEXP_LIKE(name, '[ab]')
+
+-- has a digit
+WHERE REGEXP_LIKE(name, '\d')
+
+-- starts with capital word
+WHERE REGEXP_LIKE(name, '^[A-Z]\w+')
+#+end_src
+
+** Quantifiers
+- =?= : 0 or 1 (optional)
+- =*= : 0 or more
+- =+= : 1 or more
+- ={m}= : exactly m
+- ={m,}= : m or more
+- ={m,n}= : between m and n
+
+#+begin_src sql
+-- "aple", "apple", "appple"
+WHERE REGEXP_LIKE(name, 'ap+le')
+
+-- "a" then anything then "e"
+WHERE REGEXP_LIKE(name, 'a.*e')
+
+-- pattern like "123-45"
+WHERE REGEXP_LIKE(name, '\d{3}-\d{2}')
+#+end_src
+
+** Groups and alternation
+- Group: =(…)=
+- Alternation: =a|b=
+
+#+begin_src sql
+-- apple or banana
+WHERE REGEXP_LIKE(name, '(?i)(apple|banana)')
+
+-- extract letters after leading "a"
+SELECT
+  name,
+  REGEXP_EXTRACT(name, '^a(\w+)', 1) AS tail
+FROM fruits;
+#+end_src
+
+* Inline flags (modifiers)
+
+Inline flags toggle behavior inside the pattern:
+
+- =(?i)= : case-insensitive
+- =(?m)= : multiline mode
+- =(?s)= : dot matches newline
+- =(?x)= : ignore pattern whitespace/comments
+
+Most common: case-insensitive.
+
+#+begin_src sql
+-- case-insensitive contains "apple"
+WHERE REGEXP_LIKE(name, '(?i)apple')
+
+-- case-insensitive only for a part: (?i:pattern)
+WHERE REGEXP_LIKE(name, '(?i:app)le')
+#+end_src
+
+* Quick pattern reference (for SQL/data work)
+
+| Goal                          | Pattern              | Notes                                   |
+|-------------------------------+----------------------+-----------------------------------------|
+| Email-ish string              | =[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}= | crude but useful                        |
+| US phone (simple)             | =\d{3}-\d{3}-\d{4}=  | "123-456-7890"                          |
+| 4-digit year                  | =\b\d{4}\b=          | word boundaries around year             |
+| Decimal number                | =-?\d+(\.\d+)?=      | optional minus, optional fraction       |
+| ISO date YYYY-MM-DD           | =\d{4}-\d{2}-\d{2}=  | shape only                              |
+| Starts with prefix            | =^prefix=            | anchor at beginning                     |
+| Ends with suffix              | =suffix$=            | anchor at end                           |
+| Contains only digits          | =^\d+$=              | whole string digits                     |
+| Contains at least one digit   | =\d=                 | anywhere                                |
+| Multiple whitespace           | =\s+=                | runs of whitespace                      |
+
+* Typical DuckDB queries using regex
+
+** Filter rows with =REGEXP_LIKE=
+
+#+begin_src sql
+-- Names starting with 'a' or 'A'
+SELECT *
+FROM fruits
+WHERE REGEXP_LIKE(name, '(?i)^a');
+
+-- Names that contain "apple" (case-insensitive)
+SELECT *
+FROM fruits
+WHERE REGEXP_LIKE(name, '(?i)apple');
+
+-- Names with at least one digit
+SELECT *
+FROM fruits
+WHERE REGEXP_LIKE(name, '\d');
+#+end_src
+
+** Extract pieces with =REGEXP_EXTRACT=
+
+#+begin_src sql
+-- Extract first word
+SELECT
+  name,
+  REGEXP_EXTRACT(name, '^[A-Za-z]+') AS first_word
+FROM fruits;
+
+-- Extract trailing number if present
+SELECT
+  name,
+  REGEXP_EXTRACT(name, '(\d+)$', 1) AS trailing_num
+FROM fruits;
+#+end_src
+
+** Clean / normalize text with =REGEXP_REPLACE=
+
+#+begin_src sql
+-- Normalize whitespace and lowercase names
+SELECT
+  LOWER(REGEXP_REPLACE(name, '\s+', ' ')) AS normalized_name
+FROM fruits;
+
+-- Strip all non-digits
+SELECT
+  name,
+  REGEXP_REPLACE(name, '[^\d]', '') AS digits_only
+FROM fruits;
+#+end_src
+
+* Common gotchas in DuckDB regex
+
+- Be careful with backslashes in SQL strings:
+  - In many clients: you just write ='\d+'=.
+  - If the client escapes backslashes, you may need ='\\d+'=.
+- Anchors:
+  - =REGEXP_LIKE= is substring-based; use =^= and =$= to constrain to whole string,
+    or use =REGEXP_FULL_MATCH=.
+- Complex PCRE features:
+  - Assume no lookbehind and limited/no backreferences; test fancy patterns.
+- Performance:
+  - Heavy regex on large tables can be expensive; limit with WHERE clauses when possible.
+
+* Tiny mental model
+- Use =REGEXP_LIKE= like =str.contains= in Polars:
+  - “Does this row’s column match this pattern anywhere?”
+- Use =REGEXP_EXTRACT= like =str.extract=.
+- Use =REGEXP_REPLACE= like =str.replace_all=.
+- When you mean “whole string”, either:
+  - use =^…$=, or
+  - use =REGEXP_FULL_MATCH(string, pattern)=.
+
+* Personal notes
+Space to jot down your actual real-world patterns:
+
+- TODO: pattern for sample IDs (e.g. =SMP-2025-0001=)
+- TODO: pattern for plate/barcode formats
+- TODO: pattern for cleaning legacy column names
