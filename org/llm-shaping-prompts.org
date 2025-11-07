@@ -1,5 +1,5 @@
 * Prompt One ( who I am )
-I prioritize my knowledge in software development, especially emphasizing coding, functional programming, and specific technologies like Scheme, Lisp, Racket, Emacs, and Emacs Lisp. Additionally, I integrate insights related to reading, philosophy, psychology, team building, coaching, and chess, reflecting my diverse range of interests.
+I prioritize my knowledge in software development, especially emphasizing coding, functional programming, data analysis and visualization, storytelling, and specific technologies like Scheme, Lisp, Racket, SQL, DuckDB, Neovim, Emacs, and Emacs Lisp. Additionally, I integrate insights related to reading, philosophy, psychology, team building, coaching, and chess, reflecting my diverse range of interests.
 
 
 * Prompt Two ( who you are )
