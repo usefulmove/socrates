@@ -7,7 +7,7 @@ Functional programming directly addresses the fact that 75% of programming langu
 | map                       | map                                                  | map ( f(a) for a in iter )                           | map                   | R.map                         | iter.map                                                 |
 | filter                    | filter                                               | filter ( a for a in iter if predicate(a) )           | filter                | R.filter                      | iter.filter                                              |
 | fold                      | foldLeft / reduce                                    | functools.reduce                                     | reduce                | R.reduce                      | iter.fold / iter.reduce                                  |
-| flatmap                   | collect / flatMap                                    | -                                                    | flatMap               | R.chain                       | iter.flat<sub>map</sub>                                  |
+| flatmap                   | collect / flatMap                                    | -                                                    | flatMap               | R.chain                       | iter.flat_map                                  |
 | flatten                   | flatten                                              | ( a for subseq in seq for a in subseq )              | flat()                | R.flatten                     | iter.flatten                                             |
 | curry                     |                                                      | toolz.curry                                          | -                                                     | R.curry                       |                                                          |
 | scan                      | scanLeft                                             | itertools.accumulate                                 | -                                                     | R.scan                        | iter.scan                                                |
@@ -17,7 +17,7 @@ Functional programming directly addresses the fact that 75% of programming langu
 | min                       | min                                                  | min                                                  | reduce                | R.min                         | iter.min                                                 |
 | sort                      | sorted                                               | sorted                                               | sort((a,b) => a-b)* | R.sort                        | slice::sort*                                             |
 | reverse                   | reverse                                              | ::-1 / reversed                                      | reverse*              | R.reverse                     | iter.rev                                                 |
-| compose                   |                                                      | toolz.compose/toolz.compose<sub>left</sub> as pipe   | -                                                     | R.compose/R.pipe              |                                                          |
+| compose                   |                                                      | toolz.compose/toolz.compose_left as pipe   | -                                                     | R.compose/R.pipe              |                                                          |
 | drop                      | drop                                                 | ::-1                                                 | slice                 | R.drop                        | skip                                                     |
 | take                      | take                                                 | ::1                                                  | slice                 | R.take                        | take                                                     |
 | any                       | exists                                               | any                                                  | some()                | R.any                         | iter.any                                                 |
@@ -25,7 +25,7 @@ Functional programming directly addresses the fact that 75% of programming langu
 | zip/inner product         | zip                                                  | zip                                                  |                       | R.zip                         | iter.zip                                                 |
 | outer product (Cartesian) |                                                      | itertools.product ( (a, b) for a in as for b in bs ) |                       | -                             | itertools::iproduct                                      |
 | chain                     | ++                                                   | itertools.chain                                      | concat                | R.concat                      | iter.chain                                               |
-| rotate                    | (o takeRight 1) ::: (o dropRight 1)/o.tail :+ o.head | o[n:] + o[:n] / o[-n:] + o[:-n] / numpy.roll |                       | R.move(-1)(0) / R.move(0)(-1) | slice.rotate<sub>right</sub>/slice.rotate<sub>left</sub> |
+| rotate                    | (o takeRight 1) ::: (o dropRight 1)/o.tail :+ o.head | o[n:] + o[:n] / o[-n:] + o[:-n] / numpy.roll |                       | R.move(-1)(0) / R.move(0)(-1) | slice.rotate_right/slice.rotate_left |
 | unique                    | distinct                                             | set(seq)                                             | -                                                     | R.uniq                        | dedup                                                    |
 
 ["Idiomatic Rust favors functional programming. It's a better fit for its ownership model."](https://kerkour.com/rust-functional-programming) - Sylvain Kerkour
@@ -52,7 +52,7 @@ Functional programming directly addresses the fact that 75% of programming langu
 
 [Iterator in std::iter](https://doc.rust-lang.md/std/iter/trait.Iterator.html)
 
-iter (by reference) into<sub>iter</sub> (owned)
+iter (by reference) into_iter (owned)
 
 `Iter.inspect` can be used to inspect values flowing through an iterator.
 

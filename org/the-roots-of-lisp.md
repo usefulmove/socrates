@@ -1,4 +1,4 @@
-\[<span class="spurious-link" target="~/repos/socrates/support/jmc.pdf">*paper*</span>\]
+[[*paper*](~/repos/socrates/support/jmc.pdf)]
 
 "The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be writtin in itself."
 

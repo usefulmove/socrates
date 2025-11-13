@@ -1,4 +1,4 @@
-``` commonlisp
+```emacs-lisp
 (load-file "~/repos/cora/src/cora.el") ; load Cora library
 (setq lexical-binding t)
 ```
@@ -7,7 +7,7 @@
 
 If you think to use a \`progn\` binding (\`begin\` in Racket Scheme), instead use a \`let\` binding (esp. if defining a local variable binding would be helpful for clarity). The holy grail.
 
-``` commonlisp
+```emacs-lisp
 (progn
   (blink-cursor-mode 0)
   (setq evil-normal-state-cursor '(box "#00c0ff")))
@@ -29,7 +29,7 @@ If you think to use a \`progn\` binding (\`begin\` in Racket Scheme), instead us
 
 A \`let\` binding evaluates each of its (S-expression) arguments after binding a series of of symbol definitions. The "empty let" contains no bindings and simply evaluates each of its arguments the way \`begin\` does in Scheme.
 
-``` racket
+```scheme
 (define (begin . args)
   (cond ((null? args) #<void>) ; return a void value for an empty begin.
         ((null? (cdr args)) (car args)) ; if last expression, return its value.
@@ -39,7 +39,7 @@ A \`let\` binding evaluates each of its (S-expression) arguments after binding a
 
 ## Define the relationship between \`let\` \`lambda\` and \`begin\` in Scheme?
 
-``` commonlisp
+```emacs-lisp
 ;; begin is a let with no bindings.
 (begin
   (sexp)
@@ -67,7 +67,7 @@ A \`let\` binding evaluates each of its (S-expression) arguments after binding a
  (sexp-b))
 ```
 
-``` racket
+```scheme
 (let ((a 2)
       (b 8))
   (* a b))
@@ -76,7 +76,7 @@ A \`let\` binding evaluates each of its (S-expression) arguments after binding a
    2 8)
 ```
 
-``` racket
+```scheme
 (begin
   (sexp)
   (sexp))
@@ -105,7 +105,7 @@ A \`let\` binding evaluates each of its (S-expression) arguments after binding a
 
 The let expression is preferred over the iife lambda expression for expressiveness and readability, but there are times when the opposite is true.
 
-``` commonlisp
+```emacs-lisp
 (defun test-enc-round-trip (error-prelude)
   ((lambda (f s)
      (when (not (equal s (funcall f s)))
@@ -134,7 +134,7 @@ The let expression is preferred over the iife lambda expression for expressivene
 
 ( Lisps help me "see" in code (forms). )
 
-``` commonlisp
+```emacs-lisp
 (define begin (sexps)
   (mapcar 'eval sexps))
 ```
@@ -143,7 +143,7 @@ The let expression is preferred over the iife lambda expression for expressivene
 
 In general, prefer the the more general \`cond\` form to the narrower \`if\`, unless clarity is clearly better.
 
-``` racket
+```scheme
 (define (begin . args)
   (if (null? args)
       #<void> ; return a void value for an empty begin.
@@ -164,7 +164,7 @@ In general, prefer the the more general \`cond\` form to the narrower \`if\`, un
 
 Ponder the two choices below, let versus self-evaluating lambda. The self-executing lambda form is more obviously (and aesthetically) a functional programming form. It's elegant, if pedantic.
 
-``` commonlisp
+```emacs-lisp
 ((lambda (base cap)
    (cond ((or (< ord base)
               (> ord (- cap 1))) ord) ; only modify characters in range
@@ -187,7 +187,7 @@ Ponder the two choices below, let versus self-evaluating lambda. The self-execut
 
 ascii conversion
 
-``` commonlisp
+```emacs-lisp
 ;; character(s) to string
 (string ?a) ; => "a"
 (string ?0 ?3 ?1 ?2) ; => "0312"
@@ -210,7 +210,7 @@ def f()
   otherstuff
 ```
 
-``` commonlisp
+```emacs-lisp
 (lambda ()
   (if condition ()
       otherstuff))
@@ -220,7 +220,7 @@ def f()
 
 Macros
 
-``` commonlisp
+```emacs-lisp
 (defmacro for-comp (sym lst exp)
   (list 'mapcar (list 'lambda (list sym) exp) lst))
 ;(mapcar (lambda (a) (* a a)) '(3 1 2))
@@ -232,7 +232,7 @@ Macros
 (for-comp a '(3 1 2) (* a a)) ; => (9 1 4)
 ```
 
-``` commonlisp
+```emacs-lisp
 (defmacro _l (sym exp)
   `(lambda ,sym ,exp))
 
@@ -248,7 +248,7 @@ An "invalid function" error in Emacs Lisp (if you are coming from other Lisps) o
 
 Recursive Anonymous Functions
 
-``` commonlisp
+```emacs-lisp
 (letrec ((fib (lambda (n)
                 (cond ((< n 2) n)
                       (t (+ (funcall fib (- n 1))
@@ -260,7 +260,7 @@ Recursive Anonymous Functions
 
 Optional Function Arguments
 
-``` commonlisp
+```emacs-lisp
 (defun test (&rest args)
   (+ (car args)
      (cadr args)
@@ -280,7 +280,7 @@ Optional Function Arguments
 
 Hash tables
 
-``` commonlisp
+```emacs-lisp
 ; create empty hash table
 (setq hash (make-hash-table :test 'equal))
 
@@ -298,7 +298,7 @@ Hash tables
 
 Structs
 
-``` commonlisp
+```emacs-lisp
 (require 'cl-lib)
 
 (cl-defstruct person
@@ -320,12 +320,12 @@ Structs
 
 Sorting
 
-``` commonlisp
+```emacs-lisp
 (setq lst '(3 1 2 0 5 4))
 (sort (copy-sequence lst) '<=) ; (0 1 2 3 4 5)
 ```
 
-``` commonlisp
+```emacs-lisp
 (setq counts (tally '(3 1 2 5 4 8 3 1 5 5))) ; ((8 . 1) (4 . 1) (5 . 3) (2 . 1) (1 . 2) (3 . 2))
 
 (sort ; one-layer sort (by second element in pair)
@@ -346,7 +346,7 @@ Sorting
 
 Threading Macro for Function Composition
 
-``` commonlisp
+```emacs-lisp
 (thread 5
   'sqrt
   (\ (a) (- a 1))
@@ -357,7 +357,7 @@ Threading Macro for Function Composition
 
 Closures and Lexical Scoping
 
-``` commonlisp
+```emacs-lisp
 (setq lexical-binding t)
 (load-file "~/repos/cora/src/cora.el")
 
@@ -385,7 +385,7 @@ Closures and Lexical Scoping
 
 Closure as Container
 
-``` commonlisp
+```emacs-lisp
 (setq lexical-binding t)
 
 (defun make-task (s)
@@ -407,7 +407,7 @@ Closure as Container
 
 Named Let
 
-``` commonlisp
+```emacs-lisp
 (setq lexical-binding t)
 
 (named-let fib ((n 10))
@@ -420,7 +420,7 @@ Named Let
 
 Luhn algorithm for credit card validation
 
-``` commonlisp
+```emacs-lisp
 (defun valid-cc? (s)
   (let ((diminish (\ (n)
                     (if (< n 10) n
