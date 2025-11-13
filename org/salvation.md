@@ -1,0 +1,9 @@
+1.  "The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+
+2.  Science Neuroscience
+
+3.  Artificial General Intelligence (AGI)
+
+4.  Healing and Mental Health
+
+5.  

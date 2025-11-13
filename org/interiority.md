@@ -1,0 +1,5 @@
+****Interiority**** is the experience of a person’s inner world—the thoughts, emotions, reflections, desires, doubts, fears, and spiritual or moral struggles that shape their perspective and choices. It's what’s going on **inside** someone, often hidden from the external world.
+
+In storytelling or psychology, interiority refers to a character’s inner life being made visible—through narration, journal entries, body language, or the unspoken meanings behind their actions. It's the layer that makes someone feel **real**, complex, and human.
+
+Think of it as the difference between ****what happens**** and ****what it **feels like** to go through it****.
