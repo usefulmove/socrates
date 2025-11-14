@@ -4,14 +4,30 @@
 
 [reference: copying an in-memory database to a file](https://duckdb.md/docs/stable/guides/snippets/copy_in-memory_database_to_file)
 
-\`\`\`sql attach 'file.duckdb' ; copy from database memory to file ; detach file ; \`\`\`
+```sql
+attach 'file.duckdb';
+-- copy from database memory to file;
+detach file;
+```
 
 ## copy query to parquet file
 
-\`\`\`sql copy (select \* from table) to 'file.parquet' (format parquet) ;
+```sql
+copy (select \* from table) to
+'file.parquet'
+(format parquet);
 
-– optional compression specification copy (select \* from table) to 'file.parquet' (format parquet, compression zstd) ; \`\`\`
+-- optional compression specification
+copy (select \* from table) to
+'file.parquet'
+(format parquet, compression zstd);
+```
 
 ## transactions (disable autocommits)
 
-\`\`\`sql begin transaction ; – or just 'begin ;' – perform modifications (update, delete, insert commands) – perform verification commit ; – make changes permanent, otherwise 'rollback ;' \`\`\`
+```sql
+begin transaction; -- or just 'begin;'
+-- perform modifications (update, delete, insert commands)
+-- perform verification
+commit; -- make changes permanent, otherwise 'rollback;'
+```
