@@ -28,7 +28,7 @@
 
 # Team Building
 
-- [OKRs](./org/OKRs.md)
+- [Objectives and Key Results (OKRs)](./org/OKRs.md)
 - [*Engagement*](./org/engagement.md)
 - [*Questions*](./org/interview-questions.md)
 - [*Supercommunicators*](./org/supercommunicators.md)
