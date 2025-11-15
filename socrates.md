@@ -3,57 +3,55 @@
 
 # Philosophy
 
-[*Meditations on Moloch*](./org/meditations-on-moloch.md)
-[*will to power*](./org/will-to-power.md)
-[*duality*](./org/duality.md)
-[*selfishness*](./org/selfishness.md)
-[*embracing the mud*](./org/embracing-the-mud.md)
-[*being*](./org/being.md)
-[*too broken to be loved?*](./org/too-broken.md)
-[*Letter to My Unborn Son*](./org/letter.md)
-[*Where are we pushing toward salvation most? Where is there hope?*](./org/salvation.md)
-[*Vipassana*](./org/vipassana.md) meditation
+- [*Meditations on Moloch*](./org/meditations-on-moloch.md)
+- [*Will to Power*](./org/will-to-power.md)
+- [*Duality*](./org/duality.md)
+- [*Selfishness*](./org/selfishness.md)
+- [*Embracing the Mud*](./org/embracing-the-mud.md)
+- [*Being*](./org/being.md)
+- [*Too Broken to be Loved?*](./org/too-broken.md)
+- [*Letter to My Unborn Son*](./org/letter.md)
+- [*Where are we pushing toward salvation most? Where is there hope?*](./org/salvation.md)
+- [*Vipassana*](./org/vipassana.md) meditation
 
 
 # Art
 
-[*interiority*](./org/interiority.md)
-[*What are the elements of a great story?*](./org/good-stories.md)
+- [*Interiority*](./org/interiority.md)
+- [*Elements of a Great Story*](./org/good-stories.md)
 
 
 # Books
 
-[*favorite books*](./org/favorite-books.md)
+- [*Favorite Books*](./org/favorite-books.md)
 
 
 # Team Building
 
-[OKRs](./org/OKRs.md)
-[*engagement*](./org/engagement.md)
-[*questions*](./org/interview-questions.md)
-[*supercommunicators*](./org/supercommunicators.md)
-[*on consensus*](./org/consensus.md)
+- [OKRs](./org/OKRs.md)
+- [*Engagement*](./org/engagement.md)
+- [*Questions*](./org/interview-questions.md)
+- [*Supercommunicators*](./org/supercommunicators.md)
+- [*On Consensus*](./org/consensus.md)
 
 
 # Data Analysis
 
-## [*duckdb*](./org/duckdb.md)
-
-## [*duckdb regex cheat sheet*](./org/duckdb-regex-cheatsheet.md)
-
-## [*polars regex cheat sheet*](./org/polars-regex-cheatsheet.md)
+- [*duckdb*](./org/duckdb.md)
+- [*duckdb regex cheat sheet*](./org/duckdb-regex-cheatsheet.md)
+- [*polars regex cheat sheet*](./org/polars-regex-cheatsheet.md)
 
 
 # Coding
 
 "Language-oriented development allows us to shape our tools around the unique linguistics of our problems, making our code more intuitive and expressive. When combined with test-balanced development, we focus not just on covering every inch, but on ensuring that our software's core narrative remains unbroken and robust. It's a harmonious dance between the poetry of our language and the rhythm of our tests." — Alistair Haldane, practical functional programmer, 2023
 
-[*lessons from open source*](./org/open-source.md)
-[*structure and interpretation of computer programs (sicp)*](./org/sicp.md)
-[*functional programming*](./org/fp.md)
-[*language-oriented programming*](./org/language-oriented-programming.md)
-[*org notebooks*](./org/jupyter.md)
-[*dcode*](~/repos/dcode/dcode.scm)
+- [*Lessons from Open Source*](./org/open-source.md)
+- [*Structure and Interpretation of Computer Programs (SICP)*](./org/sicp.md)
+- [*Functional Programming*](./org/fp.md)
+- [*Language-Oriented Programming (LOP)*](./org/language-oriented-programming.md)
+- [*Org notebooks*](./org/jupyter.md)
+- [*dcode*](~/repos/dcode/dcode.scm)
 
 ## Lisps
 
@@ -65,8 +63,8 @@
 
 ### Lisp Dialects
 
-[*Scheme*](./org/scheme.md)
-[*Emacs Lisp*](./org/emacs-lisp.md)
+- [*Scheme*](./org/scheme.md)
+- [*Emacs Lisp*](./org/emacs-lisp.md)
 
 
 # Artificial Intelligence (AI)
@@ -78,14 +76,16 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 # Emacs
 
-[*Introduction to Emacs*](./org/introduction-to-emacs.md)
-Spacemacs [*Gum*](./org/gum.md) project
-[*LLM shaping*](./org/llm-shaping-prompts.md)
-
-
-# Attention deficit hyperactivity disorder (ADHD)
+- [*Introduction to Emacs*](./org/introduction-to-emacs.md)
+- Spacemacs [*Gum*](./org/gum.md) project
+- [*LLM shaping*](./org/llm-shaping-prompts.md)
 
 
 # History
 
-[*FBI COINTELPRO*](./org/fbi-cointelpro.md)
+- [*FBI COINTELPRO*](./org/fbi-cointelpro.md)
+
+
+# Miscellaneous
+
+- [*Markdown Cheat Sheet*](./org/markdown-cheat-sheet.md)
