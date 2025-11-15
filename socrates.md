@@ -1,5 +1,6 @@
 . a simple knowledge base .
 
+
 # Philosophy
 
 [*Meditations on Moloch*](./org/meditations-on-moloch.md)
@@ -13,14 +14,17 @@
 [*Where are we pushing toward salvation most? Where is there hope?*](./org/salvation.md)
 [*Vipassana*](./org/vipassana.md) meditation
 
+
 # Art
 
 [*interiority*](./org/interiority.md)
 [*What are the elements of a great story?*](./org/good-stories.md)
 
+
 # Books
 
 [*favorite books*](./org/favorite-books.md)
+
 
 # Team Building
 
@@ -30,15 +34,15 @@
 [*supercommunicators*](./org/supercommunicators.md)
 [*on consensus*](./org/consensus.md)
 
+
 # Data Analysis
 
 ## [*duckdb*](./org/duckdb.md)
 
 ## [*duckdb regex cheat sheet*](./org/duckdb-regex-cheatsheet.md)
 
-## [*polars*](./org/polars.md)
-
 ## [*polars regex cheat sheet*](./org/polars-regex-cheatsheet.md)
+
 
 # Coding
 
@@ -64,11 +68,13 @@
 [*Scheme*](./org/scheme.md)
 [*Emacs Lisp*](./org/emacs-lisp.md)
 
+
 # Artificial Intelligence (AI)
 
 … as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony …
 
 Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/attention-is-all-you-need.md))
+
 
 # Emacs
 
@@ -76,7 +82,9 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 Spacemacs [*Gum*](./org/gum.md) project
 [*LLM shaping*](./org/llm-shaping-prompts.md)
 
+
 # Attention deficit hyperactivity disorder (ADHD)
+
 
 # History
 

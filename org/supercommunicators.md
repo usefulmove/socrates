@@ -4,17 +4,17 @@ Supercommunicators by Charles Duhigg
 
 Three Types of Conversation
 
-1.  What is this really about?
-2.  How do we feel?
-3.  Who are we?
+1. What is this really about?
+2. How do we feel?
+3. Who are we?
 
 Connecting Questions:
 
 - What are your beliefs and values?
 - What are some experiences that caused you to change?
-- How do you feel about . . . ?
+- How do you feel about ...?
 
-Listening - letting a person get their story out and trying to understand ( even if you disagree ) why they believe what they believe and feel the way they feel
+Listening - letting a person get their story out and trying to understand (even if you disagree) why they believe what they believe and feel the way they feel
 
 Loop for understanding.
 

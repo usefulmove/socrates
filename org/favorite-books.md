@@ -17,6 +17,7 @@
 15. Passion by Alice Munroe (short story)
 16. Désirée's Baby (short story) by Kate Chopin
 
+
 # non-fiction
 
 1.  The Fire Next Time by James Baldwin
@@ -35,10 +36,12 @@
 14. The Human Side of Chess by Fred Reinfeld
 15. The Splendid and the Vile by Erik Larson
 
+
 # poetry
 
 1.  haruko/love poems by June Jordan
 2.  The Complete Poems of Emily Dickinson (edited by Thomas Johnson)
+
 
 # art
 
