@@ -59,7 +59,7 @@
 
 "Lisp is a programmable programming language." John Foderaro [*The Roots of Lisp*](./org/the-roots-of-lisp.md)
 [*Starting with Lisp*](./org/starting-with-lisp.md)
-[Beating the Averages](https://www.paulgraham.com/avg.html) by Paul Graham
+[*Beating the Averages*](https://www.paulgraham.com/avg.html) by Paul Graham
 
 "Begin your journey with a Lisp, whether it's Scheme from SCIP, Racket, Guile, Clojure, or Emacs Lisp. It offers a profound insight into the art of sculpting code. Only by understanding its purity can we truly appreciate the nuances of other languages and recognize that limitations are often mere choices, not necessities."
 

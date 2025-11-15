@@ -1,1 +1,1 @@
-why don't you want your wife ( or mother ) to be this good at that? I don't know too either, but maybe it's because it's a little degrading ( even if the woman you're watching do it is perfectly okay with it ). again, don't know, but it's a very good question.
+why don't you want your wife ( or mother ) to be this good at that? i don't know too either, but maybe it's because it's a little degrading ( even if the woman you're watching do it is perfectly okay with it ). again, don't know, but i think it's a good question.

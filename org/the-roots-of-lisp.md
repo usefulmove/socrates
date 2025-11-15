@@ -1,4 +1,4 @@
-[[*paper*](~/repos/socrates/support/jmc.pdf)]
+[*"the roots of lisp" paper*](~/repos/socrates/support/roots-of-lisp-jmc.pdf)
 
 "The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be writtin in itself."
 
