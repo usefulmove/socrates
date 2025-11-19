@@ -3,7 +3,9 @@
 
 # Philosophy
 
-- [*Meditations on Moloch*](./org/meditations-on-moloch.md)
+- Meditations on Moloch
+  - [*Summary*](./org/meditations-on-moloch-summary.md)
+  - [*Original article*](./org/meditations-on-moloch.md)
   - [*More on Moloch*](./org/more-on-moloch.md)
 - [*Will to Power*](./org/will-to-power.md)
 - [*Duality*](./org/duality.md)
