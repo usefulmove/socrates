@@ -3,6 +3,7 @@
 
 # Philosophy
 
+- [*It Starts Now (Alan Watts)*](./org/it-starts-now.md)
 - Meditations on Moloch
   - [*Summary*](./org/meditations-on-moloch-summary.md)
   - [*Original article*](./org/meditations-on-moloch.md)
