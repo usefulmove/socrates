@@ -34,9 +34,10 @@
 
 - [Objectives and Key Results (OKRs)](./org/OKRs.md)
 - [*Engagement*](./org/engagement.md)
-- [*Questions*](./org/interview-questions.md)
+- [*Difficult Conversations (CALMS method)*](./org/difficult-conversations-calms.md)
 - [*Supercommunicators*](./org/supercommunicators.md)
 - [*On Consensus*](./org/consensus.md)
+- [*Interview Questions*](./org/interview-questions.md)
 
 
 # Data Analysis
