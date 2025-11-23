@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [[ $# -ne 1 ]]; then
+  echo "Usage: $0 <input-markdown-file>" >&2
+  exit 1
+fi
+
+input_file=$1
+if [[ ! -f $input_file ]]; then
+  echo "Input file not found: $input_file" >&2
+  exit 1
+fi
+
+if ! command -v pandoc >/dev/null 2>&1; then
+  echo "pandoc is required but not found on PATH" >&2
+  exit 1
+fi
+
+script_dir=$(cd -- "$(dirname -- "$0")" && pwd)
+template_file="$script_dir/enso-template.tex"
+
+if [[ ! -f $template_file ]]; then
+  echo "Template not found: $template_file" >&2
+  exit 1
+fi
+
+base_name=$(basename -- "$input_file")
+pdf_name="${base_name%.*}.pdf"
+output_file="$PWD/$pdf_name"
+
+pandoc "$input_file" \
+  --listings \
+  --from markdown \
+  --template "$template_file" \
+  --pdf-engine=xelatex \
+  --output "$output_file"
