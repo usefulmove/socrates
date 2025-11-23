@@ -15,7 +15,6 @@
 - [*Being*](./org/being.md)
 - [*Too Broken to be Loved?*](./org/too-broken.md)
 - [*Letter to My Unborn Son*](./org/letter.md)
-- [*Where are we pushing toward salvation most? Where is there hope?*](./org/salvation.md)
 - [*Vipassana*](./org/vipassana.md) meditation
 
 
