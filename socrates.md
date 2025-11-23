@@ -13,7 +13,6 @@
 - [*Selfishness*](./org/selfishness.md)
 - [*Embracing the Mud*](./org/embracing-the-mud.md)
 - [*Being*](./org/being.md)
-- [*Too Broken to be Loved?*](./org/too-broken.md)
 - [*Letter to My Unborn Son*](./org/letter.md)
 - [*Vipassana*](./org/vipassana.md) meditation
 
@@ -53,7 +52,7 @@
 - [*Lessons from Open Source*](./org/open-source.md)
 - [*Structure and Interpretation of Computer Programs (SICP)*](./org/sicp.md)
 - [*Functional Programming*](./org/fp.md)
-- [*Language-Oriented Programming (LOP)*](./org/language-oriented-programming.md)
+- *Language-Oriented Programming (LOP)*
 - [*Org notebooks*](./org/jupyter.md)
 - [*dcode*](~/repos/dcode/dcode.scm)
 
