@@ -78,7 +78,7 @@
 
 # Artificial Intelligence (AI)
 
-… as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony …
+... as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony ...
 
 Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/attention-is-all-you-need.md))
 
