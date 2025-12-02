@@ -14,7 +14,8 @@
 - [*Embracing the Mud*](./org/embracing-the-mud.md)
 - [*Being*](./org/being.md)
 - [*Letter to My Unborn Son*](./org/letter.md)
-- [*Vipassana*](./org/vipassana.md) meditation
+- [*Meditation and Mindfulness*](./org/meditation-and-mindfulness.md)
+  - [*Vipassana*](./org/vipassana.md) meditation
 
 
 # Art
