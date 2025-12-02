@@ -51,9 +51,8 @@
 
 - [*Lessons from Open Source*](./org/open-source.md)
 - [*Structure and Interpretation of Computer Programs (SICP)*](./org/sicp.md)
-- [*Functional Programming*](./org/fp.md)
+- [*Functional Programming*](./org/mastering-functional-programming.md)
 - *Language-Oriented Programming (LOP)*
-- [*Org notebooks*](./org/jupyter.md)
 - [*dcode*](~/repos/dcode/dcode.scm)
 
 ## Languages
