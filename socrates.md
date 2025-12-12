@@ -42,6 +42,7 @@
 # Data Analysis
 
 - [*duckdb*](./org/duckdb.md)
+- [*SQL Patterns for Analytics*](./org/sql-patterns.md)
 - [*duckdb regex cheat sheet*](./org/duckdb-regex-cheatsheet.md)
 - [*polars regex cheat sheet*](./org/polars-regex-cheatsheet.md)
 
@@ -52,15 +53,15 @@
 
 - [*Lessons from Open Source*](./org/open-source.md)
 - [*Structure and Interpretation of Computer Programs (SICP)*](./org/sicp.md)
-- [*Functional Programming*](./org/mastering-functional-programming.md)
-- *Language-Oriented Programming (LOP)*
-- [*dcode*](~/repos/dcode/dcode.scm)
+- *Functional Programming*
+  - [*Why Learn FP with Lisp*](./org/mastering-functional-programming.md) - Motivational introduction
+  - [*Functional Programming Guide*](./org/fp.md) - Technical reference
+- [*Language-Oriented Programming (LOP)*](./org/language-oriented-programming.md)
 
 ## Languages
 - (see Lisps below)
 - [*Rust*](./org/rust-notes.md)
-- Python
-- Haskell
+- [*Python*](./org/python-notes.md)
 
 ### Lisps
 
@@ -86,7 +87,6 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 # Emacs
 
 - [*Introduction to Emacs*](./org/introduction-to-emacs.md)
-- Spacemacs [*Gum*](./org/gum.md) project
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 
 
