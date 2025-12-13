@@ -3,24 +3,34 @@
 
 # Philosophy
 
-- [*It Starts Now (Alan Watts)*](./org/it-starts-now.md)
+## Personal Synthesis (Core Themes)
+
+- [*Being*](./org/being.md) - On presence, authenticity, and the question of who we are
+- [*Duality*](./org/duality.md) - Holding paradoxes: power & vulnerability, doing & being, acceptance & change
+- [*Interiority*](./org/interiority.md) - The inner life, from thoughts to emotions to identity
+- [*Selfishness*](./org/selfishness.md) - Enlightened self-interest and the expanding circle of self
+- [*Will to Power*](./org/will-to-power.md) - Power as creation vs domination; the IC-to-VP journey
+- [*Expressiveness*](./org/expressiveness.md) - Clarity of expression in code, writing, and communication
+
+## Systems and Coordination
+
 - Meditations on Moloch
   - [*Summary*](./org/meditations-on-moloch-summary.md)
   - [*Original article*](./org/meditations-on-moloch.md)
   - [*More on Moloch*](./org/more-on-moloch.md)
-- [*Will to Power*](./org/will-to-power.md)
-- [*Duality*](./org/duality.md)
-- [*Selfishness*](./org/selfishness.md)
-- [*Embracing the Mud*](./org/embracing-the-mud.md)
-- [*Being*](./org/being.md)
-- [*Letter to My Unborn Son*](./org/letter.md)
+- [*On Consciousness (Alan Watts)*](./org/on-the-nature-of-consciousness.md)
+- [*It Starts Now (Alan Watts)*](./org/it-starts-now.md)
+
+## Practice and Reflection
+
 - [*Meditation and Mindfulness*](./org/meditation-and-mindfulness.md)
   - [*Vipassana*](./org/vipassana.md) meditation
+- [*Embracing the Mud*](./org/embracing-the-mud.md)
+- [*Letter to My Unborn Son*](./org/letter.md)
 
 
 # Art
 
-- [*Interiority*](./org/interiority.md)
 - [*Elements of a Great Story*](./org/good-stories.md)
 
 
@@ -37,6 +47,13 @@
 - [*Supercommunicators*](./org/supercommunicators.md)
 - [*On Consensus*](./org/consensus.md)
 - [*Interview Questions*](./org/interview-questions.md)
+
+
+# Psychology & Learning
+
+- [*Psychology Fundamentals*](./org/psychology-fundamentals.md) - Cognition, motivation, behavior change, decision-making
+- [*Learning Psychology*](./org/learning-psychology.md) - Science of how we learn
+- [*Make It Stick*](./org/make-it-stick.md) - Core study techniques
 
 
 # Data Analysis
@@ -83,11 +100,12 @@
 
 Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/attention-is-all-you-need.md))
 
+- [*LLM shaping*](./org/llm-shaping-prompts.md)
+
 
 # Emacs
 
 - [*Introduction to Emacs*](./org/introduction-to-emacs.md)
-- [*LLM shaping*](./org/llm-shaping-prompts.md)
 
 
 # History
