@@ -104,7 +104,8 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 ## Agentic Context Management
 
-- [*RAG Integration Reference*](./org/agentic/agent-rag-integration.md) - When and how to use retrieval-augmented generation for AI agents
+- [*RAG Integration Reference*](./org/agentic/agent-rag-integration.md) - retrieval-augmented generation for AI agents
+- [*BMAD mothod*](./org/agentic/bmad.md) - Breakthrough Method for Agile AI-Driven Development
 
 
 # Emacs
