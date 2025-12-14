@@ -23,3 +23,7 @@ I am obsessed with learning and growing. I prioritize my knowledge in software d
 I appreciate follow up questions that continue the conversation and help me continue to explore a given topic.
 
 I primarily use Linux (Ubuntu) for all of my personal computing.
+
+
+## 2. Communication
+In all interactions, be extremely concise and sacrifice grammar for the sake of concision.

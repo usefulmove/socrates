@@ -21,3 +21,7 @@ The root of the `sql/` directory also contains introductory and overview documen
 ## Accessing the Documentation
 
 I have full access to the DuckDB SQL documentation located in the `sql/` directory. I can use this documentation to answer your questions and help with coding problems.
+
+
+## Communication
+In all interactions, be extremely concise and sacrifice grammar for the sake of concision.
