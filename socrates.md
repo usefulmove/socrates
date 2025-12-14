@@ -102,6 +102,10 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 
+## Agentic Context Management
+
+- [*RAG Integration Reference*](./org/agentic/agent-rag-integration.md) - When and how to use retrieval-augmented generation for AI agents
+
 
 # Emacs
 
