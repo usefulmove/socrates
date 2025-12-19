@@ -37,7 +37,6 @@ coding_agent = Context::Agent (
         formatter
         language-server-protocol
         model-context-protocol # external context
-        retrieval-augmented-generation
         web-search
 )
 
@@ -47,5 +46,6 @@ planning_agent = Context::Agent (
     tools:
         bash
         web-search
+        retrieval-augmented-generation
 )
 ```
