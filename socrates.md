@@ -108,7 +108,7 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 - [Solum :: Context Structure](./org/code/agentic-context-engineering/context-structure.md)
 - [*Retrieval-Augmented Generation (RAG) integration*](./org/code/agentic-context-engineering/agent-rag-integration.md)
-- [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - Breakthrough Method for Agile AI-Driven Development
+- [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - breakthrough method for agile AI-driven development
 - [*Large codebases*](./org/code/agentic-context-engineering/context-engineering-in-large-codebases.md)
 - Agentic discovery - TODO
 
