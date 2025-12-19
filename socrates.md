@@ -96,17 +96,20 @@
 
 # Artificial Intelligence (AI)
 
-... as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony ...
+>... as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony ...
 
 Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/code/attention-is-all-you-need.md))
 
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 
-## Agentic Context Enginerring
+## Context Enginerring
 
-- [*RAG Integration Reference*](./org/code/agentic-context-engineering/agent-rag-integration.md) - retrieval-augmented generation for AI agents
-- [*BMAD mothod*](./org/code/agentic-context-engineering/bmad.md) - Breakthrough Method for Agile AI-Driven Development
-- [*Large Codebases*](TODO)
+> Context engineering is precisely & vigorously managing each agent's context. The context is shaped carefully over time to design and implement a solution. Context being (a.) system and thread prompting, etc., (short-term memory, RAM) plus (b.) long-term memory in the form of shaping, planning, and tracking markdown files (as an example) (c.) tools (bash, LSP, MCP, RAG). The planning and progress history could follow the Project Management Body of Knowledge (PMBoK). Can even be shaped directly as local context. Architectural scaffolding and resource management.
+
+- [Solum :: Context Structure](./org/code/agentic-context-engineering/context-structure.md)
+- [*Retrieval-Augmented Generation (RAG) integration*](./org/code/agentic-context-engineering/agent-rag-integration.md)
+- [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - Breakthrough Method for Agile AI-Driven Development
+- [*Large codebases*](./org/code/agentic-context-engineering/context-engineering-in-large-codebases.md)
 
 
 # Emacs
