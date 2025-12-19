@@ -58,59 +58,60 @@
 
 # Data Analysis
 
-- [*duckdb*](./org/duckdb.md)
-- [*SQL Patterns for Analytics*](./org/sql-patterns.md)
-- [*duckdb regex cheat sheet*](./org/duckdb-regex-cheatsheet.md)
-- [*polars regex cheat sheet*](./org/polars-regex-cheatsheet.md)
+- [*duckdb*](./org/code/duckdb.md)
+- [*SQL Patterns for Analytics*](./org/code/sql-patterns.md)
+- [*duckdb regex cheat sheet*](./org/code/duckdb-regex-cheatsheet.md)
+- [*polars regex cheat sheet*](./org/code/polars-regex-cheatsheet.md)
 
 
 # Coding
 
 "Language-oriented development allows us to shape our tools around the unique linguistics of our problems, making our code more intuitive and expressive. When combined with test-balanced development, we focus not just on covering every inch, but on ensuring that our software's core narrative remains unbroken and robust. It's a harmonious dance between the poetry of our language and the rhythm of our tests." — Alistair Haldane, practical functional programmer, 2023
 
-- [*Lessons from Open Source*](./org/open-source.md)
-- [*Structure and Interpretation of Computer Programs (SICP)*](./org/sicp.md)
+- [*Lessons from Open Source*](./org/code/open-source.md)
+- [*Structure and Interpretation of Computer Programs (SICP)*](./org/code/sicp.md)
 - *Functional Programming*
-  - [*Why Learn FP with Lisp*](./org/mastering-functional-programming.md) - Motivational introduction
-  - [*Functional Programming Guide*](./org/fp.md) - Technical reference
-- [*Language-Oriented Programming (LOP)*](./org/language-oriented-programming.md)
+  - [*Why Learn FP with Lisp*](./org/code/mastering-functional-programming.md) - Motivational introduction
+  - [*Functional Programming Guide*](./org/code/fp.md) - Technical reference
+- [*Language-Oriented Programming (LOP)*](./org/code/language-oriented-programming.md)
 
 ## Languages
 - (see Lisps below)
-- [*Rust*](./org/rust-notes.md)
-- [*Python*](./org/python-notes.md)
+- [*Rust*](./org/code/rust-notes.md)
+- [*Python*](./org/code/python-notes.md)
 
 ### Lisps
 
-"Lisp is a programmable programming language." John Foderaro [*The Roots of Lisp*](./org/the-roots-of-lisp.md)
-[*Starting with Lisp*](./org/starting-with-lisp.md)
+"Lisp is a programmable programming language." John Foderaro [*The Roots of Lisp*](./org/code/the-roots-of-lisp.md)
+[*Starting with Lisp*](./org/code/starting-with-lisp.md)
 [*Beating the Averages*](https://www.paulgraham.com/avg.html) by Paul Graham
 
 "Begin your journey with a Lisp, whether it's Scheme from SCIP, Racket, Guile, Clojure, or Emacs Lisp. It offers a profound insight into the art of sculpting code. Only by understanding its purity can we truly appreciate the nuances of other languages and recognize that limitations are often mere choices, not necessities."
 
 #### Lisp Dialects
 
-- [*Scheme*](./org/scheme.md)
-- [*Emacs Lisp*](./org/emacs-lisp.md)
+- [*Scheme*](./org/code/scheme.md)
+- [*Emacs Lisp*](./org/code/emacs-lisp.md)
 
 
 # Artificial Intelligence (AI)
 
 ... as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony ...
 
-Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/attention-is-all-you-need.md))
+Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/code/attention-is-all-you-need.md))
 
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 
-## Agentic Context Management
+## Agentic Context Enginerring
 
-- [*RAG Integration Reference*](./org/agentic/agent-rag-integration.md) - retrieval-augmented generation for AI agents
-- [*BMAD mothod*](./org/agentic/bmad.md) - Breakthrough Method for Agile AI-Driven Development
+- [*RAG Integration Reference*](./org/code/agentic-context-engineering/agent-rag-integration.md) - retrieval-augmented generation for AI agents
+- [*BMAD mothod*](./org/code/agentic-context-engineering/bmad.md) - Breakthrough Method for Agile AI-Driven Development
+- [*Large Codebases*](TODO)
 
 
 # Emacs
 
-- [*Introduction to Emacs*](./org/introduction-to-emacs.md)
+- [*Introduction to Emacs*](./org/code/introduction-to-emacs.md)
 
 
 # History
