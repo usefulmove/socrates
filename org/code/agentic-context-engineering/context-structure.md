@@ -20,9 +20,15 @@ Context
             architecture_design_summaries
 
     tools::human
+        session_management:
+            agent choice
+            tool selection
+            prompting
+            branching
+            snapshotting
+            context compaction
         filesystem
         git # context version control
-        context_compaction
         bash
         tmux
         os
