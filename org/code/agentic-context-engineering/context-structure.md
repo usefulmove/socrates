@@ -22,6 +22,7 @@ Context
     tools::human
         session_management:
             agent choice
+            mode # plan, build, review, ...
             tool selection
             prompting
             branching
@@ -54,4 +55,6 @@ planning_agent = Context::Agent (
         web-search
         retrieval-augmented-generation
 )
+
+...
 ```
