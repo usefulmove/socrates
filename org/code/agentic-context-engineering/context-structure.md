@@ -16,6 +16,7 @@ Context
         formatter
         git
         cli-tools
+        agent-skills #  https://github.com/agentskills/agentskills
 
     short-term-memory::ram
         system-prompts
