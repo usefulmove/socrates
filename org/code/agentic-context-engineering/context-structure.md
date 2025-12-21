@@ -3,10 +3,19 @@
 ```
 Context
     agent:
-        :tuple[Context.Agent]:
+        # e.g., anthropic-claude-sonnet-4-5, google-gemini-3-flash
 
     tools:
-        # bash, web-search, filesystem, git, cli-tools, etc.
+        bash
+        web-search
+        filesystem
+        language-server-protocol
+        model-context-protocol
+        retrieval-augmented-generation
+        linter
+        formatter
+        git
+        cli-tools
 
     short-term-memory::ram
         system-prompts
@@ -24,7 +33,7 @@ Context
             architecture_design_summaries
 
 
-Context::Tools::human
+Context::Tools::Human
     session_management:
         agent choice
         mode # plan, build, review, ...
@@ -38,28 +47,4 @@ Context::Tools::human
     bash
     tmux
     os
-
-
-coding_agent = Context::Agent (
-    model:
-        opencode/anthropic-claude-sonnet-4.5
-    tools:
-        bash
-        linter
-        formatter
-        language-server-protocol
-        model-context-protocol # external context
-        web-search
-)
-
-planning_agent = Context::Agent (
-    model:
-        opencode/google-gemini-3-flash
-    tools:
-        bash
-        web-search
-        retrieval-augmented-generation
-)
-
-...
 ```
