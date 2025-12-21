@@ -2,16 +2,20 @@
 
 ```
 Context
-    agents:
+    agent:
         :tuple[Context.Agent]:
+
+    tools:
+        # bash, web-search, filesystem, git, cli-tools, etc.
 
     short-term-memory::ram
         system-prompts
-        session-hist
+        session-hist # compaction
 
     long-term-memory::markdown
         shaping_docs
         planning_docs_hist
+        design_docs_hist
         tracking_docs_hist
         testing_docs_hist
             unit
@@ -19,20 +23,21 @@ Context
         context_summaries:
             architecture_design_summaries
 
-    tools::human
-        session_management:
-            agent choice
-            mode # plan, build, review, ...
-            tool selection
-            prompting
-            branching
-            snapshotting
-            context compaction
-        filesystem
-        git # context version control
-        bash
-        tmux
-        os
+
+Context::Tools::human
+    session_management:
+        agent choice
+        mode # plan, build, review, ...
+        tool selection
+        prompting
+        branching
+        snapshotting
+        context compaction
+    filesystem
+    git # context version control
+    bash
+    tmux
+    os
 
 
 coding_agent = Context::Agent (

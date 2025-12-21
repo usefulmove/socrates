@@ -32,10 +32,6 @@
 # Art
 
 - [*Elements of a Great Story*](./org/good-stories.md)
-
-
-# Books
-
 - [*Favorite Books*](./org/favorite-books.md)
 
 
