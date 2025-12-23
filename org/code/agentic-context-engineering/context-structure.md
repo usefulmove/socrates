@@ -43,6 +43,12 @@ Context::Tools::Human
         branching
         snapshotting
         context compaction
+    session_management_tools:
+        opencode # open source
+        cursor
+        claude # anthropic
+        gemini # google
+        codex # openai
     filesystem
     git # context version control
     bash
