@@ -71,6 +71,19 @@
   - [*Functional Programming Guide*](./org/code/fp.md) - Technical reference
 - [*Language-Oriented Programming (LOP)*](./org/code/language-oriented-programming.md)
 
+## Expressiveness
+
+**Expressiveness** is the degree to which a language allows you to close the gap between thought and code—where syntax recedes, abstractions compose without friction, and your extensions become indistinguishable from the language itself.
+
+An expressive language has:
+
+- **Minimal, uniform syntax** that doesn't impose its own structure on your ideas
+- **Code and data symmetry** so that extending the language is the same activity as using it
+- **First-class functions** where your procedures stand equal to the built-ins
+- **Compositional primitives** like recursion and higher-order functions that let small pieces combine into larger wholes without ceremony
+
+In an expressive language, you don't write *in* the language so much as *grow* the language toward your problem until the solution reads as a direct description of the domain itself.
+
 ## Languages
 - (see Lisps below)
 - [*Rust*](./org/code/rust-notes.md)
@@ -102,7 +115,7 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 > Context engineering is precisely & vigorously managing each agent's context. The context is shaped carefully over time to design and implement a solution. Context being (a.) system and thread prompting, etc., (short-term memory, RAM) plus (b.) long-term memory in the form of shaping, planning, and tracking markdown files (as an example) (c.) tools (bash, LSP, MCP, RAG). The planning and progress history could follow the Project Management Body of Knowledge (PMBoK). Can even be shaped directly as local context. Architectural scaffolding and resource management.
 
-- [Solum :: Context Structure](./org/code/agentic-context-engineering/context-structure.md)
+- [Context Engineering Overview](./org/code/agentic-context-engineering/context-structure.md)
 - [*Retrieval-Augmented Generation (RAG) integration*](./org/code/agentic-context-engineering/agent-rag-integration.md)
 - [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - breakthrough method for agile AI-driven development
 - [*Large codebases*](./org/code/agentic-context-engineering/context-engineering-in-large-codebases.md)

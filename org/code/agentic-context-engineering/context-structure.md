@@ -1,56 +1,64 @@
 # Context Management System Structure
 
+
 ```
 Context
-    agent:
-        # e.g., anthropic-claude-sonnet-4-5, google-gemini-3-flash
+    agent
+        # e.g., anthropic-claude-sonnet-4-5, kimi-k2-coding
+        # agent specialization
 
-    tools:
+    tools
         bash
         web-search
         filesystem
-        language-server-protocol
-        model-context-protocol
-        retrieval-augmented-generation
+        language-server-protocol  # lsp
+        model-context-protocol  # mcp servers
+        retrieval-augmented-generation  # rag
         linter
         formatter
         git
         cli-tools
-        agent-skills #  https://github.com/agentskills/agentskills
+        agent-skills  # https://github.com/agentskills/agentskills
+        tool-generation
 
     short-term-memory::ram
         system-prompts
-        session-hist # compaction
+        session-history  # compaction
 
     long-term-memory::markdown
-        shaping_docs
-        planning_docs_hist
-        design_docs_hist
-        tracking_docs_hist
-        testing_docs_hist
+        shaping_documents
+        planning_documents
+        design_documents
+        tracking_documents
+        testing_documents
             unit
             integration
-        context_summaries:
+        context_summaries
             architecture_design_summaries
+        document_history
+
 
 
 Context::Tools::Human
-    session_management:
-        agent choice
-        mode # plan, build, review, ...
+    session_management
+        agent selection
+        mode  # plan, build, review, ...
         tool selection
+        tool generation
         prompting
         branching
         snapshotting
-        context compaction
-    session_management_tools:
-        opencode # open source
+        context compaction  # context compression (summarization) based on relevance to reduce or eliminate context rot
+
+    session_management_tools
+        opencode  # open source
         cursor
-        claude # anthropic
-        gemini # google
-        codex # openai
+        claude  # anthropic
+        gemini  # google
+        codex  # openai
+
     filesystem
-    git # context version control
+    git  # context version control
     bash
     tmux
     os
