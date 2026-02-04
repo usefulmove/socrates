@@ -43,6 +43,8 @@
 - [*Supercommunicators*](./org/supercommunicators.md)
 - [*On Consensus*](./org/consensus.md)
 - [*Interview Questions*](./org/interview-questions.md)
+- Healing
+  - [*Acceptance and Commitment Therapy (ACT)*](./org/act.md)
 
 
 # Psychology & Learning
