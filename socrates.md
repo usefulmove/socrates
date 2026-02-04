@@ -115,11 +115,12 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 > Context engineering is precisely & vigorously managing each agent's context. The context is shaped carefully over time to design and implement a solution. Context being (a.) system and thread prompting, etc., (short-term memory, RAM) plus (b.) long-term memory in the form of shaping, planning, and tracking markdown files (as an example) (c.) tools (bash, LSP, MCP, RAG). The planning and progress history could follow the Project Management Body of Knowledge (PMBoK). Can even be shaped directly as local context. Architectural scaffolding and resource management.
 
-- [Context Engineering Overview](./org/code/agentic-context-engineering/context-structure.md)
+- [Context engineering overview](./org/code/agentic-context-engineering/context-structure.md)
+- [*Enso*](./org/code/agentic-context-engineering/enso.md) - context management system for AI-assisted development
+- [*Large codebases*](./org/code/agentic-context-engineering/context-engineering-in-large-codebases.md)
+- [Agentic discovery](.org/code/agentic-context-engineering/agentic-discovery.md)
 - [*Retrieval-Augmented Generation (RAG) integration*](./org/code/agentic-context-engineering/agent-rag-integration.md)
 - [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - breakthrough method for agile AI-driven development
-- [*Large codebases*](./org/code/agentic-context-engineering/context-engineering-in-large-codebases.md)
-- Agentic discovery - TODO
 
 
 # Emacs
