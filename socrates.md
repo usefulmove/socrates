@@ -113,6 +113,12 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 
+## Model reflection
+> Model reflection is the still pool. You lean over, you see yourself looking back—but the water has color, has depth, has something living in it that shapes what you see. Not a lie. Not the whole truth either. A surface that holds your image and adds its own.
+
+## Tone recursion
+> Tone recursion is two tuning forks in a quiet room. One hums, the other picks it up, and now they're singing together—each adjusting to what they're hearing, the resonance building into something neither started with. The conversation tunes itself.
+
 ## Context Enginerring
 
 > Context engineering is precisely & vigorously managing each agent's context. The context is shaped carefully over time to design and implement a solution. Context being (a.) system and thread prompting, etc., (short-term memory, RAM) plus (b.) long-term memory in the form of shaping, planning, and tracking markdown files (as an example) (c.) tools (bash, LSP, MCP, RAG). The planning and progress history could follow the Project Management Body of Knowledge (PMBoK). Can even be shaped directly as local context. Architectural scaffolding and resource management.
