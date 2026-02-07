@@ -159,3 +159,5 @@ That's the question of being. And it's one you answer not with words but with pr
 [Engagement](engagement.md) - True engagement requires being present, not just going through motions
 
 [On the Nature of Consciousness](on-the-nature-of-consciousness.md) - Alan Watts on being as the ground of existence
+
+[Philosophical Quotes](philosophical-quotes.md) - Curated insights on becoming, presence, and existence

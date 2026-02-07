@@ -1,5 +1,7 @@
 # Interiority
 
+> "Interiority is the felt sense of a person's inner world made quietly visible. The weight someone carries in their stillness. Presence with depth. Vulnerability without explanation. You don't capture interiority. You earn the right to witness it."
+
 ## Definition
 
 Interiority is the experience of a person's inner world—the thoughts, emotions, reflections, desires, doubts, fears, and spiritual or moral struggles that shape their perspective and choices. It's what's going on **inside** someone, often hidden from the external world.

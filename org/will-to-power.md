@@ -140,3 +140,4 @@ This is the Übermensch for engineers: not the 10x engineer who codes alone, but
 - [Selfishness](selfishness.md) - on the ethics of self-interest
 - [Engagement](engagement.md) - on channeling power constructively in organizations
 - [Moloch](meditations-on-moloch.md) - on power at the systemic level
+- [Philosophical Quotes](philosophical-quotes.md) - on power and restraint
