@@ -213,6 +213,32 @@ The quest to fully understand yourself is endless because you're constantly chan
 
 There's no final state of "having mapped all your interiority." It's an ongoing process, not a destination.
 
+### The Gap Between Professed Values and Lived Reality
+
+> "If you are not rooting for your enemy's growth, you are not in touch with God."
+
+This is a truth test. Many spiritual traditions teach love for all beings, compassion for enemies, blessing those who curse you. But when you examine your interiority honestly, what do you find?
+
+When your competitor gets bad news, do you feel a flicker of satisfaction? When someone who opposed you at work fails, is there relief mixed in with your sympathy? When your political adversary stumbles, do you secretly celebrate?
+
+This gap between what we profess and what we actually feel is where interiority does its deepest work. It's not comfortable. It reveals that we're not as evolved as we like to think. The values layer (level 5 in the interiority stack) says "love your enemies," but the desires and emotions layers (levels 2-3) are humming a different tune.
+
+The work of interiority is closing this gap—not by pretending the negative feelings don't exist, but by bringing them into consciousness and working with them:
+
+1. **Notice**: When you feel that flicker of satisfaction at an enemy's misfortune, just see it. Don't judge it. Don't act on it. Just notice.
+
+2. **Investigate**: What's underneath? Is it insecurity? Fear? A need to be right? The ego's investment in being better than someone?
+
+3. **Shift**: Can you imagine feeling differently? Can you practice genuinely wishing them well—not as performance, but as an authentic shift in interior experience?
+
+This is hard. It's counter to instinct, counter to culture, counter to the way our nervous systems are wired. But it's the deepest test of whether our stated values are actual values or just aspirational decoration.
+
+The person who can honestly examine their interiority and admit "I say I want peace, but I actually want my enemies to suffer" is more spiritually developed than the person who pretends they've transcended these feelings. Interiority requires ruthless honesty about what's actually there.
+
+And the goal isn't to become someone who never feels these things—we're human, we will. The goal is to become someone who notices, who doesn't identify with the feeling, who can choose differently.
+
+This connects to [meditation practice](meditation-and-mindfulness.md): you don't stop thoughts by suppressing them. You stop identifying with them by seeing them clearly. The same applies to the darker currents in our interiority. See them clearly, and they lose their power to determine your actions and attitudes.
+
 ## Interiority and Leadership
 
 For leaders, the relationship with interiority is especially important:

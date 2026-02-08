@@ -184,6 +184,27 @@ The duality:
 
 This applies to marriage, friendship, teams. The goal isn't independence OR interdependence. It's both—whole individuals choosing to be interdependent.
 
+### Enemy and Friend
+
+> "If you are not rooting for your enemy's growth, you are not in touch with God."
+
+This cuts to the heart of duality. We instinctively divide the world: allies who deserve our support, enemies who deserve their comeuppance. This feels natural. It feels just.
+
+But the quote suggests a deeper truth: the division between friend and enemy is not fundamental. It's a role we assign, not an identity that exists. When you genuinely root for your enemy's growth—not their defeat, not their humiliation, but their actual flourishing—you've dissolved the duality itself.
+
+This isn't weakness. It's not surrender. It's recognizing that:
+- Your enemy's growth serves your growth (a better adversary forces you to become better)
+- The zero-sum game is usually an illusion (most situations aren't actually win/lose)
+- Your own spirit contracts when you wish ill on others (hate corrodes the container)
+
+The duality here:
+- **Friends**: Those whose well-being aligns with ours, whom we support naturally
+- **Enemies**: Those whose interests seem opposed to ours, whom we instinctively oppose
+
+The integration: Rooting for the growth of all, including adversaries. Not because they've earned it, but because the alternative—secretly hoping they fail, suffer, stumble—disconnects you from whatever you call God, spirit, truth, or the ground of being.
+
+This connects to the concept of [enlightened self-interest](selfishness.md). The circle of self expands to include others, and ultimately includes everyone. To be "in touch with God" is to be in touch with that expanded sense of self.
+
 ### Honesty and Kindness
 
 Relationships require honesty—saying what's true, even when hard. Without honesty, there's no real connection, just performance.
