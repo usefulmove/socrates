@@ -1,13 +1,12 @@
 # Context Management System Structure
 
-
 ```
 Context
-    agent
-        # e.g., anthropic-claude-sonnet-4-5, kimi-k2-coding
-        # agent specialization
+    Agent
+        model  # e.g., claude-sonnet-4-5, kimi-k2
+        specialization  # coding, reasoning, planning
 
-    tools
+    Tools
         bash
         web-search
         filesystem
@@ -21,45 +20,45 @@ Context
         agent-skills  # https://github.com/agentskills/agentskills
         tool-generation
 
-    short-term-memory::ram
+    Working-context  # context window
         system-prompts
-        session-history  # compaction
+        session-history  # subject to compaction
 
-    long-term-memory::markdown
-        shaping_documents
-        planning_documents
-        design_documents
-        tracking_documents
-        testing_documents
-            unit
-            integration
-        context_summaries
-            architecture_design_summaries
-        document_history
+    Near-context  # discoverable, one tool call away
+        codebase  # via grep, lsp, glob
+        docs/  # persistent context on disk
+        external-sources  # web, apis
 
+    Persistent-context  # docs/ — long-term memory
+        core/  # source of truth
+            prd
+            architecture
+            standards
+        stories/  # active units of work
+        reference/  # conventions, lessons, completed work
+            lessons.md
+            completed/
+        skills/  # on-demand capabilities
+        logs/  # session history, compaction summaries
 
-
-Context::Tools::Human
-    session_management
-        agent selection
-        mode  # plan, build, review, ...
-        tool selection
-        tool generation
-        prompting
-        branching
-        snapshotting
-        context compaction  # context compression (summarization) based on relevance to reduce or eliminate context rot
-
-    session_management_tools
-        opencode  # open source
-        cursor
-        claude  # anthropic
-        gemini  # google
-        codex  # openai
-
-    filesystem
-    git  # context version control
-    bash
-    tmux
-    os
+    Human  # context orchestrator
+        session-management
+            agent-selection
+            mode  # plan, build, review
+            tool-selection
+            prompting
+            branching
+            snapshotting
+            compaction
+        session-tools
+            opencode
+            cursor
+            claude-code
+            gemini-cli
+            codex
+        filesystem
+        git  # context version control
+        bash
+        tmux
+        os
 ```
