@@ -1,6 +1,5 @@
 . a simple knowledge base .
 
-
 # Philosophy
 
 ## Personal Synthesis (Core Themes)
@@ -12,6 +11,7 @@
 - [*Will to Power*](./org/will-to-power.md) - Power as creation vs domination; the IC-to-VP journey
 - [*Expressiveness*](./org/expressiveness.md) - Clarity of expression in code, writing, and communication
 - [*Philosophical Quotes*](./org/philosophical-quotes.md) - Curated collection of insights on existence, transformation, and the human condition
+- [*The Way It Is*](./org/the-way-it-is.md) - Poem
 
 ## Systems and Coordination
 
