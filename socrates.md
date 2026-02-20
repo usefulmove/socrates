@@ -140,6 +140,7 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 # History
 
 - [*FBI COINTELPRO*](./org/fbi-cointelpro.md)
+- [*Surveillance Capitalism*](./org/surveillance-capitalism.md)
 
 
 # Miscellaneous
