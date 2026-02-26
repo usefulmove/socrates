@@ -53,6 +53,7 @@
 - [*Psychology Fundamentals*](./org/psychology-fundamentals.md) - Cognition, motivation, behavior change, decision-making
 - [*Learning Psychology*](./org/learning-psychology.md) - Science of how we learn
 - [*Make It Stick*](./org/make-it-stick.md) - Core study techniques
+- [*How to Handle Critism*](./org/how-to-handle-criticism.md)
 
 
 # Data Analysis
