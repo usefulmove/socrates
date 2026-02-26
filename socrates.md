@@ -54,6 +54,7 @@
 - [*Learning Psychology*](./org/learning-psychology.md) - Science of how we learn
 - [*Make It Stick*](./org/make-it-stick.md) - Core study techniques
 - [*How to Handle Critism*](./org/how-to-handle-criticism.md)
+- [*SAID*](./org/said.md) - Four intrinsic motivators: Significant, Appreciated, Invested, Depended
 
 
 # Data Analysis
