@@ -5,6 +5,7 @@
 ## Personal Synthesis (Core Themes)
 
 - [*Being*](./org/being.md) - On presence, authenticity, and the question of who we are
+- [*Being Human*](./org/being-human.md) - On the challenge of being human
 - [*Duality*](./org/duality.md) - Holding paradoxes: power & vulnerability, doing & being, acceptance & change
 - [*Interiority*](./org/interiority.md) - The inner life, from thoughts to emotions to identity
 - [*Selfishness*](./org/selfishness.md) - Enlightened self-interest and the expanding circle of self
