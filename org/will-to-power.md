@@ -141,3 +141,8 @@ This is the Übermensch for engineers: not the 10x engineer who codes alone, but
 - [Engagement](engagement.md) - on channeling power constructively in organizations
 - [Moloch](meditations-on-moloch.md) - on power at the systemic level
 - [Philosophical Quotes](philosophical-quotes.md) - on power and restraint
+- [Being](being.md) - Being is will-to-power's complement: accepting what is, not only striving to become
+- [Being Human](being-human.md) - "Endure" as self-overcoming; "Find Meaning" through contribution as power expressed generatively
+- [Interiority](interiority.md) - The shadow side of will-to-power (ego over mission, needing credit) can only be caught through the interior examination interiority describes
+- [Consensus](consensus.md) - Consensus-seeking as a way to avoid the responsibility of decision-making power; will-to-power requires the courage to decide
+- [Expressiveness](../org/expressiveness.md) - Leadership expressiveness (vision, feedback, values made explicit) is will-to-power as generativity: making the implicit visible so others can create

@@ -87,3 +87,9 @@ That willingness to return is the only skill that ultimately matters.
 - [Engagement](engagement.md) — Autonomy, mastery, purpose, relatedness as the organizational form of meaning
 - [Meditation and Mindfulness](meditation-and-mindfulness.md) — The practice that trains the gap between stimulus and response
 - [Difficult Conversations (CALMS)](difficult-conversations-calms.md) — Relational skills under pressure
+- [Selfishness](selfishness.md) — "What you actually value vs. what you say you value" (self-knowledge) and "false selflessness" are the same territory from different angles
+- [Will to Power](will-to-power.md) — Endurance as self-overcoming; finding meaning through contribution as power expressed generatively
+- [Consensus](consensus.md) — The "Think Critically" section's intellectual humility ("I was wrong about that") is the cognitive foundation for what consensus.md calls genuine agreement vs. groupthink
+- [ACT](act.md) — Clinical formalization of "Endure": Acceptance maps to the Stoic dichotomy of control; Committed Action maps to finding meaning through values-aligned living
+- [Psychology Fundamentals](psychology-fundamentals.md) — The science behind emotional regulation, resilience, decision-making biases, and motivation that this file describes in experiential terms
+- [Supercommunicators](supercommunicators.md) — The loop-for-understanding and reciprocate-vulnerability framework is the operational toolkit for the "Connect with Others" section here

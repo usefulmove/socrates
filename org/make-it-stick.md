@@ -31,3 +31,9 @@ These three strategies form the practical core of effective learning.
 ## The Golden Rule
 
 **Embrace desirable difficulty.** If your study session feels easy and fluent, you're probably not learning efficiently. The struggle to recall, the initial confusion between mixed topics, and the effort to put concepts into your own words are the very processes that build lasting knowledge.
+
+## Connections
+
+- [Learning Psychology](learning-psychology.md) — The deeper treatment of the same evidence; make-it-stick is the summary, learning-psychology is the full map
+- [Psychology Fundamentals](psychology-fundamentals.md) — The three techniques (retrieval, spacing, interleaving) are applications of memory and metacognition research covered in psychology-fundamentals
+- [Engagement](engagement.md) — "Desirable difficulty" maps directly onto engagement's Mastery factor: challenge calibrated just above current capability produces both learning and engagement

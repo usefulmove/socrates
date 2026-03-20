@@ -612,3 +612,10 @@ The science of how we learn - from cognitive mechanisms to practical techniques.
 - [[meditation-and-mindfulness]] - Attention training
 - [[fp]], [[rust-notes]], [[python-notes]], [[scheme]] - Domain-specific learning resources
 - [[sicp]] - Example of deep learning via programming
+
+## Connections
+
+- [Being](being.md) - "Being in Learning" in being.md (learning as expression of being vs. credentialism) is the philosophical framing for why these evidence-based techniques matter
+- [Will to Power](will-to-power.md) - The drive to master a domain is will-to-power expressed constructively; learning-psychology is the mechanism, will-to-power is the drive
+- [Engagement](engagement.md) - The "flow zone" (challenge calibrated to skill, clear goals, immediate feedback) is identical to engagement's Mastery factor; the same insight in different vocabularies
+- [ACT](act.md) - ACT's acceptance of difficulty and committed action toward values maps onto learning's "desirable difficulty" and growth mindset — psychological flexibility is a learning prerequisite

@@ -234,3 +234,13 @@ Then you can move quickly whether or not everyone agrees. And paradoxically, tha
 [Duality](duality.md) - The duality of unity and diversity, agreement and dissent, harmony and productive conflict
 
 [Will to Power](will-to-power.md) - Consensus-seeking can be a way to avoid the responsibility of decision-making power
+
+[Being Human](being-human.md) - The "Think Critically" section's intellectual humility ("I was wrong about that") is the cognitive foundation for genuine consensus vs. groupthink
+
+[Interiority](interiority.md) - The "Illusion of Agreement" maps onto interiority's layers: the gap between what someone says they believe and what they actually feel; you can't get genuine consent without interiority
+
+[Difficult Conversations (CALMS)](difficult-conversations-calms.md) - CALMS is the operational toolkit for what consensus requires: the ability to hear dissent, sit with disagreement, and move toward commitment anyway
+
+[Supercommunicators](supercommunicators.md) - The loop-for-understanding and framework for difficult discussions directly operationalize what consensus needs: understanding before deciding
+
+[Philosophical Quotes](philosophical-quotes.md) - Philosophical-quotes already links here; the reciprocal belongs in consensus.md too — the "resolution vs. control" quote is the philosophical backing for disagree-and-commit

@@ -531,3 +531,12 @@ How we explain behavior (ours vs others).
 - [[make-it-stick]] - Practical study techniques
 - [[fp]] - Functional thinking (related to mental models)
 - [[engagement]] - Team motivation and psychology
+
+## Connections
+
+- [Being Human](being-human.md) - Psychology-fundamentals is the science behind nearly every section of being-human: emotional regulation, resilience, decision-making biases, motivation
+- [Interiority](interiority.md) - The emotional intelligence framework (self-awareness, self-management, social awareness, relationship management) is the psychological map of interiority's "layers"
+- [ACT](act.md) - ACT is built on the same emotional regulation and cognitive defusion research covered here; they belong together
+- [Will to Power](will-to-power.md) - Growth mindset and intrinsic motivation are the empirical foundations for what will-to-power calls self-mastery and creative expression
+- [Consensus](consensus.md) - The groupthink, social influence, and conformity sections here are the psychological explanation for exactly what consensus.md diagnoses as its core problem
+- [Duality](duality.md) - Dual-process theory (System 1 / System 2) is a psychological model of the rational/emotional duality that duality.md holds as a polarity to manage, not resolve

@@ -277,3 +277,13 @@ It lets you see nuance, find creative solutions, build richer models of reality.
 [Expressiveness](expressiveness.md) - The duality of constraints and freedom in programming languages
 
 [Philosophical Quotes](philosophical-quotes.md) - Insights on holding paradoxes, security/insecurity, and finding light in darkness
+
+[Being Human](being-human.md) - The practical application: being-human's core argument is that the virtues on that list aren't problems to solve but paradoxes to hold
+
+[Consensus](consensus.md) - The duality of unity and diversity in decision-making; duality.md already links here but the Connections section omitted the formal entry
+
+[Embracing the Mud](embracing-the-mud.md) - The potter parable is the most direct illustration of duality's thesis: the harmony of beautiful and grotesque, not the resolution of one into the other
+
+[ACT](act.md) - ACT's core move (hold difficult feelings while acting toward values) is the clinical model for holding paradox without collapsing into one pole
+
+[Meditation and Mindfulness](meditation-and-mindfulness.md) - The primary practice for sitting with contradiction and ambiguity; already linked inline but deserves a formal Connections entry

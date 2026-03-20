@@ -74,3 +74,12 @@ The real power is in **practicing all three together**, not as isolated techniqu
 * **Movement** → embodied awareness + flow
 
 Together they create a unified transformation.
+
+## Connections
+
+- [Being](being.md) — Meditation is named there as the core practice of being: sitting with what is, without trying to change it or achieve anything
+- [Being Human](being-human.md) — The "gap between stimulus and response" that being-human describes as the heart of emotional intelligence is exactly what Vipassana trains
+- [Interiority](interiority.md) — Meditation is the primary practice for cultivating interiority — the ability to notice, name, and work with your own inner experience
+- [Duality](duality.md) — Sitting with contradiction and ambiguity without resolving it is duality's practice; meditation is how you train that capacity
+- [ACT](act.md) — ACT's Present Moment and Defusion principles share deep roots with Vipassana; the "-ing" labeling technique and the "observe, don't follow" instruction are the same move in different traditions
+- [Psychology Fundamentals](psychology-fundamentals.md) — Meditation is the primary attentional training practice in psychology-fundamentals; the link runs both ways

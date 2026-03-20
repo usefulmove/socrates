@@ -305,3 +305,13 @@ As a leader now, the question is: Am I creating the conditions I needed to be en
 [Being](being.md) - Engagement is about being fully present in work, not just going through motions.
 
 [Psychology Fundamentals](psychology-fundamentals.md) - Engagement connects to intrinsic motivation, self-determination theory, flow states.
+
+[Selfishness](selfishness.md) - The AMPR factors are all forms of healthy self-interest; selfishness.md already links here but the reciprocal was missing
+
+[Being Human](being-human.md) - Being-human cites AMPR directly in its "Find Meaning" section; engagement is the organizational expression of that same drive
+
+[SAID](said.md) - A parallel motivation framework; where AMPR names the conditions for engagement, SAID names the feelings that signal whether those conditions are being met
+
+[Difficult Conversations (CALMS)](difficult-conversations-calms.md) - Psychological safety (the foundation of Relatedness in AMPR) is built or destroyed in difficult conversations; CALMS is what makes safety possible
+
+[Duality](duality.md) - Autonomy and relatedness are a duality: individual agency and collective belonging. Duality.md links here; the reciprocal belongs here too

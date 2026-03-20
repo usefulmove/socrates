@@ -31,3 +31,11 @@ Framework for Difficult Discussions:
 - Everyone is allowed to talk, but no shaming, blaming or attacks.
 - You have to think before you speak.
 - You have to contribute, rather than just criticize.
+
+## Connections
+
+- [Difficult Conversations (CALMS)](difficult-conversations-calms.md) — Companion frameworks: CALMS handles emotional regulation and structure before and during the conversation; supercommunicators handles the depth of connection and listening within it
+- [Interiority](interiority.md) — "Reciprocate vulnerability" is only possible with access to your own interiority; and real listening requires the ability to track another person's inner experience, not just their words
+- [Being Human](being-human.md) — The "Connect with Others" section in being-human maps directly to the loop-for-understanding and DEEP questions framework here
+- [Engagement](engagement.md) — The "How do we feel?" and "Who are we?" conversation types are how leaders build Relatedness — the fourth AMPR factor
+- [Psychology Fundamentals](psychology-fundamentals.md) — The social psychology of connection (vulnerability, looping, reciprocity) is grounded in attribution theory, emotional intelligence, and persuasion research

@@ -177,3 +177,9 @@ That's the question of being. And it's one you answer not with words but with pr
 [On the Nature of Consciousness](on-the-nature-of-consciousness.md) - Alan Watts on being as the ground of existence
 
 [Philosophical Quotes](philosophical-quotes.md) - Curated insights on becoming, presence, and existence
+
+[Being Human](being-human.md) - The practical companion: not what it means to be, but how to do it — the skills and practices of being a human being well
+
+[Selfishness](selfishness.md) - The "Transcending the Ego" section here connects directly to selfishness.md's expanding circle of self; ego is local optimization, being is global
+
+[ACT](act.md) - Acceptance and Commitment Therapy is the clinical operationalization of presence: "Self as Context" is the therapeutic version of the question "who is the consciousness experiencing this moment?"

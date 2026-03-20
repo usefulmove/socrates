@@ -190,8 +190,18 @@ Now you’re negotiating specifics instead of just trading blame.
 
 ## Quick Recap to Memorize
 
-Write this somewhere until it’s in your bones:
+Write this somewhere until it's in your bones:
 
 > **C.A.L.M.S. difficult conversations:**
 > **C**enter yourself → **A**im the conversation → **L**isten first
 > → **M**irror & validate → **S**ay what you need + next step
+
+## Connections
+
+- [Supercommunicators](supercommunicators.md) — Companion framework: CALMS provides the emotional regulation and structure; supercommunicators provides the depth of listening and connection within it
+- [Interiority](interiority.md) — Step 4 (mirror and validate feelings) requires being able to access and name your own interiority, and recognize the other person's — you can't validate what you can't see
+- [Psychology Fundamentals](psychology-fundamentals.md) — Step 1 (Center/regulate) is directly explained by the emotional regulation research in psychology-fundamentals; the whole CALMS sequence maps onto emotional intelligence theory
+- [Consensus](consensus.md) — Difficult conversations are often what has to happen before genuine consensus becomes possible; CALMS is the prerequisite, not the alternative to agreement
+- [Engagement](engagement.md) — Psychological safety (the foundation of Relatedness in AMPR) is built or destroyed in difficult conversations; this framework is what makes safety possible
+- [Being Human](being-human.md) — The "Connect with Others" section in being-human links here; CALMS is the operational toolkit for what being-human describes in principle
+- [Philosophical Quotes](philosophical-quotes.md) — The "resolution vs. control" quote there is the philosophical backing for CALMS's aim: understanding, not victory

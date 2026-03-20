@@ -111,3 +111,7 @@ This is the mechanics of [learning and growth](learning-psychology.md). Identity
 - [Learning Psychology](learning-psychology.md) — How we learn and change
 - [Consensus](consensus.md) — When agreement fails; disagree and commit
 - [Difficult Conversations](difficult-conversations-calms.md) — The CALMS method for hard conversations
+- [Selfishness](selfishness.md) — The village/child proverb is the shadow side of selfishness.md's expanding circle: exclusion doesn't create indifference, it creates destruction
+- [Being Human](being-human.md) — The Murakami quote and the identity arc quote map the same journey being-human describes: transformation through practice and return
+- [ACT](act.md) — The "resolution vs. control" quote is the philosophical statement of ACT's Acceptance principle: you can't force another person's growth, only commit to your own
+- [Meditation and Mindfulness](meditation-and-mindfulness.md) — The Alan Watts "holding your breath" quote and the Stoic view-from-above practice are from the same tradition

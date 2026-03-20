@@ -166,3 +166,11 @@ Your answer to that question determines whether your self-interest is destructiv
 [Moloch](meditations-on-moloch.md) - Individual self-interest aggregating into collective harm; the failure to align personal and systemic incentives
 
 [Being](being.md) - The question of self: Who is the "self" that is being selfish? How we define ourselves shapes what selfishness means
+
+[Duality](duality.md) - The integration of self-interest and collective good is duality's work: not resolving the tension but operating at a higher level that contains both
+
+[Consensus](consensus.md) - Selfishness in decision-making — hoarding power, manufacturing false agreement, vetoing as self-protection — appears in consensus.md from the organizational angle
+
+[Interiority](interiority.md) - Selfish leaders often don't see themselves as selfish because their narrative shields them; interiority is the practice of examining the gap between professed and actual values
+
+[Philosophical Quotes](philosophical-quotes.md) - The Baldwin quote ("The place I'll fit will not exist until I make it") and the village/child proverb both speak to the expanding circle of self and the cost of exclusion

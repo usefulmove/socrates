@@ -286,3 +286,15 @@ That's interiority: the examined inner life made visible, used to live more full
 [Meditation and Mindfulness](meditation-and-mindfulness.md) - Core practices for cultivating awareness of interiority
 
 [Supercommunicators](supercommunicators.md) - Communication requires making interiority visible to others
+
+[Being Human](being-human.md) - The "Know Yourself" section in being-human is the applied version of interiority's theory: self-knowledge as instrumentation, mapping your interior for better navigation
+
+[Selfishness](selfishness.md) - The "desires and motivations" layer of interiority is exactly what selfishness.md probes: the gap between what you think you're serving and what you're actually serving
+
+[Will to Power](will-to-power.md) - The shadow side of will-to-power (ego replacing mission, needing credit, defending positions) can only be caught through the interior examination interiority describes
+
+[Difficult Conversations (CALMS)](difficult-conversations-calms.md) - CALMS Step 4 (mirror and validate feelings) requires being able to name your own interiority and recognize the other person's; CALMS Step 5's I-statements are interiority made explicit
+
+[ACT](act.md) - ACT's Defusion and Self-as-Context principles are therapeutic tools for the exact problem interiority names: being fused with your experience rather than observing it clearly
+
+[Philosophical Quotes](philosophical-quotes.md) - The Goethe quote ("A man sees in the world what he carries in his heart") is the one-line summary of interiority's thesis
