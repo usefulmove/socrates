@@ -12,6 +12,7 @@
 - [*Will to Power*](./org/will-to-power.md) - Power as creation vs domination; the IC-to-VP journey
 - [*Expressiveness*](./org/expressiveness.md) - Clarity of expression in code, writing, and communication
 - [*Philosophical Quotes*](./org/philosophical-quotes.md) - Curated collection of insights on existence, transformation, and the human condition
+- [*On Being a Piano Key*](./org/underground-piano-keys.md) - Dostoevsky on free will, spite, and the irreducibility of the human will
 - [*The Way It Is*](./org/the-way-it-is.md) - Poem
 
 ## Systems and Coordination
