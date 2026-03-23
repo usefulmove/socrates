@@ -157,6 +157,25 @@ The deep question isn't "Am I being selfish?" but "What self am I serving?"
 
 Your answer to that question determines whether your self-interest is destructive or generative, whether it diminishes others or elevates them, whether it's selfishness or something closer to wisdom.
 
+## Resonant Work
+
+### Veronica A. Shoffstall — "After a while you learn"
+
+> "After a while you learn  
+> the subtle difference between  
+> holding a hand and chaining a soul  
+> and you learn that love doesn't mean leaning  
+> and company doesn't mean security.  
+> ...  
+> After a while you learn  
+> that even sunshine burns if you get too much  
+> so you plant your own garden  
+> and decorate your own soul  
+> instead of waiting  
+> for someone to bring you flowers."
+
+The poem traces the arc of the expanding self — from the narrow self that needs others to complete it, to the self that can stand alone and tend its own ground. "Planting your own garden" is not selfishness in the pejorative sense; it's the development of the self that makes genuine relationship possible. You can't give what you don't have. The movement from leaning to self-sufficiency isn't withdrawal — it's the prerequisite for real connection.
+
 ## Connections
 
 [Will to Power](will-to-power.md) - Self-interest expressed as will to power can be destructive or generative depending on how it's channeled

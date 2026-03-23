@@ -32,6 +32,30 @@
 - [*Letter to My Unborn Son*](./org/letter.md)
 
 
+# Words
+
+*Original work and creative writing.*
+
+- [air-you-left-behind](./words/air-you-left-behind)
+- [aura](./words/aura)
+- [come-ill-write](./words/come-ill-write) (1999)
+- [endpoints](./words/endpoints) (1995)
+- [favorite-fruit](./words/favorite-fruit)
+- [if-anything-ever-happens](./words/if-anything-ever-happens)
+- [lucid](./words/lucid)
+- [mud](./words/mud)
+- [nocturne-eighteen](./words/nocturne-eighteen)
+- [push](./words/push)
+- [sauce](./words/sauce)
+- [settling](./words/settling)
+- [takes-me-home](./words/takes-me-home)
+- [the-bowl](./words/the-bowl)
+- [the-color-of-rain](./words/the-color-of-rain) (1998)
+- [underneath-it-all](./words/underneath-it-all)
+- [unmet](./words/unmet)
+- [zephyr](./words/zephyr)
+
+
 # Art
 
 - [*Elements of a Great Story*](./org/good-stories.md)
@@ -57,6 +81,7 @@
 - [*Make It Stick*](./org/make-it-stick.md) - Core study techniques
 - [*How to Handle Critism*](./org/how-to-handle-criticism.md)
 - [*SAID*](./org/said.md) - Four intrinsic motivators: Significant, Appreciated, Invested, Depended
+- [*On Accountability and Its Enemies*](./org/freyd-on-accountability.md) - Jennifer Freyd on DARVO and the patterns of abusive deflection
 
 
 # Data Analysis

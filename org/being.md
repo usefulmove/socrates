@@ -164,6 +164,33 @@ Not your role. Not your history. Not your plans. Who is the consciousness experi
 
 That's the question of being. And it's one you answer not with words but with presence.
 
+## Resonant Work
+
+### Walter Benton — "Were I Pygmalion or God"
+
+> "I would make you exactly as you are ... in all dimensions. From your warm hair to your intimate toes would you be wholly in your own image. I would change nothing, add or take away."
+
+The whole poem is an act of radical acceptance — the inverse of the engineering impulse to optimize. The speaker has the power of a god and uses it to reproduce the person exactly. No improvements, no subtractions. The loved one is not raw material. They are already the finished thing. This is what it looks like to see someone without an agenda for them.
+
+### Sonia Sanchez — Poem #3
+
+> "I gather up  
+> each sound  
+> you left behind  
+> and stretch them  
+> on our bed.  
+> each nite  
+> I breathe you  
+> and become high."
+
+Presence-in-absence. The person is gone but the act of attending — gathering, stretching, breathing — keeps them somehow real. Grief as a form of continued presence. The body remembers what the mind wants to let go.
+
+### Daniel Cormier — on losing to a man accused of cheating
+
+> "The people around me, my friends, they tell me that nothing has changed because if he was not fighting completely clean, then there was no fight. But I was there. I fought. In my mind, I lost a competition — but if it was an unfair competition, I shouldn't have been in it. It's a hard question. I guess I do feel like the champion, because I know I was the champion before all this happened. I don't know. It's a difficult question to ask someone like me."
+
+The question "am I the champion?" can't be answered cleanly when the external verdict is corrupt. Cormier doesn't paper over it with false confidence. He holds the uncertainty — *I feel like the champion AND I don't know* — without resolving it into either self-pity or defiance. This is the paradox of authenticity in its most concrete form: who you are when the scoreboard is broken.
+
 ## Connections
 
 [Duality](duality.md) - Being requires holding paradoxes: doing and being, ambition and presence, becoming and accepting what is
