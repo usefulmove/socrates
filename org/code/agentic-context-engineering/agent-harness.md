@@ -2,7 +2,7 @@
 
 The infrastructure layer that constrains, informs, verifies, and corrects an AI agent. The harness encompasses everything between user intent and model output that is not the language model itself: system prompts, tool definitions, execution environments, verification loops, and lifecycle management.
 
-**Agent = Model + Harness**
+> Agent = Model + Harness
 
 The model contains the intelligence. The harness makes that intelligence useful.
 
