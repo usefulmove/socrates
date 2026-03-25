@@ -159,6 +159,7 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 - [Agentic discovery](.org/code/agentic-context-engineering/agentic-discovery.md)
 - [*Retrieval-Augmented Generation (RAG) integration*](./org/code/agentic-context-engineering/agent-rag-integration.md)
 - [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - breakthrough method for agile AI-driven development
+- [*Agent Harness*](./org/code/agentic-context-engineering/agent-harness.md) - Infrastructure layer for constraining, verifying, and correcting AI agents
 
 
 # Emacs
