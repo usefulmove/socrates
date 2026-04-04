@@ -287,3 +287,5 @@ It lets you see nuance, find creative solutions, build richer models of reality.
 [ACT](act.md) - ACT's core move (hold difficult feelings while acting toward values) is the clinical model for holding paradox without collapsing into one pole
 
 [Meditation and Mindfulness](meditation-and-mindfulness.md) - The primary practice for sitting with contradiction and ambiguity; already linked inline but deserves a formal Connections entry
+
+[Monistic Reincarnation](monistic-reincarnation.md) - Monism dissolves the duality of self/other by showing both are aspects of one reality; not resolving but transcending

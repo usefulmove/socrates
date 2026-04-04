@@ -83,3 +83,5 @@ Together they create a unified transformation.
 - [Duality](duality.md) — Sitting with contradiction and ambiguity without resolving it is duality's practice; meditation is how you train that capacity
 - [ACT](act.md) — ACT's Present Moment and Defusion principles share deep roots with Vipassana; the "-ing" labeling technique and the "observe, don't follow" instruction are the same move in different traditions
 - [Psychology Fundamentals](psychology-fundamentals.md) — Meditation is the primary attentional training practice in psychology-fundamentals; the link runs both ways
+
+- [Monistic Reincarnation](monistic-reincarnation.md) — The dissolution of the constructed self in meditation is the experiential foundation for monistic insight: the "observer" is just another observed phenomenon

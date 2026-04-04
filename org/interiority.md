@@ -298,3 +298,5 @@ That's interiority: the examined inner life made visible, used to live more full
 [ACT](act.md) - ACT's Defusion and Self-as-Context principles are therapeutic tools for the exact problem interiority names: being fused with your experience rather than observing it clearly
 
 [Philosophical Quotes](philosophical-quotes.md) - The Goethe quote ("A man sees in the world what he carries in his heart") is the one-line summary of interiority's thesis
+
+[Monistic Reincarnation](monistic-reincarnation.md) - Deep interiority work reveals the "self" being examined is itself constructed; there is no fixed interior—experience is the universe experiencing itself

@@ -146,3 +146,5 @@ This is the Übermensch for engineers: not the 10x engineer who codes alone, but
 - [Interiority](interiority.md) - The shadow side of will-to-power (ego over mission, needing credit) can only be caught through the interior examination interiority describes
 - [Consensus](consensus.md) - Consensus-seeking as a way to avoid the responsibility of decision-making power; will-to-power requires the courage to decide
 - [Expressiveness](../org/expressiveness.md) - Leadership expressiveness (vision, feedback, values made explicit) is will-to-power as generativity: making the implicit visible so others can create
+
+- [Monistic Reincarnation](monistic-reincarnation.md) - Power as domination is ego acting from separation; power as creation is the universe expressing itself through this temporary configuration (Baqa)

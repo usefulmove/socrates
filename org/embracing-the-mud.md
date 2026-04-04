@@ -14,3 +14,5 @@ The potter continued, "Our essence cannot be found solely in what is pure, but i
 - [Being](being.md) — The potter is fully present in being — not performing craft, but being a craftsman; this is being.md's "creation for its own sake"
 - [Will to Power](will-to-power.md) — The transformation of unrefined clay into something of beauty is will-to-power as creative expression: power over chaos channeled into creation
 - [Interiority](interiority.md) — "Truth is in the union of pure and impure" is a metaphor for interiority's hardest work: acknowledging the darker currents without judgment, and working with them rather than around them
+
+- [Monistic Reincarnation](monistic-reincarnation.md) — The "union of pure and impure" is the monistic recognition that all dualities ultimately resolve in the One; the clay and the pot are not separate, the muddy and the beautiful are one substance differently expressed

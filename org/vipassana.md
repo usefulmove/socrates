@@ -57,3 +57,8 @@
 - Sila: The Pali word for morality or ethical conduct, a key component of Vipassana practice and the first pillar of the practice.
 - Theravada Buddhism: One of the two major branches of Buddhism, known as the "Doctrine of the Elders"; it is distinguished by its emphasis on the original teachings of the Buddha, individual self-examination, and mindfulness techniques like Vipassana.
 - Vipassana: A Pali word meaning "to see things as they are," a meditation technique that focuses on self-observation and awareness of body sensations to develop insight and wisdom.
+
+## Connections
+
+- [Meditation and Mindfulness](meditation-and-mindfulness.md) — Vipassana is the core meditative practice described there; the study guide here provides technical detail
+- [Monistic Reincarnation](monistic-reincarnation.md) — The Theravadin concepts of *samsara* (cycle of rebirth) and *nibbana* (liberation) map directly to the monistic framework: the dissolution of the illusion of separate self

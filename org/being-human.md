@@ -93,3 +93,4 @@ That willingness to return is the only skill that ultimately matters.
 - [ACT](act.md) — Clinical formalization of "Endure": Acceptance maps to the Stoic dichotomy of control; Committed Action maps to finding meaning through values-aligned living
 - [Psychology Fundamentals](psychology-fundamentals.md) — The science behind emotional regulation, resilience, decision-making biases, and motivation that this file describes in experiential terms
 - [Supercommunicators](supercommunicators.md) — The loop-for-understanding and reciprocate-vulnerability framework is the operational toolkit for the "Connect with Others" section here
+- [Monistic Reincarnation](monistic-reincarnation.md) — The practical companion: when the separate self is seen through, the question becomes not "how do I become a better person" but "how does this pattern express more fully"

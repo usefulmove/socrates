@@ -210,3 +210,5 @@ The question "am I the champion?" can't be answered cleanly when the external ve
 [Selfishness](selfishness.md) - The "Transcending the Ego" section here connects directly to selfishness.md's expanding circle of self; ego is local optimization, being is global
 
 [ACT](act.md) - Acceptance and Commitment Therapy is the clinical operationalization of presence: "Self as Context" is the therapeutic version of the question "who is the consciousness experiencing this moment?"
+
+[Monistic Reincarnation](monistic-reincarnation.md) - The dissolution of the separate self in Fana is the experiential foundation of being; Baqa is being without ego-fixation
