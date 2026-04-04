@@ -32,6 +32,7 @@
   - [*Vipassana*](./org/vipassana.md) meditation
 - [*Embracing the Mud*](./org/embracing-the-mud.md)
 - [*Letter to My Unborn Son*](./org/letter.md)
+- [*Monistic Reincarnation*](./org/monistic-reincarnation.md)
 
 
 # Words
