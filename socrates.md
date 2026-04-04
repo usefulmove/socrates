@@ -4,6 +4,8 @@
 
 ## Personal Synthesis (Core Themes)
 
+> Gnosis is direct, experiential knowledge of spiritual truth—not belief, not theory, not reasoning your way to something, but knowing through encounter.
+
 - [*Being*](./org/being.md) - On presence, authenticity, and the question of who we are
 - [*Being Human*](./org/being-human.md) - On the challenge of being human
 - [*Duality*](./org/duality.md) - Holding paradoxes: power & vulnerability, doing & being, acceptance & change
