@@ -30,9 +30,9 @@
 
 - [*Meditation and Mindfulness*](./org/meditation-and-mindfulness.md)
   - [*Vipassana*](./org/vipassana.md) meditation
+- [*Monistic Reincarnation*](./org/monistic-reincarnation.md) - The One and the many: Sufi Fana/Baqa, Advaita Vedanta, and the dissolution of separation
 - [*Embracing the Mud*](./org/embracing-the-mud.md)
 - [*Letter to My Unborn Son*](./org/letter.md)
-- [*Monistic Reincarnation*](./org/monistic-reincarnation.md)
 
 
 # Words
