@@ -62,6 +62,7 @@
 # Art
 
 - [*Elements of a Great Story*](./org/good-stories.md)
+- [*The Science of Storytelling*](./org/science-of-storytelling.md)
 - [*Favorite Books*](./org/favorite-books.md)
 
 
