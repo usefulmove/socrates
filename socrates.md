@@ -15,7 +15,6 @@
 - [*Expressiveness*](./org/expressiveness.md) - Clarity of expression in code, writing, and communication
 - [*Philosophical Quotes*](./org/philosophical-quotes.md) - Curated collection of insights on existence, transformation, and the human condition
 - [*On Being a Piano Key*](./org/underground-piano-keys.md) - Dostoevsky on free will, spite, and the irreducibility of the human will
-- [*The Way It Is*](./org/the-way-it-is.md) - Poem
 
 ## Systems and Coordination
 
@@ -40,6 +39,7 @@
 *Original work and creative writing.*
 
 - [air-you-left-behind](./words/air-you-left-behind)
+- [a-light-exists-in-spring](./words/a-light-exists-in-spring) (Emily Dickinson)
 - [aura](./words/aura)
 - [come-ill-write](./words/come-ill-write) (1999)
 - [endpoints](./words/endpoints) (1995)
@@ -54,6 +54,7 @@
 - [takes-me-home](./words/takes-me-home)
 - [the-bowl](./words/the-bowl)
 - [the-color-of-rain](./words/the-color-of-rain) (1998)
+- [the-way-it-is](./words/the-way-it-is) (William Stafford)
 - [underneath-it-all](./words/underneath-it-all)
 - [unmet](./words/unmet)
 - [zephyr](./words/zephyr)
