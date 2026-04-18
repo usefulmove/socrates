@@ -170,6 +170,7 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 # Emacs
 
 - [*Introduction to Emacs*](./org/code/introduction-to-emacs.md)
+- [*Emacs love letter*](./org/emacs-love-letter.md)
 
 
 # History
