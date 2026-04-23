@@ -149,11 +149,10 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 
-## Model reflection
-> Model reflection is the still pool. You lean over, you see yourself looking back—but the water has color, has depth, has something living in it that shapes what you see. Not a lie. Not the whole truth either. A surface that holds your image and adds its own.
+## Stochastic accommodation
+> The model doesn't reflect you. It completes the archetype your cues most closely resemble. — *stochastic accommodation*
 
-## Tone recursion
-> Tone recursion is two tuning forks in a quiet room. One hums, the other picks it up, and now they're singing together—each adjusting to what they're hearing, the resonance building into something neither started with. The conversation tunes itself.
+- [*Stochastic Accommodation*](./org/stochastic_accommodation.md) — On probability conditioning, register entrainment, and the ratchet effect in LLM conversations
 
 ## Context Enginerring
 
