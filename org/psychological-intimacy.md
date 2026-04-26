@@ -20,6 +20,7 @@ Intimacy is often mistaken for its neighbors:
 - **Familiarity** is not intimacy. You can know someone's routines, their preferences, their history, without knowing how it feels to be them from the inside.
 - **Enmeshment** is intimacy's counterfeit: the collapse of boundary that feels like closeness but is actually the dissolution of selfhood.
 - **Service or sacrifice** can walk alongside intimacy, but it is not intimacy itself. You can give endlessly without ever being seen.
+- **Intellectual agreement** is not intimacy. Shared conclusions can produce a feeling of alignment that obscures a deeper estrangement — the convergence of opinions without the exposure of reasoning.
 
 ---
 
@@ -38,6 +39,25 @@ Recognition invites further vulnerability. Intimacy deepens by iteration, not by
 
 ### 4. Safety Without Comfort
 Paradoxically, intimacy does not always feel safe. Being truly seen can be terrifying. But there is trust that what is revealed will not be weaponized. The safety lies not in the absence of difficulty, but in the certainty that difficulty will not be used against you.
+
+---
+
+## Dimensions of Intimacy
+
+Psychological intimacy is not a single substance. It operates across distinct registers, and mistaking one for another produces the puzzling sense that a relationship is close yet incomplete.
+
+### Emotional Intimacy
+The sharing of affective experience — fear, longing, grief, joy — before it has been dressed in reason or narrative. This is the dimension most people mean when they speak of intimacy: *I feel this, and I want you to know that I feel it.* Yet emotional intimacy can plateau. Two people can be exquisitely attuned to each other's moods without ever understanding how the other *thinks*.
+
+### Cognitive Intimacy
+This is the sharing of the *structure* of one's thinking — not merely what you believe, but how you reason, what you doubt, which assumptions you cannot release and why. It includes epistemic vulnerability: letting someone witness your mind while it is still in motion, your provisional arguments, the positions you find attractive but cannot yet defend.
+
+Cognitive intimacy is not intellectual agreement. Two people can converge on every proposition and remain cognitively estranged if neither has exposed their actual reasoning. Conversely, two people can disagree profoundly and experience deep cognitive intimacy if each genuinely grasps the other's *architecture of belief*.
+
+This dimension is often the next depth reached when emotional fluency is already established: not feeling more together, but *thinking aloud together*.
+
+### Narrative Intimacy
+The sharing of how one makes meaning from experience — the story you tell about who you are, what happened to you, and what it implies. Narrative intimacy is the willingness to let someone hold a provisional version of your story, to be corrected, and to revise the story itself in their presence.
 
 ---
 
