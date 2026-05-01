@@ -244,3 +244,5 @@ Then you can move quickly whether or not everyone agrees. And paradoxically, tha
 [Supercommunicators](supercommunicators.md) - The loop-for-understanding and framework for difficult discussions directly operationalize what consensus needs: understanding before deciding
 
 [Philosophical Quotes](philosophical-quotes.md) - Philosophical-quotes already links here; the reciprocal belongs in consensus.md too — the "resolution vs. control" quote is the philosophical backing for disagree-and-commit
+
+[Dunbar's Number](dunbars-number.md) - Consensus works inside Dunbar layers, where everyone knows each other and informal trust is high. Outside those layers it breaks down — you're trying to coordinate people who don't share the relationship knowledge that makes genuine agreement possible

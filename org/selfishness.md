@@ -164,3 +164,5 @@ The poem traces the arc of the expanding self—from the narrow self that needs 
 [Interiority](interiority.md) - Selfish leaders often don't see themselves as selfish because their narrative shields them; interiority is the practice of examining the gap between professed and actual values
 [Philosophical Quotes](philosophical-quotes.md) - The Baldwin quote ("The place I'll fit will not exist until I make it") and the village/child proverb both speak to the expanding circle of self and the cost of exclusion
 [Monistic Reincarnation](monistic-reincarnation.md) - The "universal self" is the philosophical foundation for the expanding circle; when all is One, helping others IS helping yourself
+
+[Dunbar's Number](dunbars-number.md) - The expanding circle of self maps almost exactly onto Dunbar's layers (5/15/50/150). The 5 are the innermost self; the 150 are the outer boundary of the community you can genuinely care about through relationship rather than abstraction

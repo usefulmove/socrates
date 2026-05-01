@@ -73,6 +73,7 @@
 
 - [Objectives and Key Results (OKRs)](./org/OKRs.md)
 - [*Engagement*](./org/engagement.md)
+- [*Dunbar's Number*](./org/dunbars-number.md) - The cognitive ceiling (~150) on stable social relationships, and what it means for org design, governance, and the limits of informal trust
 - [*Difficult Conversations (CALMS method)*](./org/difficult-conversations-calms.md)
 - [*Supercommunicators*](./org/supercommunicators.md)
 - [*On Consensus*](./org/consensus.md)
@@ -84,6 +85,7 @@
 # Psychology & Learning
 
 - [*Psychology Fundamentals*](./org/psychology-fundamentals.md) - Cognition, motivation, behavior change, decision-making
+- [*Dunbar's Number*](./org/dunbars-number.md) - The neocortex as the hardware limit on social cognition; see also Team Building
 - [*Learning Psychology*](./org/learning-psychology.md) - Science of how we learn
 - [*Make It Stick*](./org/make-it-stick.md) - Core study techniques
 - [*How to Handle Critism*](./org/how-to-handle-criticism.md)

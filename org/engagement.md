@@ -315,3 +315,5 @@ As a leader now, the question is: Am I creating the conditions I needed to be en
 [Difficult Conversations (CALMS)](difficult-conversations-calms.md) - Psychological safety (the foundation of Relatedness in AMPR) is built or destroyed in difficult conversations; CALMS is what makes safety possible
 
 [Duality](duality.md) - Autonomy and relatedness are a duality: individual agency and collective belonging. Duality.md links here; the reciprocal belongs here too
+
+[Dunbar's Number](dunbars-number.md) - Relatedness is bounded by Dunbar layers; you can't feel genuinely connected to 500 colleagues. The 5/15/50 structure is the cognitive architecture that makes Relatedness possible or impossible at a given org scale

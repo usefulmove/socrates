@@ -540,3 +540,5 @@ How we explain behavior (ours vs others).
 - [Will to Power](will-to-power.md) - Growth mindset and intrinsic motivation are the empirical foundations for what will-to-power calls self-mastery and creative expression
 - [Consensus](consensus.md) - The groupthink, social influence, and conformity sections here are the psychological explanation for exactly what consensus.md diagnoses as its core problem
 - [Duality](duality.md) - Dual-process theory (System 1 / System 2) is a psychological model of the rational/emotional duality that duality.md holds as a polarity to manage, not resolve
+
+- [Dunbar's Number](dunbars-number.md) - Applied social cognition: the neocortex as the hardware limit on the social software we run. The cognitive load and working memory sections here are the micro-level version of the same constraint that Dunbar's number describes at the community level
