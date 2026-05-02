@@ -32,6 +32,8 @@ The deepest layer: Who am I? What's this all for?
 
 Most people spend their lives avoiding these questions because they're terrifying. But they're inescapable—they surface during transitions (job change, relationship ending, health crisis) whether you want them to or not.
 
+Dickinson captures this in the deepest register: "The Crime, from us, is hidden — / Immured the whole of Life / Within a magic Prison." We inhabit a confinement so total we don't even see the walls. The deepest interiority is not what we can excavate through introspection but what remains unconscious — the hidden crime for which we seek forgiveness without knowing what we did.
+
 ## The Engineering Mind and Interiority
 
 Engineers often have an interesting relationship with interiority:
@@ -201,3 +203,5 @@ That's interiority: the examined inner life made visible, used to live more full
 [ACT](act.md) - ACT's Defusion and Self-as-Context principles are therapeutic tools for the exact problem interiority names: being fused with your experience rather than observing it clearly
 [Philosophical Quotes](philosophical-quotes.md) - The Goethe quote ("A man sees in the world what he carries in his heart") is the one-line summary of interiority's thesis
 [Monistic Reincarnation](monistic-reincarnation.md) - Deep interiority work reveals the "self" being examined is itself constructed; there is no fixed interior—experience is the universe experiencing itself
+
+[Magic Prison](/words/magic-prison) - "The Crime, from us, is hidden" — interiority's deepest layer: the unconscious structures we inhabit without knowing, the prison we cannot see

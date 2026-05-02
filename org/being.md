@@ -191,7 +191,22 @@ Presence-in-absence. The person is gone but the act of attending — gathering, 
 
 The question "am I the champion?" can't be answered cleanly when the external verdict is corrupt. Cormier doesn't paper over it with false confidence. He holds the uncertainty — *I feel like the champion AND I don't know* — without resolving it into either self-pity or defiance. This is the paradox of authenticity in its most concrete form: who you are when the scoreboard is broken.
 
+### Emily Dickinson — "Oh God we ask one favor"
+
+> "Oh God we ask one favor,
+> That we may be forgiven —
+> For what, he is presumed to know —
+> The Crime, from us, is hidden —
+> Immured the whole of Life
+> Within a magic Prison
+> We reprimand the Happiness
+> That too competes with Heaven."
+
+The ultimate question of being: can you be forgiven for a crime you don't know you committed? The poem suggests we are imprisoned in our own existence — a "magic Prison" so complete we don't even see the walls. And in the most devastating turn, we "reprimand the Happiness" because joy feels suspicious, undeserved, a competitor to grace we're not sure we have. This is being turned inside out: not presence but imprisonment, not becoming but not-knowing.
+
 ## Connections
+
+[Magic Prison](/words/magic-prison) - Dickinson on the hidden crime of existence, the magic prison of identity, and our suspicion of happiness
 
 [Duality](duality.md) - Being requires holding paradoxes: doing and being, ambition and presence, becoming and accepting what is
 

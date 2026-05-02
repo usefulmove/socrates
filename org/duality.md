@@ -115,6 +115,8 @@ The duality:
 
 Both are true. The separate self is real. The connected self is real. They're the same self, viewed from different angles.
 
+Dickinson's "magic Prison" works at this level: we experience ourselves as free and distinct, yet we are "immured" in a confinement so complete we can't perceive the walls. The prison is magic precisely because the duality is invisible — we are simultaneously captive and unaware of our captivity.
+
 ### Cosmic Duality: Scale and Recursion
 
 The macro and micro mirror each other. Planets orbit stars as electrons orbit nuclei. The universe expands outward while we journey inward. This is the fundamental pattern of existence: recursion across scale.
@@ -218,6 +220,8 @@ The engineer who only sees trade-offs as one-dimensional (fast vs maintainable) 
 It lets you see nuance, find creative solutions, build richer models of reality. It makes you more effective, more wise, more human.
 
 ## Connections
+
+[Magic Prison](/words/magic-prison) - The duality of known and hidden, guilty and innocent, prison and freedom — the magic Prison where the Crime "from us, is hidden"
 
 [Being](being.md) - The fundamental duality of doing vs being, becoming vs accepting what is
 [Will to Power](will-to-power.md) - The duality of power as domination vs power as enablement
