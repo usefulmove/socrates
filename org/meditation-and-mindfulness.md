@@ -1,23 +1,27 @@
-# “The 3 Essential Practices”**
+# "The 3 Essential Practices"**
+
+Acceptance, mindfulness, and non-attachment are related but distinct practices. **Mindfulness** trains the capacity to notice. **Acceptance** trains the willingness to meet what you notice without resistance. **Non-attachment** trains the ability to hold it without needing it to stay. Each supports the others; none substitutes for the others. See [Being Human](being-human.md) (acceptance), [Non-Attachment](non-attachment.md).
+
+---
 
 ## **1. Meditative Practice (Vipassana)**
 
 **Purpose:** Train attention, calm the mind, see clearly.
 **How to do it:**
 
-1. **Attend to raw sensations** (not the world “through” sensations).
+1. **Attend to raw sensations** (not the world "through" sensations).
 
    * Example: feel the expansion and contraction of your abdomen while breathing.
 
-2. **When the mind wanders**, don’t follow the content.
+2. **When the mind wanders**, don't follow the content.
 
    * Instead, **label the process** with an **-ing** word:
-     *planning, imagining, listening, remembering…*
+     *planning, imagining, listening, remembering...*
 
 3. **Return to the breath with the right attitude:**
 
-   * Don’t fight the “monkey mind” → trains fear/anger.
-   * Don’t indulge it → trains distraction.
+   * Don't fight the "monkey mind" → trains fear/anger.
+   * Don't indulge it → trains distraction.
    * **Befriend it.** Gentle, steady return.
 
 **The actionable cycle:**
@@ -27,24 +31,24 @@
 
 #  **2. Contemplative Practice (Metta / existential interpretation)**
 
-**Purpose:** Become aware of how you assign identity — to yourself and others — and loosen rigid modes of being.
+**Purpose:** Become aware of how you assign identity - to yourself and others - and loosen rigid modes of being.
 
 **What to do:**
 
-* Notice how you're **assuming an identity** (“I am the type of person who…”)
-* Notice how you’re **assigning identities to others** (“You are the kind of person who…”)
-* “Awaken to” those assumptions and “awaken from” the confusion they create.
+* Notice how you're **assuming an identity** ("I am the type of person who...")
+* Notice how you're **assigning identities to others** ("You are the kind of person who...")
+* "Awaken to" those assumptions and "awaken from" the confusion they create.
 
-It’s not about generating emotions; it’s about **changing your mode of seeing**.
+It's not about generating emotions; it's about **changing your mode of seeing**.
 
 **Concrete exercise offered:**
-**Stoic “View From Above.”**
+**Stoic "View From Above."**
 
 1. Visualize yourself in the room.
 2. Then above the room.
 3. Then above the city.
 4. Then state → country → Earth → wider and wider.
-5. *Actually* imagine it, don’t jump steps.
+5. *Actually* imagine it, don't jump steps.
 
 As you zoom out, your felt sense of self and what matters shifts.
 This shift is the practice.
@@ -77,11 +81,12 @@ Together they create a unified transformation.
 
 ## Connections
 
-- [Being](being.md) — Meditation is named there as the core practice of being: sitting with what is, without trying to change it or achieve anything
-- [Being Human](being-human.md) — The "gap between stimulus and response" that being-human describes as the heart of emotional intelligence is exactly what Vipassana trains
-- [Interiority](interiority.md) — Meditation is the primary practice for cultivating interiority — the ability to notice, name, and work with your own inner experience
-- [Duality](duality.md) — Sitting with contradiction and ambiguity without resolving it is duality's practice; meditation is how you train that capacity
-- [ACT](act.md) — ACT's Present Moment and Defusion principles share deep roots with Vipassana; the "-ing" labeling technique and the "observe, don't follow" instruction are the same move in different traditions
-- [Psychology Fundamentals](psychology-fundamentals.md) — Meditation is the primary attentional training practice in psychology-fundamentals; the link runs both ways
+- [Being](being.md) - Meditation is named there as the core practice of being: sitting with what is, without trying to change it or achieve anything
+- [Being Human](being-human.md) - The "gap between stimulus and response" that being-human describes as the heart of emotional intelligence is exactly what Vipassana trains
+- [Interiority](interiority.md) - Meditation is the primary practice for cultivating interiority - the ability to notice, name, and work with your own inner experience
+- [Duality](duality.md) - Sitting with contradiction and ambiguity without resolving it is duality's practice; meditation is how you train that capacity
+- [ACT](act.md) - ACT's Present Moment and Defusion principles share deep roots with Vipassana; the "-ing" labeling technique and the "observe, don't follow" instruction are the same move in different traditions
+- [Psychology Fundamentals](psychology-fundamentals.md) - Meditation is the primary attentional training practice in psychology-fundamentals; the link runs both ways
 
 - [Monistic Reincarnation](monistic-reincarnation.md) — The dissolution of the constructed self in meditation is the experiential foundation for monistic insight: the "observer" is just another observed phenomenon
+- [Non-Attachment](non-attachment.md) — Vipassana trains non-attachment at the experiential level: observing thoughts, sensations, and feelings without clinging to or pushing away any of them

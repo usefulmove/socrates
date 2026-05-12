@@ -78,6 +78,8 @@ The duality:
 
 The integration: Accept the present moment completely, including the desire to grow and the effort to change. Don't resist either pole.
 
+**The collective dimension:** This gets harder when the work is for others—advocacy, care for future generations, fighting injustice. The fear is that acceptance mutes the alarm. But the opposite is true: the person who can accept the current state of things without approving of it is the one who can organize, persist, and endure without burning out. Acceptance is what frees the energy tied up in fighting reality and makes it available for real action. The alternative is acting *against* something (resistance, adrenaline), which burns hot and fast. Acceptance lets you act *for* something, which burns steady. The frame: accept what is, fully—not because it's good, because it's true. Then act from that ground, not from resistance to what is, but from love of what could be.
+
 ### Discipline and Flow
 
 Mastery requires discipline—showing up consistently, practicing deliberately, pushing through resistance. The 10,000 hours. The daily meditation.
@@ -232,6 +234,7 @@ It lets you see nuance, find creative solutions, build richer models of reality.
 [Being Human](being-human.md) - The practical application: being-human's virtues aren't problems to solve but paradoxes to hold
 [Consensus](consensus.md) - The duality of unity and diversity in decision-making
 [Embracing the Mud](embracing-the-mud.md) - The potter parable is the direct illustration: the harmony of beautiful and grotesque, not the resolution of one into the other
+[Non-Attachment](non-attachment.md) — The stance that makes duality holdable: releasing the grip on any one pole so the tension can be carried without collapsing
 [ACT](act.md) - ACT's core move (hold difficult feelings while acting toward values) is the clinical model for holding paradox without collapsing into one pole
 [Meditation and Mindfulness](meditation-and-mindfulness.md) - The primary practice for sitting with contradiction and ambiguity
 [Monistic Reincarnation](monistic-reincarnation.md) - Monism dissolves the duality of self/other by showing both are aspects of one reality; not resolving but transcending

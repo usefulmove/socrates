@@ -31,6 +31,7 @@
 - [*Meditation and Mindfulness*](./org/meditation-and-mindfulness.md)
   - [*Vipassana*](./org/vipassana.md) meditation
 - [*Monistic Reincarnation*](./org/monistic-reincarnation.md) - The One and the many: Sufi Fana/Baqa, Advaita Vedanta, and the dissolution of separation
+- [*Non-Attachment*](./org/non-attachment.md) — Holding without clinging: outcomes, identity, people, self
 - [*Embracing the Mud*](./org/embracing-the-mud.md)
 - [*Letter to My Unborn Son*](./org/letter.md)
 

@@ -208,6 +208,8 @@ The ultimate question of being: can you be forgiven for a crime you don't know y
 
 [Magic Prison](/words/magic-prison) - Dickinson on the hidden crime of existence, the magic prison of identity, and our suspicion of happiness
 
+[Non-Attachment](non-attachment.md) - Non-attachment to identity: don't mistake the mask for the face
+
 [Duality](duality.md) - Being requires holding paradoxes: doing and being, ambition and presence, becoming and accepting what is
 
 [Interiority](interiority.md) - Being is fundamentally about inner experience, the subjective reality underneath roles and actions

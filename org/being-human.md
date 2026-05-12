@@ -59,6 +59,23 @@ There is no permanent state called "resilient." There is only the practice of re
 
 *A note on practical competence:* Financial stability, physical health, knowing how to learn new things — these are the substrate. They reduce the cognitive noise that crowds out everything else on this list. Handle them.
 
+## Accept
+
+Acceptance is the willingness to have reality be what it already is — without needing to fight it, deny it, or run from it *before* you act. It is not approval. It is not passivity. It is not saying "this is fine" when it isn't. It is the full-body acknowledgment that what's happening *is* happening.
+
+**What it is not:** Resignation says "this is the way it is, so nothing can be done." It stops. Acceptance says "this is the way it is, *right now*." It opens its eyes. Then it asks: from here, what can I do?
+
+**A concrete practice:** Pick one thing you're resisting right now — something specific, not an existential dread. Notice the difference between two statements:
+
+1. *"This shouldn't be happening."*
+2. *"This is happening."*
+
+Say both aloud. Feel the difference in your body. The first is an argument with reality; it generates tension, loop thinking, spent energy. The second is a description. It doesn't mean you like it. It doesn't mean you won't change it. It just means you've stopped lying about what's in front of you.
+
+That shift — from fighting the fact to meeting the fact — is the whole practice. You don't have to feel good about it. You just have to stop pretending it isn't there.
+
+Acceptance is the ground beneath action, not its opposite. The person who can see the situation clearly without needing it to be different in order to be okay is more effective — and more sustainable — than the person who burns out fighting reality itself.
+
 ## Find Meaning
 
 Suffering without meaning is unbearable. Suffering with meaning is survivable and sometimes transformative. This is Frankl's central claim and I think it's correct.
@@ -90,6 +107,7 @@ That willingness to return is the only skill that ultimately matters.
 - [Selfishness](selfishness.md) — "What you actually value vs. what you say you value" (self-knowledge) and "false selflessness" are the same territory from different angles
 - [Will to Power](will-to-power.md) — Endurance as self-overcoming; finding meaning through contribution as power expressed generatively
 - [Consensus](consensus.md) — The "Think Critically" section's intellectual humility ("I was wrong about that") is the cognitive foundation for what consensus.md calls genuine agreement vs. groupthink
+- [Non-Attachment](non-attachment.md) — Acceptance is the cousin of non-attachment: releasing the demand that things be other than they are
 - [ACT](act.md) — Clinical formalization of "Endure": Acceptance maps to the Stoic dichotomy of control; Committed Action maps to finding meaning through values-aligned living
 - [Psychology Fundamentals](psychology-fundamentals.md) — The science behind emotional regulation, resilience, decision-making biases, and motivation that this file describes in experiential terms
 - [Supercommunicators](supercommunicators.md) — The loop-for-understanding and reciprocate-vulnerability framework is the operational toolkit for the "Connect with Others" section here

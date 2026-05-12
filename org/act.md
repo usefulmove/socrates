@@ -16,6 +16,22 @@ Acceptance and Commitment Therapy (ACT) is a form of psychotherapy focused on ps
 ## The Goal
 Instead of eliminating negative thoughts/feelings, ACT teaches you to carry them with you while living a meaningful life aligned with your values.
 
+## Principles in Practice
+
+Each principle maps to a concrete practice already described elsewhere in this knowledge base:
+
+**Acceptance** is the willingness to have difficult thoughts and feelings without fighting them. It trains the same capacity as [being-human.md](being-human.md)'s Accept section — the shift from "this shouldn't be happening" to "this is happening." You don't have to like the feeling. You just have to stop pushing it away.
+
+**Defusion** is seeing thoughts as thoughts — mental events, not absolute truth. This is the "-ing" labeling technique from [Vipassana](vipassana.md): when the mind wanders, label the process (*planning, imagining, remembering*) and return. You don't follow the thought's content; you see it as a thought.
+
+**Present Moment** is the core instruction of [meditation](meditation-and-mindfulness.md): attend to what is actually happening right now — breath, sensation, sound — rather than dwelling in past reconstruction or future projection.
+
+**Self as Context** is the recognition that you are the observer of experiences, not the experiences themselves. This is [being.md](being.md)'s deepest question: *Who is the consciousness experiencing this moment?* Not your roles, not your history, not your feelings — the awareness that holds them all.
+
+**Values** are what matters to you, separate from what you think should matter or what others expect. Clarifying values requires the interior examination [interiority.md](interiority.md) describes: digging past the surface answers to what actually orients you.
+
+**Committed Action** is taking steps aligned with your values even when uncomfortable. This is [being-human.md](being-human.md)'s "Find Meaning" in practice: meaning is not found by searching directly but emerges from engagement with what you care about. The action itself, repeated, is the practice.
+
 ## Connections
 
 - [Being](being.md) — ACT's "Self as Context" (you are the observer of experiences, not the experiences themselves) is the clinical version of being.md's deepest question: who is the consciousness experiencing this moment?

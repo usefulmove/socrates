@@ -25,4 +25,5 @@ In Sufi terms: It is the ultimate expression of *Fana* (self-annihilation) leadi
 [Meditation and Mindfulness](meditation-and-mindfulness.md) — The practices that dissolve the constructed self and reveal the ground of being
 [Vipassana](vipassana.md) — The Theravadin concept of *samsara* (cycle of rebirth) and *nibbana* (liberation) is the Buddhist operationalization of monistic reincarnation
 [Embracing the Mud](embracing-the-mud.md) — The potter's "union of pure and impure" is the monistic recognition that all dualities are ultimately resolved in the One
+[Non-Attachment](non-attachment.md) — The dissolution of the separate self in Fana is non-attachment at the deepest register: releasing the self itself, not just outcomes or identities
 [Being Human](being-human.md) — The practical companion: how to live as a human being when the self is seen through
