@@ -2,9 +2,11 @@
 
 ```
 Context
-    Agent
+    Harness-instance
         model  # e.g., claude-sonnet-4-5, kimi-k2
         specialization  # coding, reasoning, planning
+        harness-protocol  # e.g., enso
+        session-log
 
     Tools
         bash
@@ -41,16 +43,23 @@ Context
         skills/  # on-demand capabilities
         logs/  # session history, compaction summaries
 
+    Substrate  # the durable environment being transformed
+        codebase/
+        filesystem/
+        databases/
+        infrastructure/
+        git-history/
+
     Human  # context orchestrator
         session-management
-            agent-selection
+            harness-selection
             mode  # plan, build, review
             tool-selection
             prompting
             branching
             snapshotting
             compaction
-        session-tools
+        runtimes
             opencode
             cursor
             claude-code

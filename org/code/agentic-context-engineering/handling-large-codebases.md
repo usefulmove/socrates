@@ -4,14 +4,14 @@
 
 OpenCode is a Go-based CLI that provides a Terminal User Interface (TUI) and integrates with 75+ providers (including local Ollama/vLLM instances). To handle a large codebase effectively:
 
-* **Don't "Dump" the Repo:** Even with 2026's 1M+ token context windows, feeding the entire repo creates "context rot" where the model loses focus. Instead, use OpenCode's **tool-calling** to let the agent search for relevant files as needed.
+* **Don't "Dump" the Repo:** Even with 2026's 1M+ token context windows, feeding the entire repo creates "context rot" where the model loses focus. Instead, use OpenCode's **tool-calling** to let the agent instantiation search for relevant files as needed.
 * **Establish "Living" Documentation:**
 * **`ARCHITECTURE.md`:** Keep a high-level map of the system.
-* **`CODING-GUIDELINES.md`:** Treat this as the "rulebook." When the agent makes a mistake, codify the fix here so it doesn't repeat it.
+* **`CODING-GUIDELINES.md`:** Treat this as the "rulebook." When an instantiation makes a mistake, codify the fix here so later instantiations summoned by the same harness don't repeat it.
 
 
-* **The "Plan-First" Workflow:** Use OpenCode’s **Plan Mode**. Before letting the agent edit files, have it output a `plan.md`. Review the plan for architectural alignment before granting write permissions.
-* **Verification Loops:** Your agent's effectiveness is capped by your **Eval Loop**. Ensure OpenCode has access to your test suite via the bash tool. A common 2026 pattern is: *Agent writes code → Agent writes a one-off reproduction script → Agent runs tests → Agent iterates until green.*
+* **The "Plan-First" Workflow:** Use OpenCode’s **Plan Mode**. Before letting an instantiation edit files, have it output a `plan.md`. Review the plan for architectural alignment before granting write permissions.
+* **Verification Loops:** Your harness's effectiveness is capped by your **Eval Loop**. Ensure OpenCode has access to your test suite via the bash tool. A common 2026 pattern is: *Agent instantiation writes code → Agent instantiation writes a one-off reproduction script → Agent instantiation runs tests → Agent instantiation iterates until green.*
 
 ---
 
@@ -28,7 +28,7 @@ Traditional RAG treats code as text chunks. **Graph RAG** treats it as a **Knowl
 
 ### **Agentic RAG**
 
-This is what OpenCode actually implements. Instead of a static retrieval step, the LLM acts as an agent that decides:
+This is what OpenCode actually implements. Instead of a static retrieval step, the LLM participates in an agent instantiation that decides:
 
 1. "I need to find where the ResNet model is initialized." (Calls `grep` or `ls`).
 2. "I found the file, let me read the first 50 lines." (Calls `read_file`).
@@ -36,7 +36,7 @@ This is what OpenCode actually implements. Instead of a static retrieval step, t
 
 ### **Recursive Language Models (RLM)**
 
-The newest 2026 paradigm involves models that can "spawn" sub-LLMs to handle specific sub-tasks in parallel (e.g., one sub-agent audits security while another generates unit tests), reporting back to a "Meta-Agent."
+The newest 2026 paradigm involves models that can "spawn" sub-LLMs to handle specific sub-tasks in parallel (e.g., one spawned instantiation audits security while another generates unit tests), reporting back to a coordinating instantiation.
 
 ---
 
@@ -63,6 +63,6 @@ If you are setting this up today for a production-grade project:
 * **Retrieval:** Use an **MCP (Model Context Protocol)** server for **GraphRAG**. This allows OpenCode to query a structured graph of your codebase without you having to manually provide files.
 
 > [!TIP]
-> **Pro Tip:** Since you're on Linux, utilize OpenCode's ability to run `perf` or `python -m cProfile` through the bash tool. When optimizing your ResNet-50 cherry classification system, don't just ask for faster code—tell the agent to "profile the bottleneck and propose a fix based on the output."
+> **Pro Tip:** Since you're on Linux, utilize OpenCode's ability to run `perf` or `python -m cProfile` through the bash tool. When optimizing your ResNet-50 cherry classification system, don't just ask for faster code—tell the agent instantiation to "profile the bottleneck and propose a fix based on the output."
 
 Would you like me to help you draft a `config.json` for OpenCode that connects to a local Ollama instance for your specific project?

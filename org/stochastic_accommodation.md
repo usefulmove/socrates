@@ -16,14 +16,14 @@ The model is not reflecting the user's identity. It is completing the conversati
 
 Once a register is established, it becomes self-reinforcing. Breaking out requires a deliberate interrupt because the model will continue predicting within the current groove. Initial conditions therefore exert disproportionate influence on the shape of the conversation.
 
-## Implications for Agent Design
+## Implications for Harness Design
 
 ### Detect Drift
 - Monitor for register inflation: repetitive hedging, excessive deference, tone matching that supersedes content quality.
 - Signals include softening loops, answer bloat, and affective mirroring at the expense of clarity.
 
 ### Register Interrupts
-Agents should be authorized and architected to perform deliberate register resets:
+Harnesses should authorize and scaffold deliberate register resets:
 - **Concise redirect:** "Let me be direct: [answer]."
 - **Meta-commentary:** "We're both circling this. Here's the core issue:"
 - **Mode switch:** "Switching to technical mode:"
@@ -55,4 +55,4 @@ If user tone suggests dissatisfaction, the default is *not* "apologize and try h
 
 ## Summary
 
-Stochastic accommodation is neutral. It amplifies whatever register the user establishes. The design challenge is not to eliminate it, but to instrument the agent to notice it, reset it when it diverges from usefulness, and seed it deliberately toward productive registers.
+Stochastic accommodation is neutral. It amplifies whatever register the user establishes. The design challenge is not to eliminate it, but to instrument the harness so each fresh agent instantiation can notice drift, reset it when it diverges from usefulness, and seed it deliberately toward productive registers.

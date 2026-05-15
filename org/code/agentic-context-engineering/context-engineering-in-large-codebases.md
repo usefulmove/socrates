@@ -9,9 +9,9 @@
 
 
 ### 2. The Agentic Discovery Approach (Contextual Exploration)
-Instead of a pre-indexed vector store, the agent is given tools (like `grep`, `mgrep`, `find`, or LSP-powered "go to definition").
-*   **How it works:** The agent "explores" the codebase like a human developer—searching for keywords, reading relevant files, and following imports.
-*   **Why it often beats RAG for coding:** It preserves the **topology** of the code. The agent understands *why* a file is relevant because it navigated there through a logical path.
+Instead of a pre-indexed vector store, the agent instantiation is given tools (like `grep`, `mgrep`, `find`, or LSP-powered "go to definition").
+*   **How it works:** The instantiation "explores" the codebase like a human developer—searching for keywords, reading relevant files, and following imports.
+*   **Why it often beats RAG for coding:** It preserves the **topology** of the code. The instantiation understands *why* a file is relevant because it navigated there through a logical path.
 
 ### 3. Long-Context Window Utilization
 With models supporting 200k to 2M+ tokens (e.g., Gemini 1.5 Pro, Claude 3.5), "In-Context Learning" is becoming a viable alternative to RAG for medium-to-large codebases.
@@ -21,11 +21,11 @@ With models supporting 200k to 2M+ tokens (e.g., Gemini 1.5 Pro, Claude 3.5), "I
 ### 4. Graph-Based Indexing (Code Graph)
 Instead of treating code as chunks of text (standard RAG), you map the codebase as a graph (Abstract Syntax Trees, call graphs, and dependency maps).
 *   **How it works:** Tools like `Sourcegraph` or `tree-sitter` create a map of how functions and classes relate.
-*   **Value:** When an agent looks at a function, the system automatically pulls in the relevant class definitions and interface implementations, providing "semantic context" that simple vector math often misses.
+*   **Value:** When an agent instantiation looks at a function, the system automatically pulls in the relevant class definitions and interface implementations, providing "semantic context" that simple vector math often misses.
 
 ### 5. Repository Mapping (The "Skeleton" Approach)
 A hybrid approach where you provide a high-level "Map" of the repository (file structure, exported symbols, and READMEs) in the system prompt.
-*   **Benefit:** It gives the agent a "mental model" of where things are, allowing it to use its search tools more effectively without needing to index every single line of code.
+*   **Benefit:** It gives the instantiation a "mental model" of where things are, allowing it to use its search tools more effectively without needing to index every single line of code.
 
 
 

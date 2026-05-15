@@ -158,18 +158,17 @@ Transformer neural network architecture (paper: [*Attention Is All You Need*](./
 
 - [*Stochastic Accommodation*](./org/stochastic_accommodation.md) — On probability conditioning, register entrainment, and the ratchet effect in LLM conversations
 
-## Context Enginerring
+## Context Engineering
 
-> Context engineering is precisely & vigorously managing each agent's context. The context is shaped carefully over time to design and implement a solution. Context being (a.) system and thread prompting, etc., (short-term memory, RAM) plus (b.) long-term memory in the form of shaping, planning, and tracking markdown files (as an example) (c.) tools (bash, LSP, MCP, RAG). The planning and progress history could follow the Project Management Body of Knowledge (PMBoK). Can even be shaped directly as local context. Architectural scaffolding and resource management.
+> Context engineering is precisely & vigorously managing the context a harness carries forward and each fresh agent instantiation receives. The context is shaped carefully over time to design and implement a solution. Context being (a.) system and thread prompting, etc., (short-term memory, RAM) plus (b.) long-term memory in the form of shaping, planning, and tracking markdown files (as an example) (c.) tools (bash, LSP, MCP, RAG). The planning and progress history could follow the Project Management Body of Knowledge (PMBoK). Can even be shaped directly as local context. Architectural scaffolding and resource management.
 
 - [Context engineering structure](./org/code/agentic-context-engineering/context-structure.md)
-- [*Enso*](./org/code/agentic-context-engineering/enso.md) - context management system for AI-assisted development
+- [*Enso*](./org/code/agentic-context-engineering/enso.md) - context management system and harness protocol for AI-assisted development
 - [*Large codebases*](./org/code/agentic-context-engineering/context-engineering-in-large-codebases.md)
-- [Agentic discovery](.org/code/agentic-context-engineering/agentic-discovery.md)
+- [*Agentic discovery*](./org/code/agentic-context-engineering/agentic-discovery.md)
 - [*Retrieval-Augmented Generation (RAG) integration*](./org/code/agentic-context-engineering/agent-rag-integration.md)
 - [*BMAD method*](./org/code/agentic-context-engineering/bmad.md) - breakthrough method for agile AI-driven development
-- [*Agent Harness*](./org/code/agentic-context-engineering/agent-harness.md) - Infrastructure layer for constraining, verifying, and correcting AI agents
-- [*Agent Terminology*](./org/code/agentic-context-engineering/agent-terminology.md) - Precision vocabulary for model, harness, and agent identity
+- [*Agent Terminology*](./org/code/agentic-context-engineering/terminology.md) - Precision vocabulary for model, runtime, harness, agent instantiation, and substrate
 
 
 # Emacs

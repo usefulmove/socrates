@@ -31,12 +31,12 @@ To use the BMAD method on your next project, follow this structured "growth cycl
 
 ### Phase 4: Implementation (The Bloom)
 **Role:** Developer
-1.  **Execute**: Feed the context to the AI (me) to implement a specific story.
+1.  **Execute**: Feed the context to a harnessed agent workflow to implement a specific story.
     *   **Prompt**: "Read `docs/specs/prd.md`, `docs/specs/architecture.md`, and `docs/stories/001-setup-core.md`. Implement Story 001 strictly according to the control manifest."
-2.  **Verify**: I will implement the code, referencing the "Context" you engineered in the documents.
+2.  **Verify**: The resulting agent instantiation implements the code by referencing the context you engineered in the documents.
 
 ### Why this works?
 Instead of a vague prompt like "Build me a login system," you are providing a **compiled context chain**:
 `PRD (Why) -> Arch (How) -> Story (What Now) -> Code`
 
-This makes the AI's output deterministic and high-quality because it isn't guessing; it's following your engineered specs.
+This makes the agent instantiation's output more deterministic and higher-quality because it isn't guessing; it's following your engineered specs.
