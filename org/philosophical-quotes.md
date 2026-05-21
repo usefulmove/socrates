@@ -38,6 +38,16 @@ Agency is not about finding where you belong. It's about creating the conditions
 
 ---
 
+## On Showing Up
+
+> "I believe that how I choose to show up changes the world I show up into."
+
+Presence is an active field, not a passive state. The world you enter is not fixed—it is co-created by the force of your attention, your embodiment, your willingness to be there fully. The junior engineer who speaks up in a meeting does so because someone showed up in a way that made speaking up possible. The colleague who finally admits they are struggling does so because someone showed up without requiring performance. You do not need to *do* something visible to *be* something generative. The choice to show up—with calm, with presence, with the full weight of your attention—is itself the intervention.
+
+This is the bridge between Baldwin's making and Salinger's holding. You make the place you fit by first showing up into the world that exists. You hold the universe together by being the kind of presence that alters the tension in the room before any action is taken. The showing up precedes the holding.
+
+---
+
 ## On Presence and Invisible Holding
 
 > "She wasn't doing a thing that I could see, except standing there leaning on the balcony railing, holding the universe together."
@@ -130,3 +140,6 @@ This is the mechanics of [learning and growth](learning-psychology.md). Identity
 - [Engagement](engagement.md) — Relatedness as quiet holding; presence is the foundation of genuine connection
 - [Interiority](interiority.md) — Perceiving the invisible inner reality that sustains external order
 - [Will to Power](will-to-power.md) — The most generative power doesn't announce itself; it holds without dominating
+- [Being](being.md) — Showing up as the active choice that constitutes being; not waiting to feel ready, just arriving
+- [Engagement](engagement.md) — Your presence alters the relational field before any words are spoken
+- [Interiority](interiority.md) — What you carry inward shapes the world you show up into; the inner creates the outer
