@@ -115,6 +115,7 @@ This is the Übermensch for engineers: not the 10x engineer who codes alone, but
 [Engagement](engagement.md) - Autonomy, Mastery, Purpose, Relatedness are expressions of Will to Power channeled constructively. Suppress these and the will to power perverts into politics and defensiveness
 [Moloch](meditations-on-moloch.md) - Moloch is Will to Power gone systemic—individual incentives that aggregate into collective ruin. Breaking free requires collective will channeled against competition itself
 [Being Human](being-human.md) - "Endure" as self-overcoming; "Find Meaning" through contribution as power expressed generatively
+[Acceptance](acceptance.md) - Acceptance is power redirected from denial into creation: accurate contact with reality so agency can reach what still could be
 [Interiority](interiority.md) - The shadow side (ego over mission, needing credit) can only be caught through the interior examination interiority describes
 [Consensus](consensus.md) - Consensus-seeking as avoidance of decision-making responsibility; will-to-power requires the courage to decide
 [Expressiveness](../org/expressiveness.md) - Leadership expressiveness (vision, feedback, values explicit) is will-to-power as generativity: making the implicit visible so others can create

@@ -1,6 +1,6 @@
 # "The 3 Essential Practices"**
 
-Acceptance, mindfulness, and non-attachment are related but distinct practices. **Mindfulness** trains the capacity to notice. **Acceptance** trains the willingness to meet what you notice without resistance. **Non-attachment** trains the ability to hold it without needing it to stay. Each supports the others; none substitutes for the others. See [Being Human](being-human.md) (acceptance), [Non-Attachment](non-attachment.md).
+Acceptance, mindfulness, and non-attachment are related but distinct practices. **Mindfulness** trains the capacity to notice. **Acceptance** trains the willingness to meet what you notice without resistance. **Non-attachment** trains the ability to hold it without needing it to stay. Each supports the others; none substitutes for the others. See [Acceptance](acceptance.md), [Being Human](being-human.md), [Non-Attachment](non-attachment.md).
 
 ---
 
@@ -86,6 +86,7 @@ Together they create a unified transformation.
 - [Interiority](interiority.md) - Meditation is the primary practice for cultivating interiority - the ability to notice, name, and work with your own inner experience
 - [Duality](duality.md) - Sitting with contradiction and ambiguity without resolving it is duality's practice; meditation is how you train that capacity
 - [ACT](act.md) - ACT's Present Moment and Defusion principles share deep roots with Vipassana; the "-ing" labeling technique and the "observe, don't follow" instruction are the same move in different traditions
+- [Acceptance](acceptance.md) — Meditation notices what is happening; acceptance is the willingness to let what is noticed be true before reacting or repairing
 - [Psychology Fundamentals](psychology-fundamentals.md) - Meditation is the primary attentional training practice in psychology-fundamentals; the link runs both ways
 
 - [Monistic Reincarnation](monistic-reincarnation.md) — The dissolution of the constructed self in meditation is the experiential foundation for monistic insight: the "observer" is just another observed phenomenon

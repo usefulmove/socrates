@@ -107,6 +107,7 @@ That willingness to return is the only skill that ultimately matters.
 - [Selfishness](selfishness.md) — "What you actually value vs. what you say you value" (self-knowledge) and "false selflessness" are the same territory from different angles
 - [Will to Power](will-to-power.md) — Endurance as self-overcoming; finding meaning through contribution as power expressed generatively
 - [Consensus](consensus.md) — The "Think Critically" section's intellectual humility ("I was wrong about that") is the cognitive foundation for what consensus.md calls genuine agreement vs. groupthink
+- [Acceptance](acceptance.md) — The canonical expansion of the "Accept" section: stop arguing with what already is so action can begin from reality
 - [Non-Attachment](non-attachment.md) — Acceptance is the cousin of non-attachment: releasing the demand that things be other than they are
 - [ACT](act.md) — Clinical formalization of "Endure": Acceptance maps to the Stoic dichotomy of control; Committed Action maps to finding meaning through values-aligned living
 - [Psychology Fundamentals](psychology-fundamentals.md) — The science behind emotional regulation, resilience, decision-making biases, and motivation that this file describes in experiential terms

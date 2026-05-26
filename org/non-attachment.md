@@ -53,6 +53,7 @@ Non-attachment is trained, not theorized:
 - [Being](being.md) — Non-attachment to identity is being.md's core: don't mistake the role for the self
 - [Monistic Reincarnation](monistic-reincarnation.md) — The dissolution of the separate self in Fana is non-attachment at the deepest register: releasing the self itself
 - [Meditation and Mindfulness](meditation-and-mindfulness.md) — Vipassana trains the capacity to observe experience without clinging to or pushing away any of it
+- [Acceptance](acceptance.md) — Acceptance is contact with what is already true; non-attachment releases the demand that it be different or stay the same
 - [ACT](act.md) — ACT's Defusion and Acceptance are the clinical tools for non-attachment: seeing thoughts as thoughts, allowing feelings without fighting them
 - [Duality](duality.md) — Non-attachment is the stance that makes duality holdable: you can hold both poles without needing either to resolve
 - [Being Human](being-human.md) — The practical skills: knowing yourself, managing emotions, enduring, finding meaning — all require releasing the demand that life conform to your expectations

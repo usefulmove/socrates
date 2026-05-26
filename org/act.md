@@ -35,6 +35,7 @@ Each principle maps to a concrete practice already described elsewhere in this k
 ## Connections
 
 - [Being](being.md) — ACT's "Self as Context" (you are the observer of experiences, not the experiences themselves) is the clinical version of being.md's deepest question: who is the consciousness experiencing this moment?
+- [Acceptance](acceptance.md) — ACT formalizes acceptance as psychological flexibility: stop fighting uncontrollable experience and commit action toward values
 - [Being Human](being-human.md) — ACT's Acceptance and Committed Action are the clinical operationalization of the "Endure" section (Stoic dichotomy of control) and "Find Meaning" (committed action toward values)
 - [Duality](duality.md) — ACT's core move — hold difficult feelings while still acting toward values — is the clinical model for holding paradox without collapsing into one pole
 - [Interiority](interiority.md) — ACT's Values and Self-as-Context principles require the kind of interior self-examination interiority describes; Defusion is a tool for getting unstuck from your own narrative

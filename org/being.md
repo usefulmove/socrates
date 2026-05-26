@@ -210,6 +210,8 @@ The ultimate question of being: can you be forgiven for a crime you don't know y
 
 [Non-Attachment](non-attachment.md) - Non-attachment to identity: don't mistake the mask for the face
 
+[Acceptance](acceptance.md) - Acceptance is being applied to reality: presence with what is before the engineering impulse to optimize or repair
+
 [Duality](duality.md) - Being requires holding paradoxes: doing and being, ambition and presence, becoming and accepting what is
 
 [Interiority](interiority.md) - Being is fundamentally about inner experience, the subjective reality underneath roles and actions

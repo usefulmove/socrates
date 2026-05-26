@@ -195,6 +195,7 @@ That's interiority: the examined inner life made visible, used to live more full
 [Being](being.md) - Interiority is the felt sense of being, the subjective experience of existence
 [Duality](duality.md) - The duality of inner world vs outer world, subjective experience vs objective reality
 [Meditation and Mindfulness](meditation-and-mindfulness.md) - Core practices for cultivating awareness of interiority
+[Acceptance](acceptance.md) - Acceptance depends on interiority: you have to notice the inner resistance before you can stop arguing with what is
 [Supercommunicators](supercommunicators.md) - Communication requires making interiority visible to others
 [Being Human](being-human.md) - The "Know Yourself" section is the applied version of interiority's theory: self-knowledge as instrumentation
 [Selfishness](selfishness.md) - The "desires and motivations" layer of interiority is exactly what selfishness.md probes: the gap between what you think you're serving and what you're actually serving

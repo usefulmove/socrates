@@ -234,6 +234,7 @@ It lets you see nuance, find creative solutions, build richer models of reality.
 [Being Human](being-human.md) - The practical application: being-human's virtues aren't problems to solve but paradoxes to hold
 [Consensus](consensus.md) - The duality of unity and diversity in decision-making
 [Embracing the Mud](embracing-the-mud.md) - The potter parable is the direct illustration: the harmony of beautiful and grotesque, not the resolution of one into the other
+[Acceptance](acceptance.md) — The acceptance/change polarity made explicit: meet what is fully, then act toward what still could be
 [Non-Attachment](non-attachment.md) — The stance that makes duality holdable: releasing the grip on any one pole so the tension can be carried without collapsing
 [ACT](act.md) - ACT's core move (hold difficult feelings while acting toward values) is the clinical model for holding paradox without collapsing into one pole
 [Meditation and Mindfulness](meditation-and-mindfulness.md) - The primary practice for sitting with contradiction and ambiguity
