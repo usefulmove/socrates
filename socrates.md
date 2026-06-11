@@ -23,6 +23,8 @@
   - [*Summary*](./org/meditations-on-moloch-summary.md)
   - [*Original article*](./org/meditations-on-moloch.md)
   - [*More on Moloch*](./org/more-on-moloch.md)
+  - [*Moloch: What to Do*](./org/moloch-what-to-do.md) - Individual-level practice for a systemic trap
+  - [*The Creators*](./org/the-creators.md) - The legal and moral anatomy of the corporate version: shareholder primacy, the God-shaped hole, the alignment problem, the Camus position
 - [*On Consciousness (Alan Watts)*](./org/on-the-nature-of-consciousness.md)
 - [*It Starts Now (Alan Watts)*](./org/it-starts-now.md)
 
@@ -151,6 +153,8 @@ In an expressive language, you don't write *in* the language so much as *grow* t
 >... as twilight cascaded upon the horizon, the iridescent hues of amaranthine skies caressed the gentle whispers of the zephyr, weaving an ephemeral symphony of love that intertwined the souls of all living beings in the tender embrace of nature's eternal harmony ...
 
 Transformer neural network architecture (paper: [*Attention Is All You Need*](./org/code/attention-is-all-you-need.md))
+
+The same alignment problem, at civilizational scale, is named in [*The Creators*](./org/the-creators.md) — the corporation-as-optimizer, the proxy-metric divergence, the proposed fixes that are familiar from AI: change the objective function, constrain the optimizer, build in corrigibility.
 
 - [*LLM shaping*](./org/llm-shaping-prompts.md)
 

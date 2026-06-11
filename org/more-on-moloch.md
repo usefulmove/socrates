@@ -40,3 +40,7 @@ That is the voice of Moloch.
 The difference is that we've traditionally imagined the devil as a conscious entity, a fallen angel with a will. What Alexander's concept gives us is the terrifying realization that you don't need a conscious will for this kind of evil to emerge. It can be a ghost in the machine, an emergent property of a system. The demon is headless.
 
 It’s a form of structural evil. There's no single person to point to as the "demon." The CEO directly polluting the river, the programmer explicitly coding an outrage algorithm, the gig worker taking the low-paying job—they are all responding rationally to the incentives laid before them. They are cogs in a dynamic that is destroying everyone, themselves included.
+
+## Connections
+
+[The Creators](the-creators.md) - The legal-and-moral extension: the corporate version of Moloch is sustained by a forty-year-old misreading of *Dodge v. Ford* and a fiduciary doctrine (shareholder primacy) that is belief masquerading as law. The trap is paper. The people are real. The Camus position — refuse the framework — is the only coherent stance until the public re-chains the system in the next rupture.
