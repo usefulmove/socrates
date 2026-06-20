@@ -13,7 +13,7 @@
 - [*Selfishness*](./org/selfishness.md) - Enlightened self-interest and the expanding circle of self
 - [*Will to Power*](./org/will-to-power.md) - Power as creation vs domination; the IC-to-VP journey
 - [*Expressiveness*](./org/expressiveness.md) - Clarity of expression in code, writing, and communication
-- **Dialogue** — A practice of thinking through one another, by suspending the defensive structures of individual thought, in order to access a shared meaning that none of the participants could produce alone (after David Bohm)
+- [*Dialogue*](./org/bohmian-dialogue.md) — A practice of thinking through one another, by suspending the defensive structures of individual thought, in order to access a shared meaning that none of the participants could produce alone (after David Bohm)
 - [*Philosophical Quotes*](./org/philosophical-quotes.md) - Curated collection of insights on existence, transformation, and the human condition
 - [*On Being a Piano Key*](./org/underground-piano-keys.md) - Dostoevsky on free will, spite, and the irreducibility of the human will
 - [*Psychological Intimacy*](./org/psychological-intimacy.md) - On being known without translation
