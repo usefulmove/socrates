@@ -18,6 +18,8 @@
 - [*On Being a Piano Key*](./org/underground-piano-keys.md) - Dostoevsky on free will, spite, and the irreducibility of the human will
 - [*Psychological Intimacy*](./org/psychological-intimacy.md) - On being known without translation
 
+> A lie is a false statement — or a knowing omission that allows a false impression to stand — made without honest engagement with accessible truth. It encompasses three failures: deliberate deception, self-deception, and negligent disregard for what could have been known. The speaker had both the capacity and the contextual obligation to know better.
+
 ## Systems and Coordination
 
 - Meditations on Moloch
